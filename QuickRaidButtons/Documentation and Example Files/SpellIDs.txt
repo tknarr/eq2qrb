@@ -1,0 +1,592 @@
+2031280923,Aegolism
+683699427,Aegolism II
+364581814,Aegolism III
+1584349090,Aegolism IV
+3371009269,Aegolism V
+4057145639,Aegolism VI
+1647039969,Aegolism VII
+2745502241,Aegolism VIII
+2017894776,Altruism
+1127918058,Amends
+1055233082,Amends II
+3824506796,Amends III
+4132404075,Ancestral Avenger
+3541101869,Ancestral Avenger II
+3752016364,Ancestral Avenger III
+1711748269,Ancestral Avenger IV
+56627179,Ancestral Avenger V
+1201946921,Ancestral Balm
+3537042667,Ancestral Balm II
+340840254,Ancestral Balm III
+740637785,Ancestral Savior
+2012002808,Ancestral Savior II
+3807319112,Ancestral Savior III
+3895182824,Ancestral Savior IV
+1070155184,Ancestral Savior V
+1804412850,Ancestral Ward
+827722767,Ancestral Ward II
+3356446724,Ancestral Ward III
+4145349802,Ancestral Ward IV
+3396252746,Ancestral Ward V
+3604463143,Ancestral Ward VI
+1663775277,Ancestral Ward VII
+4270332227,Ancestral Ward VIII
+753499921,Ancient Shroud II
+2492058635,Ancient Shroud III
+1566069660,Ancient Shroud IV
+1352085168,Ancient Shroud V
+279943205,Ancient Shroud VI
+632641928,Ancient Shroud VII
+3812059741,Ancient Shroud VIII
+4191452681,Apply Poison
+2829320935,Apply Poison II
+3837053096,Apply Poison III
+1565463360,Apply Poison IV
+816148431,Arch Heal
+2013857554,Aspect of the Forest
+212768170,Aspect of the Forest II
+77653062,Aspect of the Forest III
+59665586,Aspect of the Forest IV
+4221668459,Aspect of the Forest V
+4085393302,Aspect of the Forest VI
+2239953950,Aspect of the Forest VII
+519116490,Aspect of the Forest VIII
+3225276758,Back into the Fray
+598732465,Back into the Fray II
+2720147849,Back into the Fray III
+1039706647,Back into the Fray IV
+1039988071,Battle's Reprieve
+3332700454,Beg for Mercy
+2911860733,Beg for Mercy II
+2558517702,Beg for Mercy III
+2744273247,Beg for Mercy IV
+3484670453,Bolster
+789042833,Boon of the Damned
+3463782684,Boon of the Damned II
+3788180172,Boon of the Damned III
+3394582416,Boon of the Damned IV
+957759862,Boon of the Damned V
+3545517484,Boon of the Damned VI
+1284427314,Boon of the Damned VII
+1027448741,Brutality
+2843307860,Brutality II
+3496057053,Brutality III
+554501377,Brutality IV
+3932984657,Brutality V
+1289996500,Brutality VI
+2831752605,Brutality VII
+1688191333,Call of the Hero
+1985600764,Carrion Warding
+2005639101,Carrion Warding II
+4240187952,Carrion Warding III
+3053982195,Carrion Warding IV
+3659670798,Carrion Warding V
+1788593003,Carrion Warding VI
+2632214275,Carrion Warding VII
+1953089559,Channel
+3471533037,Channel II
+2177252207,Channeled Focus
+3659424627,Chilling Invigoration
+3426657644,Coercive Healing
+3491920474,Coercive Shout
+3601331586,Confront Fear
+2837552003,Converge
+2977123919,Converge II
+1910286257,Converge III
+2985618841,Converge IV
+4056697510,Converge V
+1647623776,Converge VI
+2746900896,Converge VII
+363447997,Conversion of the Soul
+1852049104,Dark Heart
+4055243208,Deathward
+1779652007,Deathward II
+2029186056,Demonstration of Faith
+4070937418,Demonstration of Faith II
+2868612197,Demonstration of Faith III
+1402585519,Demonstration of Faith IV
+1698381326,Demonstration of Faith V
+3305085423,Demonstration of Faith VI
+2069985831,Demonstration of Faith VII
+3498931225,Destructive Mind
+3915512446,Destructive Mind II
+2405249683,Destructive Mind III
+2610662413,Destructive Mind IV
+84402331,Destructive Mind V
+1642634865,Destructive Mind VI
+777149751,Devious Evasion
+2504110877,Devious Evasion II
+967155755,Devious Evasion III
+2392447075,Devious Evasion IV
+1455620557,Dire Balm
+45204546,Dire Balm II
+989024464,Dire Balm III
+3384996850,Dire Balm IV
+544260202,Dire Balm IX
+4156312428,Dire Balm V
+3173001762,Dire Balm VI
+633707383,Dire Balm VII
+1390698267,Dire Balm VIII
+3151334405,Dire Balm X
+1556556987,Doppleganger
+3845977939,Doppleganger II
+2936879794,Eidolic Ward
+1033316620,Elegy at Death's Door
+3390154729,Elegy of Awakening
+2024910418,Elixir of Resuscitation
+2602290947,Energizing Ballad
+903813412,Enraging Demeanor
+648026222,Enraging Demeanor II
+595442236,Enraging Demeanor III
+2493734826,Fanatical Healing
+1236046508,Fanatical Healing II
+1666305466,Fanatical Healing III
+4004566745,Fanatical Healing IV
+745790527,Fanatical Healing IX
+900403021,Fanatical Healing V
+4089064119,Fanatical Healing VI
+4124612351,Fanatical Healing VII
+1226106745,Fanatical Healing VIII
+4058495140,Feral Tenacity
+115125876,Feral Tenacity II
+1675846636,Feral Tenacity III
+4240163028,Feral Tenacity IV
+1076629809,Feral Tenacity V
+363638977,Fire Seed
+895367827,Fire Seed II
+1600602994,Fire Seed III
+710768599,Fire Seed IV
+274641691,Fire Seed V
+3842085846,Fire Seed VI
+2384202484,Flameshield
+932738302,Flameshield II
+3604369406,Flameshield III
+3419662531,Flameshield IV
+3832402452,Flameshield V
+4285749358,Flameshield VI
+1896571032,Focus Aim
+3093200593,Focus Aim II
+773886649,Focus Aim III
+3684663834,Focus Aim IV
+302740829,Focused Intervention
+1361727513,Focused Intervention II
+392909682,Focused Intervention III
+2350430630,Focused Intervention IV
+995090721,Glory
+346113134,Glory II
+3682754666,Glory III
+44200646,Glory IV
+3456660056,Glory V
+1084797273,Grasp of Bertoxxulous
+3222678259,Grasp of Bertoxxulous II
+3907212079,Grasp of Bertoxxulous III
+4117480559,Grasp of Bertoxxulous IV
+3908830069,Grasp of Bertoxxulous V
+3026927233,Grasp of Bertoxxulous VI
+1467888968,Grasp of Bertoxxulous VII
+3677033782,Gravitas
+2191465295,Harbinger
+810531409,Harbinger II
+1524360537,Harbinger III
+4041756661,Harbinger IV
+2214521807,Harbinger V
+248310279,Harbinger VI
+2914404066,Harbinger VII
+907217549,Harbinger VIII
+3124080057,Hierophantic Genesis
+107280614,Hierophantic Genesis II
+4259559649,Hierophantic Genesis III
+2124305548,Hierophantic Genesis IV
+3063029855,Holy Aid
+1838859133,Holy Aid II
+2061621054,Holy Aid III
+2431844110,Holy Aid IV
+845213229,Holy Aid V
+3420581820,Holy Aid VI
+1478040442,Holy Aid VII
+2106273833,Holy Salvation
+204882841,Holy Salvation II
+1343463176,Holy Salvation III
+885758392,Holy Salvation IV
+3010286331,Holy Salvation V
+3655255681,Honed Reflexes
+1493973664,Hyran's Seething Sonata
+3178655042,Hyran's Seething Sonata II
+1773512360,Hyran's Seething Sonata III
+706097448,Iceshield
+3438753180,Iceshield II
+719577128,Iceshield III
+4202698666,Iceshield IV
+2842470836,Iceshield V
+1272806773,Iceshield VI
+296364590,Illusory Arm
+3033583038,Intercept
+1768432098,Intercept II
+101378472,Intercept III
+2991120526,Jester's Cap
+497000173,Killing Instinct
+220170012,Killing Instinct II
+182657177,Killing Instinct III
+386796067,Lay on Hands
+544197128,Lay on Hands II
+2861630187,Lay on Hands III
+2836355417,Lay on Hands IV
+164107332,Lay on Hands V
+120310698,Lay on Hands VI
+2250876335,Lucidity
+3865807799,Lucidity II
+533018687,Lucidity III
+604960661,Lucidity IV
+1107677782,Lucidity V
+114622175,Lucidity VI
+2502691353,Lucidity VII
+1419957721,Lucidity VIII
+2324198425,Mana Cloak
+3289732337,Mana Cloak II
+2110871988,Mana Cloak III
+1850208453,Mana Cloak IV
+3016829248,Mana Cloak V
+1945409072,Mana Flow
+1124179970,Mana Intromission
+3407821414,Mana Intromission II
+1946853459,Mana Intromission III
+4218383220,Mana Intromission IV
+2280659797,Mana Intromission V
+3801554963,Mana Intromission VI
+3098198600,Mana Trickle
+22146178,Mana Trickle II
+4227623449,Mana Trickle III
+3949474075,Mana Trickle IV
+3219190406,Mana Trickle V
+102443374,Mana Trickle VI
+784965358,Manaward
+4116243794,Meliorate
+4105544774,Meliorate II
+882183196,Meliorate III
+1530301492,Meliorate IV
+86325846,Meliorate IX
+3822996630,Meliorate V
+117904398,Meliorate VI
+748855261,Meliorate VII
+2008130855,Meliorate VIII
+2659219001,Meliorate X
+3242124289,Mend
+721957876,Mend II
+112342185,Mend III
+80636041,Mend IV
+934078257,Mend V
+759839429,Ministration
+2766199209,Ministration II
+467053480,Ministration III
+2395571978,Ministration IV
+3749354901,Ministration IX
+966134467,Ministration V
+2750594157,Ministration VI
+1834882570,Ministration VII
+2347916808,Ministration VIII
+1719748221,Ministration X
+2827549737,Moderate
+2674432464,Moderate II
+2615846370,Moderate III
+1339121559,Moderate IV
+3853171077,Mortal Embrace
+1678827880,Mortal Embrace II
+2730632393,Mortal Embrace III
+2130014620,Mortal Embrace IV
+1939112048,Murderous Design
+4115775947,Murderous Design II
+3598453043,Murderous Design III
+705062542,Murderous Design IV
+1978430617,Nature's Elixir
+2693769062,Nature's Elixir II
+880694377,Nature's Elixir III
+1302573832,Nature's Elixir IV
+1728602909,Nature's Elixir IX
+2443722274,Nature's Elixir V
+2286085178,Nature's Elixir VI
+3584665359,Nature's Elixir VII
+3769542750,Nature's Elixir VIII
+1229655748,Nature's Embrace
+934663489,Nature's Embrace II
+3709094785,Nature's Embrace III
+1510183539,Nature's Embrace IV
+4117441602,Nature's Embrace IX
+2674414587,Nature's Embrace V
+807066005,Nature's Embrace VI
+2977442704,Nature's Embrace VII
+439982755,Nature's Embrace VIII
+974014601,Nature's Renewal
+4237648378,Nature's Renewal II
+924928466,Nature's Renewal III
+1559652041,Nature's Renewal IV
+3013922856,Nature's Renewal V
+1790945610,Nature's Salve
+8141107,Nature's Salve II
+1622671014,Nature's Salve III
+3124574221,Nature's Salve IV
+1609820248,Nature's Salve IX
+2796412562,Nature's Salve V
+2589372575,Nature's Salve VI
+4100820878,Nature's Salve VII
+2027130211,Nature's Salve VIII
+4053498313,Nature's Salve X
+2193493462,Never Surrender
+3834770023,Never Surrender II
+4168865724,Never Surrender III
+2982903136,Never Surrender IV
+1719185754,Oberon
+1752859071,Oberon II
+1581693773,Oberon III
+2553630001,Oberon IV
+847451313,Oration of Sacrifice
+1492846922,Oration of Sacrifice II
+3867707565,Oration of Sacrifice III
+1534297879,Peaceful Link
+3205091573,Peaceful Link II
+4189551492,Peaceful Link III
+685417323,Peaceful Link IV
+2788213841,Peaceful Link V
+140006848,Peaceful Link VI
+2739911483,Penance
+555361766,Penance II
+2453909181,Penance III
+872144021,Penance IV
+1287978567,Penance V
+2126014885,Penance VI
+998195682,Penance VII
+3396606575,Penance VIII
+3535108715,Percussion of Stone
+1634151210,Photosynthesis
+1002176663,Photosynthesis II
+1309925,Photosynthesis III
+2957438681,Photosynthesis IV
+1623618216,Photosynthesis V
+1300426726,Photosynthesis VI
+853550606,Photosynthesis VII
+4100068827,Photosynthesis VIII
+3723927387,Pledge of Armament
+2777745996,Pledge of Armament II
+3076231194,Pledge of Armament III
+822230951,Pledge of Armament IV
+2989323403,Pledge of Armament V
+3469087178,Pledge of Armament VI
+1360826964,Pledge of Armament VII
+1457820023,Porcupine
+1745480399,Porcupine II
+977223010,Porcupine III
+1019141819,Porcupine IV
+64748398,Premonition
+3056957686,Premonition II
+444278822,Premonition III
+2057500355,Premonition IV
+1663008317,Premonition V
+99462521,Premonition VI
+1400445327,Premonition VII
+3463903481,Premonition VIII
+3371933150,Primeval Awakening
+2059458919,Radiance
+1477218420,Rapidity
+9117198,Rapidity II
+3081359513,Rapidity III
+1811382865,Rapidity IV
+2229994418,Reckless Aide
+759160778,Reckless Aide II
+4268098652,Reckless Aide III
+761844627,Reckless Aide IV
+1252901005,Redemption
+2773745123,Redemption II
+2611307269,Redemption III
+1007543134,Redemption IV
+1479991338,Redemption V
+3341174343,Regrowth
+1069989296,Regrowth II
+3150960155,Regrowth III
+791522586,Regrowth IV
+3643277861,Regrowth V
+2624085369,Regrowth VI
+2460326851,Regrowth VII
+2873747467,Regrowth VIII
+3274438181,Rejuvenation
+3408448735,Rejuvenation II
+2232343269,Rejuvenation III
+3145543790,Rejuvenation IV
+1305079326,Rejuvenation IX
+2490559713,Rejuvenation V
+916924469,Rejuvenation VI
+3537124650,Rejuvenation VII
+423701891,Rejuvenation VIII
+4096931318,Rejuvenation X
+812510470,Repent
+655817029,Repent II
+4071715749,Resolute Faith
+591564459,Resolute Faith II
+2988348820,Resolute Faith III
+1119521305,Resolute Faith IV
+4128489925,Restoration
+3993156297,Restoration II
+3375721743,Restoration III
+3340399949,Restoration IV
+1057106300,Restoration IX
+2536189314,Restoration V
+1668131513,Restoration VI
+3553854409,Restoration VII
+2718812170,Restoration VIII
+2202530924,Resurrect
+3329267101,Reverence
+403740096,Revivication
+2385577370,Ritual Healing
+1980933536,Ritual Healing II
+4120970950,Ritual Healing III
+4160279742,Ritual Healing IV
+2665512940,Ritual Healing IX
+1678922074,Ritual Healing V
+742510228,Ritual Healing VI
+3754198906,Ritual Healing VII
+424064175,Ritual Healing VIII
+1152953154,Ro's Blade
+2335795735,Ro's Blade II
+169417704,Ro's Blade III
+3493415812,Ro's Blade IV
+1277302037,Ro's Blade V
+2749142665,Ro's Blade VI
+3511159288,Ro's Blade VII
+3623335613,Sacrifice
+589856008,Sacrificial Restoration
+3547336263,Sacrificial Restoration II
+2609951372,Sacrificial Restoration III
+1817814869,Sacrificial Restoration IV
+51554718,Sacrificial Restoration IX
+3291929854,Sacrificial Restoration V
+4222340933,Sacrificial Restoration VI
+1776638355,Sacrificial Restoration VII
+3826192137,Sacrificial Restoration VIII
+459388837,Sentinel II
+394791571,Sentinel III
+2646868696,Sentinel IV
+237735835,Sever Hate
+3814592930,Shard of Essence
+285176763,Shoulder the Burden
+4293827309,Shroud of Bertoxxulous
+4130221467,Shroud of Bertoxxulous II
+87067240,Shroud of Bertoxxulous III
+542411599,Shroud of Bertoxxulous IV
+2063222378,Shroud of Bertoxxulous V
+2560698741,Shroud of Bertoxxulous VI
+699446630,Shrug Off
+44714223,Shrug Off II
+1767335325,Shrug Off III
+2029225881,Shrug Off IV
+1009471530,Signet of Intellect
+602613284,Signet of Intellect II
+1389421614,Signet of Intellect III
+341745051,Signet of Intellect IV
+1117595484,Signet of Intellect V
+375405750,Signet of Intellect VI
+3405391094,Signet of Intellect VII
+2737608260,Sleight of Hand
+1283334309,Sleight of Hand II
+982097426,Soak Hit
+1073502077,Sonic Barrier
+1432010721,Spellshield
+1698192591,Spirit of the Bat
+144021401,Spirit of the Bat II
+589856662,Spirit of the Bat III
+3189951061,Spirit of the Bat IV
+3678794003,Spirit of the Bat V
+133282909,Supplication of the Fallen
+4277398471,Swarthy Deception
+1982111103,Swarthy Deception II
+4076332660,Swarthy Deception III
+1064363633,Swarthy Deception IV
+972042084,Sylvan Bloom
+1205207997,Sylvan Bloom II
+1317653653,Sylvan Bloom III
+2689295207,Sylvan Bloom IV
+575841634,Sylvan Bloom IX
+1555095324,Sylvan Bloom V
+2994512655,Sylvan Bloom VI
+2046615093,Sylvan Bloom VII
+1994024703,Sylvan Bloom VIII
+2611576458,Sylvan Bloom X
+1615517329,Sylvan Touch
+2005616945,Synergism
+2337256011,Synergism II
+4158816328,Synergism III
+3073128528,Synergism IV
+4133918997,Synergism V
+1841550714,Synergism VI
+745921444,Tenacity
+4234438373,Tenacity II
+3002372253,Tenacity III
+2486721636,Tenacity IV
+1546906825,Tenacity V
+1487590821,Tenacity VI
+3411157347,Tenacity VII
+182255267,Tenacity VIII
+3258249298,Thieves Guild
+2368970071,Thorncoat
+1281318966,Thorncoat II
+4045512752,Thorncoat III
+2986280772,Thorncoat IV
+3651018817,Thorncoat V
+3846148380,Thorncoat VI
+119122066,Thorncoat VII
+912690669,Thorncoat VIII
+2061537244,Thornskin
+2192321105,Thornskin II
+1549013162,Thornskin III
+3619305200,Thornskin IV
+652266626,Thornskin V
+1250749548,Thornskin VI
+912890459,Thornskin VII
+3373818158,Thornskin VIII
+2304840099,Time Compression
+3020295062,Time Warp
+902524875,Torpor
+2039140121,Torpor II
+2258735073,Torpor III
+2447023010,Torpor IV
+2421103160,Touch of Empathy
+544354214,Tranquil Vision
+3579756463,Tranquil Vision II
+708077976,Tranquil Vision III
+238703741,Tranquil Vision IV
+1325608915,Tranquility
+1059038020,Tranquility II
+3283360301,Tranquility III
+3450843944,Transfer Life
+1042106285,Transfer Life II
+214045967,Transfer Life III
+1244024435,Transfer Life IV
+487128566,Transfer Life V
+3009440871,Transfer Life VI
+1693136731,Unholy Blessing
+2829832338,Unholy Blessing II
+199101013,Unholy Blessing III
+750326434,Unholy Blessing IV
+4009986594,Unholy Blessing V
+4057210147,Unholy Blessing VI
+1989277570,Unholy Blessing VII
+2079430997,Upbeat Tempo
+4248972491,Vampirism
+1726439588,Vampirism II
+3216920474,Velocity
+3149463382,Velocity II
+1782122432,Velocity III
+435131742,Velocity IV
+153147335,Vital Intercession
+995249343,Vital Intercession II
+1899956381,Vital Intercession III
+2205405453,Vital Intercession IV
+125769492,Vital Intercession V
+236122270,Vital Intercession VI
+2819125823,Vital Intercession VII
+3827170577,Vital Intercession VIII
+758673695,Vivication
+3933688258,Wild Accretion
+898287052,Wild Accretion II
+2933625426,Wild Accretion III
+2780797537,Wild Accretion IV
+1559312784,Wild Accretion V
+824204141,Wild Accretion VI
+3062272046,Wild Accretion VII

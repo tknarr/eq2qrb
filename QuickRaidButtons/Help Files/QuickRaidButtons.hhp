@@ -1,0 +1,43 @@
+[OPTIONS]
+Auto Index=Yes
+Auto TOC=9
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=QuickRaidButtons.chm
+Contents file=Table of Contents.hhc
+Default Font=Trebuchet MS,10,1
+Default Window=Normal
+Default topic=Overview.htm
+Display compile progress=No
+Flat=Yes
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=Quick Raid Buttons
+
+[WINDOWS]
+Normal=,"Table of Contents.hhc","Index.hhk","Overview.htm",,,,,,0x42120,,0x3006,[0,0,900,600],,,,,,,0
+
+
+[FILES]
+Overview.htm
+ButtonAssignment.htm
+SpellLines.htm
+GenerateUICode.htm
+TechnicalDetails.htm
+
+[ALIAS]
+IDH_ButtonAssignment=ButtonAssignment.htm
+IDH_GenerateUICode=GenerateUICode.htm
+IDH_Overview=Overview.htm
+IDH_SpellLines=SpellLines.htm
+IDH_TechnicalDetails=TechnicalDetails.htm
+
+[MAP]
+#define IDH_ButtonAssignment 1001
+#define IDH_GenerateUICode 1003
+#define IDH_Overview 1000
+#define IDH_SpellLines 1002
+#define IDH_TechnicalDetails 1004
+
+[INFOTYPES]
+

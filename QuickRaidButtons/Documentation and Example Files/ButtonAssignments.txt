@@ -1,0 +1,102 @@
+Assassin,1,Murderous Design
+Assassin,2,Apply Poison
+Assassin,3,Heart/Shard request
+Assassin,5,Assist
+Beastlord,5,Assist
+Berserker,1,Intercept
+Berserker,2,Reckless Aide
+Berserker,3,Heart/Shard request
+Brigand,1,Beg for Mercy
+Brigand,2,Assist
+Brigand,3,Heart/Shard request
+Bruiser,1,Shrug Off
+Bruiser,2,Intercept
+Bruiser,3,Heart/Shard request
+Channeler,5,Assist
+Coercer,1,Mana Flow
+Coercer,2,Sever Hate
+Coercer,3,Touch of Empathy
+Coercer,4,Channeled Focus
+Coercer,5,Coercive Shout
+Conjuror,1,Shard of Essence
+Conjuror,2,Fire Seed
+Conjuror,3,Assist
+Conjuror,4,Flameshield
+Conjuror,5,Heart/Shard request
+Defiler,1,Ancient Shroud
+Defiler,2,Dire Balm
+Defiler,3,Sacrificial Restoration
+Defiler,4,Deathward
+Defiler,5,Vivication
+Dirge,1,Elegy at Death's Door
+Dirge,2,Elegy of Awakening
+Dirge,3,Oration of Sacrifice
+Dirge,4,Gravitas
+Dirge,5,Heart/Shard request
+Fury,1,Regrowth
+Fury,2,Nature's Elixir
+Fury,3,Back into the Fray
+Fury,4,Nature's Salve
+Fury,5,Primeval Awakening
+Guardian,1,Intercept
+Guardian,2,Assist
+Guardian,3,Heart/Shard request
+Illusionist,1,Mana Flow
+Illusionist,2,Synergism
+Illusionist,3,Touch of Empathy
+Illusionist,5,Heart/Shard request
+Inquisitor,1,Penance
+Inquisitor,2,Ministration
+Inquisitor,3,Fanatical Healing
+Inquisitor,4,Redemption
+Inquisitor,5,Conversion of the Soul
+Monk,1,Mend
+Monk,2,Intercept
+Monk,3,Assist
+Mystic,1,Ancestral Ward
+Mystic,2,Rejuvenation
+Mystic,3,Ritual Healing
+Mystic,4,Torpor
+Mystic,5,Bolster
+Necromancer,1,Dark Heart
+Necromancer,2,Transfer Life
+Necromancer,3,Revivication
+Necromancer,4,Vampirism
+Necromancer,5,Heart/Shard request
+Paladin,1,Holy Aid
+Paladin,2,Demonstration of Faith
+Paladin,3,Elixir of Resuscitation
+Paladin,5,Intercept
+Ranger,1,Killing Instinct
+Ranger,2,Honed Reflexes
+Ranger,3,Focus Aim
+Shadowknight,1,Unholy Blessing
+Shadowknight,2,Intercept
+Shadowknight,3,Mortal Embrace
+Swashbuckler,1,Assist
+Swashbuckler,2,Swarthy Deception
+Swashbuckler,3,Heart/Shard request
+Swashbuckler,4,Sleight of Hand
+Templar,1,Meliorate
+Templar,2,Restoration
+Templar,3,Vital Intercession
+Templar,4,Reverence
+Templar,5,Resurrect
+Troubador,1,Jester's Cap
+Troubador,2,Assist
+Troubador,3,Heart/Shard request
+Warden,1,Sylvan Bloom
+Warden,2,Nature's Embrace
+Warden,3,Photosynthesis
+Warden,4,Nature's Renewal
+Warden,5,Hierophantic Genesis
+Warlock,1,Mana Trickle
+Warlock,2,Boon of the Damned
+Warlock,3,Shroud of Bertoxxulous
+Warlock,4,Grasp of Bertoxxulous
+Warlock,5,Heart/Shard request
+Wizard,1,Iceshield
+Wizard,2,Mana Intromission
+Wizard,3,Heart/Shard request
+Wizard,4,Converge
+Wizard,5,Ro's Blade

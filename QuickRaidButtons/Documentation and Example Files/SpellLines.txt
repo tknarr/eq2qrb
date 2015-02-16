@@ -1,0 +1,633 @@
+*,Assist,,0,,assist %T
+*,Heart/Shard request,,0,,tell %T Heart/Shard please
+Assassin,Apply Poison,,52,4191452681,Apply Poison
+Assassin,Apply Poison,,72,2829320935,Apply Poison II
+Assassin,Apply Poison,,82,3837053096,Apply Poison III
+Assassin,Apply Poison,,92,1565463360,Apply Poison IV
+Assassin,Murderous Design,,11,1939112048,Murderous Design
+Assassin,Murderous Design,,25,4115775947,Murderous Design II
+Assassin,Murderous Design,,39,3598453043,Murderous Design III
+Assassin,Murderous Design,,53,705062542,Murderous Design IV
+Berserker,Intercept,,6,3033583038,Intercept
+Berserker,Intercept,,20,1768432098,Intercept II
+Berserker,Intercept,,34,101378472,Intercept III
+Berserker,Reckless Aide,,21,2229994418,Reckless Aide
+Berserker,Reckless Aide,,32,759160778,Reckless Aide II
+Berserker,Reckless Aide,,46,4268098652,Reckless Aide III
+Berserker,Reckless Aide,,60,761844627,Reckless Aide IV
+Brigand,Beg for Mercy,,26,3332700454,Beg for Mercy
+Brigand,Beg for Mercy,,40,2911860733,Beg for Mercy II
+Brigand,Beg for Mercy,,54,2558517702,Beg for Mercy III
+Brigand,Beg for Mercy,,68,2744273247,Beg for Mercy IV
+Brigand,Thieves Guild,,80,3258249298,Thieves Guild
+Bruiser,Brutality,,9,1027448741,Brutality
+Bruiser,Brutality,,23,2843307860,Brutality II
+Bruiser,Brutality,,37,3496057053,Brutality III
+Bruiser,Brutality,,51,554501377,Brutality IV
+Bruiser,Brutality,,65,3932984657,Brutality V
+Bruiser,Brutality,,76,1289996500,Brutality VI
+Bruiser,Brutality,,86,2831752605,Brutality VII
+Bruiser,Intercept,,6,3033583038,Intercept
+Bruiser,Intercept,,20,1768432098,Intercept II
+Bruiser,Intercept,,34,101378472,Intercept III
+Bruiser,Shrug Off,,21,699446630,Shrug Off
+Bruiser,Shrug Off,,32,44714223,Shrug Off II
+Bruiser,Shrug Off,,46,1767335325,Shrug Off III
+Bruiser,Shrug Off,,60,2029225881,Shrug Off IV
+Bruiser,Soak Hit,,10,982097426,Soak Hit
+Coercer,Channel,,58,1953089559,Channel
+Coercer,Channel,,76,3471533037,Channel II
+Coercer,Channeled Focus,,10,2177252207,Channeled Focus
+Coercer,Coercive Healing,,10,3426657644,Coercive Healing
+Coercer,Coercive Shout,,10,3491920474,Coercive Shout
+Coercer,Destructive Mind,,28,3498931225,Destructive Mind
+Coercer,Destructive Mind,,42,3915512446,Destructive Mind II
+Coercer,Destructive Mind,,56,2405249683,Destructive Mind III
+Coercer,Destructive Mind,,70,2610662413,Destructive Mind IV
+Coercer,Destructive Mind,,80,84402331,Destructive Mind V
+Coercer,Destructive Mind,,90,1642634865,Destructive Mind VI
+Coercer,Enraging Demeanor,,24,903813412,Enraging Demeanor
+Coercer,Enraging Demeanor,,38,648026222,Enraging Demeanor II
+Coercer,Enraging Demeanor,,52,595442236,Enraging Demeanor III
+Coercer,Mana Cloak,,35,2324198425,Mana Cloak
+Coercer,Mana Cloak,,53,3289732337,Mana Cloak II
+Coercer,Mana Cloak,,71,2110871988,Mana Cloak III
+Coercer,Mana Cloak,,81,1850208453,Mana Cloak IV
+Coercer,Mana Cloak,,91,3016829248,Mana Cloak V
+Coercer,Mana Flow,,10,1945409072,Mana Flow
+Coercer,Manaward,,10,784965358,Manaward
+Coercer,Peaceful Link,,35,1534297879,Peaceful Link
+Coercer,Peaceful Link,,49,3205091573,Peaceful Link II
+Coercer,Peaceful Link,,63,4189551492,Peaceful Link III
+Coercer,Peaceful Link,,75,685417323,Peaceful Link IV
+Coercer,Peaceful Link,,85,2788213841,Peaceful Link V
+Coercer,Peaceful Link,,95,140006848,Peaceful Link VI
+Coercer,Sever Hate,,10,237735835,Sever Hate
+Coercer,Signet of Intellect,,12,1009471530,Signet of Intellect
+Coercer,Signet of Intellect,,26,602613284,Signet of Intellect II
+Coercer,Signet of Intellect,,40,1389421614,Signet of Intellect III
+Coercer,Signet of Intellect,,54,341745051,Signet of Intellect IV
+Coercer,Signet of Intellect,,68,1117595484,Signet of Intellect V
+Coercer,Signet of Intellect,,79,375405750,Signet of Intellect VI
+Coercer,Signet of Intellect,,89,3405391094,Signet of Intellect VII
+Coercer,Touch of Empathy,,10,2421103160,Touch of Empathy
+Coercer,Velocity,,20,3216920474,Velocity
+Coercer,Velocity,,34,3149463382,Velocity II
+Coercer,Velocity,,48,1782122432,Velocity III
+Coercer,Velocity,,62,435131742,Velocity IV
+Conjuror,Call of the Hero,,52,1688191333,Call of the Hero
+Conjuror,Fire Seed,,23,363638977,Fire Seed
+Conjuror,Fire Seed,,37,895367827,Fire Seed II
+Conjuror,Fire Seed,,51,1600602994,Fire Seed III
+Conjuror,Fire Seed,,65,710768599,Fire Seed IV
+Conjuror,Fire Seed,,77,274641691,Fire Seed V
+Conjuror,Fire Seed,,87,3842085846,Fire Seed VI
+Conjuror,Flameshield,,20,2384202484,Flameshield
+Conjuror,Flameshield,,35,932738302,Flameshield II
+Conjuror,Flameshield,,50,3604369406,Flameshield III
+Conjuror,Flameshield,,64,3419662531,Flameshield IV
+Conjuror,Flameshield,,76,3832402452,Flameshield V
+Conjuror,Flameshield,,86,4285749358,Flameshield VI
+Conjuror,Shard of Essence,,18,3814592930,Shard of Essence
+Defiler,Ancestral Avenger,,41,4132404075,Ancestral Avenger
+Defiler,Ancestral Avenger,,55,3541101869,Ancestral Avenger II
+Defiler,Ancestral Avenger,,69,3752016364,Ancestral Avenger III
+Defiler,Ancestral Avenger,,80,1711748269,Ancestral Avenger IV
+Defiler,Ancestral Avenger,,90,56627179,Ancestral Avenger V
+Defiler,Ancient Shroud,,12,2819125823,Ancient Shroud
+Defiler,Ancient Shroud,,19,753499921,Ancient Shroud II
+Defiler,Ancient Shroud,,26,2492058635,Ancient Shroud III
+Defiler,Ancient Shroud,,40,1566069660,Ancient Shroud IV
+Defiler,Ancient Shroud,,54,1352085168,Ancient Shroud V
+Defiler,Ancient Shroud,,68,279943205,Ancient Shroud VI
+Defiler,Ancient Shroud,,78,632641928,Ancient Shroud VII
+Defiler,Ancient Shroud,,88,3812059741,Ancient Shroud VIII
+Defiler,Carrion Warding,,14,1985600764,Carrion Warding
+Defiler,Carrion Warding,,28,2005639101,Carrion Warding II
+Defiler,Carrion Warding,,42,4240187952,Carrion Warding III
+Defiler,Carrion Warding,,56,3053982195,Carrion Warding IV
+Defiler,Carrion Warding,,70,3659670798,Carrion Warding V
+Defiler,Carrion Warding,,79,1788593003,Carrion Warding VI
+Defiler,Carrion Warding,,89,2632214275,Carrion Warding VII
+Defiler,Deathward,,80,4055243208,Deathward
+Defiler,Deathward,,90,1779652007,Deathward II
+Defiler,Dire Balm,,1,1455620557,Dire Balm
+Defiler,Dire Balm,,7,45204546,Dire Balm II
+Defiler,Dire Balm,,15,989024464,Dire Balm III
+Defiler,Dire Balm,,22,3384996850,Dire Balm IV
+Defiler,Dire Balm,,29,4156312428,Dire Balm V
+Defiler,Dire Balm,,43,3173001762,Dire Balm VI
+Defiler,Dire Balm,,57,633707383,Dire Balm VII
+Defiler,Dire Balm,,71,1390698267,Dire Balm VIII
+Defiler,Dire Balm,,81,544260202,Dire Balm IX
+Defiler,Dire Balm,,91,3151334405,Dire Balm X
+Defiler,Harbinger,,4,2191465295,Harbinger
+Defiler,Harbinger,,16,810531409,Harbinger II
+Defiler,Harbinger,,30,1524360537,Harbinger III
+Defiler,Harbinger,,44,4041756661,Harbinger IV
+Defiler,Harbinger,,58,2214521807,Harbinger V
+Defiler,Harbinger,,72,248310279,Harbinger VI
+Defiler,Harbinger,,82,2914404066,Harbinger VII
+Defiler,Harbinger,,92,907217549,Harbinger VIII
+Defiler,Sacrificial Restoration,,3,589856008,Sacrificial Restoration
+Defiler,Sacrificial Restoration,,10,3547336263,Sacrificial Restoration II
+Defiler,Sacrificial Restoration,,18,2609951372,Sacrificial Restoration III
+Defiler,Sacrificial Restoration,,32,1817814869,Sacrificial Restoration IV
+Defiler,Sacrificial Restoration,,46,3291929854,Sacrificial Restoration V
+Defiler,Sacrificial Restoration,,60,4222340933,Sacrificial Restoration VI
+Defiler,Sacrificial Restoration,,73,1776638355,Sacrificial Restoration VII
+Defiler,Sacrificial Restoration,,83,3826192137,Sacrificial Restoration VIII
+Defiler,Sacrificial Restoration,,93,51554718,Sacrificial Restoration IX
+Defiler,Supplication of the Fallen,,10,133282909,Supplication of the Fallen
+Defiler,Vivication,,50,758673695,Vivication
+Defiler,Wild Accretion,,14,3933688258,Wild Accretion
+Defiler,Wild Accretion,,28,898287052,Wild Accretion II
+Defiler,Wild Accretion,,42,2933625426,Wild Accretion III
+Defiler,Wild Accretion,,56,2780797537,Wild Accretion IV
+Defiler,Wild Accretion,,70,1559312784,Wild Accretion V
+Defiler,Wild Accretion,,80,824204141,Wild Accretion VI
+Defiler,Wild Accretion,,90,3062272046,Wild Accretion VII
+Dirge,Confront Fear,,10,3601331586,Confront Fear
+Dirge,Elegy at Death's Door,,44,1033316620,Elegy at Death's Door
+Dirge,Elegy of Awakening,,58,3390154729,Elegy of Awakening
+Dirge,Gravitas,,80,3677033782,Gravitas
+Dirge,Hyran's Seething Sonata,,32,1493973664,Hyran's Seething Sonata
+Dirge,Hyran's Seething Sonata,,46,3178655042,Hyran's Seething Sonata II
+Dirge,Hyran's Seething Sonata,,60,1773512360,Hyran's Seething Sonata III
+Dirge,Oration of Sacrifice,,65,847451313,Oration of Sacrifice
+Dirge,Oration of Sacrifice,,78,1492846922,Oration of Sacrifice II
+Dirge,Oration of Sacrifice,,86,3867707565,Oration of Sacrifice III
+Dirge,Percussion of Stone,,52,3535108715,Percussion of Stone
+Dirge,Sonic Barrier,,10,1073502077,Sonic Barrier
+Fury,Back into the Fray,,52,3225276758,Back into the Fray
+Fury,Back into the Fray,,72,598732465,Back into the Fray II
+Fury,Back into the Fray,,82,2720147849,Back into the Fray III
+Fury,Back into the Fray,,92,1039706647,Back into the Fray IV
+Fury,Feral Tenacity,,41,4058495140,Feral Tenacity
+Fury,Feral Tenacity,,55,115125876,Feral Tenacity II
+Fury,Feral Tenacity,,69,1675846636,Feral Tenacity III
+Fury,Feral Tenacity,,80,4240163028,Feral Tenacity IV
+Fury,Feral Tenacity,,90,1076629809,Feral Tenacity V
+Fury,Lucidity,,4,2250876335,Lucidity
+Fury,Lucidity,,16,3865807799,Lucidity II
+Fury,Lucidity,,30,533018687,Lucidity III
+Fury,Lucidity,,44,604960661,Lucidity IV
+Fury,Lucidity,,58,1107677782,Lucidity V
+Fury,Lucidity,,72,114622175,Lucidity VI
+Fury,Lucidity,,82,2502691353,Lucidity VII
+Fury,Lucidity,,92,1419957721,Lucidity VIII
+Fury,Nature's Elixir,,3,1978430617,Nature's Elixir
+Fury,Nature's Elixir,,10,2693769062,Nature's Elixir II
+Fury,Nature's Elixir,,18,880694377,Nature's Elixir III
+Fury,Nature's Elixir,,32,1302573832,Nature's Elixir IV
+Fury,Nature's Elixir,,46,2443722274,Nature's Elixir V
+Fury,Nature's Elixir,,60,2286085178,Nature's Elixir VI
+Fury,Nature's Elixir,,73,3584665359,Nature's Elixir VII
+Fury,Nature's Elixir,,83,3769542750,Nature's Elixir VIII
+Fury,Nature's Elixir,,93,1728602909,Nature's Elixir IX
+Fury,Nature's Salve,,1,1790945610,Nature's Salve
+Fury,Nature's Salve,,7,8141107,Nature's Salve II
+Fury,Nature's Salve,,15,1622671014,Nature's Salve III
+Fury,Nature's Salve,,22,3124574221,Nature's Salve IV
+Fury,Nature's Salve,,29,2796412562,Nature's Salve V
+Fury,Nature's Salve,,43,2589372575,Nature's Salve VI
+Fury,Nature's Salve,,57,4100820878,Nature's Salve VII
+Fury,Nature's Salve,,71,2027130211,Nature's Salve VIII
+Fury,Nature's Salve,,81,1609820248,Nature's Salve IX
+Fury,Nature's Salve,,91,4053498313,Nature's Salve X
+Fury,Porcupine,,50,1457820023,Porcupine
+Fury,Porcupine,,70,1745480399,Porcupine II
+Fury,Porcupine,,80,977223010,Porcupine III
+Fury,Porcupine,,90,1019141819,Porcupine IV
+Fury,Primeval Awakening,,50,3371933150,Primeval Awakening
+Fury,Regrowth,,12,3341174343,Regrowth
+Fury,Regrowth,,19,1069989296,Regrowth II
+Fury,Regrowth,,26,3150960155,Regrowth III
+Fury,Regrowth,,40,791522586,Regrowth IV
+Fury,Regrowth,,54,3643277861,Regrowth V
+Fury,Regrowth,,68,2624085369,Regrowth VI
+Fury,Regrowth,,78,2460326851,Regrowth VII
+Fury,Regrowth,,88,2873747467,Regrowth VIII
+Fury,Supplication of the Fallen,,10,133282909,Supplication of the Fallen
+Fury,Sylvan Touch,,15,1615517329,Sylvan Touch
+Fury,Thornskin,,2,2061537244,Thornskin
+Fury,Thornskin,,10,2192321105,Thornskin II
+Fury,Thornskin,,24,1549013162,Thornskin III
+Fury,Thornskin,,38,3619305200,Thornskin IV
+Fury,Thornskin,,52,652266626,Thornskin V
+Fury,Thornskin,,66,1250749548,Thornskin VI
+Fury,Thornskin,,77,912890459,Thornskin VII
+Fury,Thornskin,,87,3373818158,Thornskin VIII
+Guardian,Intercept,,6,3033583038,Intercept
+Guardian,Intercept,,20,1768432098,Intercept II
+Guardian,Intercept,,34,101378472,Intercept III
+Guardian,Moderate,,21,2827549737,Moderate
+Guardian,Moderate,,35,2674432464,Moderate II
+Guardian,Moderate,,49,2615846370,Moderate III
+Guardian,Moderate,,63,1339121559,Moderate IV
+Guardian,Never Surrender,,21,2193493462,Never Surrender
+Guardian,Never Surrender,,32,3834770023,Never Surrender II
+Guardian,Never Surrender,,46,4168865724,Never Surrender III
+Guardian,Never Surrender,,60,2982903136,Never Surrender IV
+Guardian,Sentinel,,20,394791571,Sentinel
+Guardian,Sentinel,,34,459388837,Sentinel II
+Guardian,Sentinel,,48,394791571,Sentinel III
+Guardian,Sentinel,,62,2646868696,Sentinel IV
+Guardian,Shoulder the Burden,,10,285176763,Shoulder the Burden
+Illusionist,Doppleganger,,80,1556556987,Doppleganger
+Illusionist,Doppleganger,,90,3845977939,Doppleganger II
+Illusionist,Illusory Arm,,10,296364590,Illusory Arm
+Illusionist,Mana Cloak,,35,2324198425,Mana Cloak
+Illusionist,Mana Cloak,,53,3289732337,Mana Cloak II
+Illusionist,Mana Cloak,,71,2110871988,Mana Cloak III
+Illusionist,Mana Cloak,,81,1850208453,Mana Cloak IV
+Illusionist,Mana Cloak,,91,3016829248,Mana Cloak V
+Illusionist,Mana Flow,,10,1945409072,Mana Flow
+Illusionist,Rapidity,,20,1477218420,Rapidity
+Illusionist,Rapidity,,34,9117198,Rapidity II
+Illusionist,Rapidity,,48,3081359513,Rapidity III
+Illusionist,Rapidity,,62,1811382865,Rapidity IV
+Illusionist,Sever Hate,,10,237735835,Sever Hate
+Illusionist,Spellshield,,58,1432010721,Spellshield
+Illusionist,Synergism,,35,2005616945,Synergism
+Illusionist,Synergism,,49,2337256011,Synergism II
+Illusionist,Synergism,,63,4158816328,Synergism III
+Illusionist,Synergism,,75,3073128528,Synergism IV
+Illusionist,Synergism,,85,4133918997,Synergism V
+Illusionist,Synergism,,95,1841550714,Synergism VI
+Illusionist,Time Compression,,10,2304840099,Time Compression
+Illusionist,Time Warp,,10,3020295062,Time Warp
+Illusionist,Touch of Empathy,,10,2421103160,Touch of Empathy
+Inquisitor,Chilling Invigoration,,10,3659424627,Chilling Invigoration
+Inquisitor,Conversion of the Soul,,50,363447997,Conversion of the Soul
+Inquisitor,Fanatical Healing,,3,2493734826,Fanatical Healing
+Inquisitor,Fanatical Healing,,10,1236046508,Fanatical Healing II
+Inquisitor,Fanatical Healing,,18,1666305466,Fanatical Healing III
+Inquisitor,Fanatical Healing,,32,4004566745,Fanatical Healing IV
+Inquisitor,Fanatical Healing,,46,900403021,Fanatical Healing V
+Inquisitor,Fanatical Healing,,60,4089064119,Fanatical Healing VI
+Inquisitor,Fanatical Healing,,73,4124612351,Fanatical Healing VII
+Inquisitor,Fanatical Healing,,83,1226106745,Fanatical Healing VIII
+Inquisitor,Fanatical Healing,,93,745790527,Fanatical Healing IX
+Inquisitor,Ministration,,1,759839429,Ministration
+Inquisitor,Ministration,,7,2766199209,Ministration II
+Inquisitor,Ministration,,15,467053480,Ministration III
+Inquisitor,Ministration,,22,2395571978,Ministration IV
+Inquisitor,Ministration,,29,966134467,Ministration V
+Inquisitor,Ministration,,43,2750594157,Ministration VI
+Inquisitor,Ministration,,57,1834882570,Ministration VII
+Inquisitor,Ministration,,71,2347916808,Ministration VIII
+Inquisitor,Ministration,,81,3749354901,Ministration IX
+Inquisitor,Ministration,,91,1719748221,Ministration X
+Inquisitor,Penance,,12,2739911483,Penance
+Inquisitor,Penance,,19,555361766,Penance II
+Inquisitor,Penance,,26,2453909181,Penance III
+Inquisitor,Penance,,40,872144021,Penance IV
+Inquisitor,Penance,,54,1287978567,Penance V
+Inquisitor,Penance,,68,2126014885,Penance VI
+Inquisitor,Penance,,78,998195682,Penance VII
+Inquisitor,Penance,,88,3396606575,Penance VIII
+Inquisitor,Radiance,,15,2059458919,Radiance
+Inquisitor,Redemption,,41,1252901005,Redemption
+Inquisitor,Redemption,,55,2773745123,Redemption II
+Inquisitor,Redemption,,69,2611307269,Redemption III
+Inquisitor,Redemption,,80,1007543134,Redemption IV
+Inquisitor,Redemption,,90,1479991338,Redemption V
+Inquisitor,Sacrifice,,15,3623335613,Sacrifice
+Inquisitor,Supplication of the Fallen,,10,133282909,Supplication of the Fallen
+Inquisitor,Tenacity,,4,745921444,Tenacity
+Inquisitor,Tenacity,,16,4234438373,Tenacity II
+Inquisitor,Tenacity,,30,3002372253,Tenacity III
+Inquisitor,Tenacity,,44,2486721636,Tenacity IV
+Inquisitor,Tenacity,,58,1546906825,Tenacity V
+Inquisitor,Tenacity,,72,1487590821,Tenacity VI
+Inquisitor,Tenacity,,82,3411157347,Tenacity VII
+Inquisitor,Tenacity,,92,182255267,Tenacity VIII
+Monk,Altruism,,10,2017894776,Altruism
+Monk,Intercept,,6,3033583038,Intercept
+Monk,Intercept,,20,1768432098,Intercept II
+Monk,Intercept,,34,101378472,Intercept III
+Monk,Mend,,3,3242124289,Mend
+Monk,Mend,,10,721957876,Mend II
+Monk,Mend,,20,112342185,Mend III
+Monk,Mend,,34,80636041,Mend IV
+Monk,Mend,,48,934078257,Mend V
+Monk,Tranquil Vision,,21,544354214,Tranquil Vision
+Monk,Tranquil Vision,,32,3579756463,Tranquil Vision II
+Monk,Tranquil Vision,,46,708077976,Tranquil Vision III
+Monk,Tranquil Vision,,60,238703741,Tranquil Vision IV
+Mystic,Ancestral Balm,,58,1201946921,Ancestral Balm
+Mystic,Ancestral Balm,,76,3537042667,Ancestral Balm II
+Mystic,Ancestral Balm,,86,340840254,Ancestral Balm III
+Mystic,Ancestral Savior,,41,740637785,Ancestral Savior
+Mystic,Ancestral Savior,,55,2012002808,Ancestral Savior II
+Mystic,Ancestral Savior,,69,3807319112,Ancestral Savior III
+Mystic,Ancestral Savior,,80,3895182824,Ancestral Savior IV
+Mystic,Ancestral Savior,,90,1070155184,Ancestral Savior V
+Mystic,Ancestral Ward,,12,1804412850,Ancestral Ward
+Mystic,Ancestral Ward,,19,827722767,Ancestral Ward II
+Mystic,Ancestral Ward,,26,3356446724,Ancestral Ward III
+Mystic,Ancestral Ward,,40,4145349802,Ancestral Ward IV
+Mystic,Ancestral Ward,,54,3396252746,Ancestral Ward V
+Mystic,Ancestral Ward,,68,3604463143,Ancestral Ward VI
+Mystic,Ancestral Ward,,78,1663775277,Ancestral Ward VII
+Mystic,Ancestral Ward,,88,4270332227,Ancestral Ward VIII
+Mystic,Bolster,,65,3484670453,Bolster
+Mystic,Eidolic Ward,,15,2936879794,Eidolic Ward
+Mystic,Oberon,,50,1719185754,Oberon
+Mystic,Oberon,,70,1752859071,Oberon II
+Mystic,Oberon,,80,1581693773,Oberon III
+Mystic,Oberon,,90,2553630001,Oberon IV
+Mystic,Premonition,,4,64748398,Premonition
+Mystic,Premonition,,16,3056957686,Premonition II
+Mystic,Premonition,,30,444278822,Premonition III
+Mystic,Premonition,,44,2057500355,Premonition IV
+Mystic,Premonition,,58,1663008317,Premonition V
+Mystic,Premonition,,72,99462521,Premonition VI
+Mystic,Premonition,,82,1400445327,Premonition VII
+Mystic,Premonition,,92,3463903481,Premonition VIII
+Mystic,Rejuvenation,,1,3274438181,Rejuvenation
+Mystic,Rejuvenation,,7,3408448735,Rejuvenation II
+Mystic,Rejuvenation,,15,2232343269,Rejuvenation III
+Mystic,Rejuvenation,,22,3145543790,Rejuvenation IV
+Mystic,Rejuvenation,,29,2490559713,Rejuvenation V
+Mystic,Rejuvenation,,43,916924469,Rejuvenation VI
+Mystic,Rejuvenation,,57,3537124650,Rejuvenation VII
+Mystic,Rejuvenation,,71,423701891,Rejuvenation VIII
+Mystic,Rejuvenation,,81,1305079326,Rejuvenation IX
+Mystic,Rejuvenation,,91,4096931318,Rejuvenation X
+Mystic,Ritual Healing,,3,2385577370,Ritual Healing
+Mystic,Ritual Healing,,10,1980933536,Ritual Healing II
+Mystic,Ritual Healing,,18,4120970950,Ritual Healing III
+Mystic,Ritual Healing,,32,4160279742,Ritual Healing IV
+Mystic,Ritual Healing,,46,1678922074,Ritual Healing V
+Mystic,Ritual Healing,,60,742510228,Ritual Healing VI
+Mystic,Ritual Healing,,73,3754198906,Ritual Healing VII
+Mystic,Ritual Healing,,83,424064175,Ritual Healing VIII
+Mystic,Ritual Healing,,93,2665512940,Ritual Healing IX
+Mystic,Supplication of the Fallen,,10,133282909,Supplication of the Fallen
+Mystic,Torpor,,52,902524875,Torpor
+Mystic,Torpor,,72,2039140121,Torpor II
+Mystic,Torpor,,82,2258735073,Torpor III
+Mystic,Torpor,,92,2447023010,Torpor IV
+Necromancer,Dark Heart,,18,1852049104,Dark Heart
+Necromancer,Revivication,,48,403740096,Revivication
+Necromancer,Transfer Life,,33,3450843944,Transfer Life
+Necromancer,Transfer Life,,47,1042106285,Transfer Life II
+Necromancer,Transfer Life,,61,214045967,Transfer Life III
+Necromancer,Transfer Life,,74,1244024435,Transfer Life IV
+Necromancer,Transfer Life,,84,487128566,Transfer Life V
+Necromancer,Transfer Life,,94,3009440871,Transfer Life VI
+Necromancer,Vampirism,,80,4248972491,Vampirism
+Necromancer,Vampirism,,90,1726439588,Vampirism II
+Paladin,Amends,,21,1127918058,Amends
+Paladin,Amends,,35,1055233082,Amends II
+Paladin,Amends,,49,3824506796,Amends III
+Paladin,Arch Heal,,10,816148431,Arch Heal
+Paladin,Demonstration of Faith,,12,2029186056,Demonstration of Faith
+Paladin,Demonstration of Faith,,26,4070937418,Demonstration of Faith II
+Paladin,Demonstration of Faith,,40,2868612197,Demonstration of Faith III
+Paladin,Demonstration of Faith,,54,1402585519,Demonstration of Faith IV
+Paladin,Demonstration of Faith,,68,1698381326,Demonstration of Faith V
+Paladin,Demonstration of Faith,,79,3305085423,Demonstration of Faith VI
+Paladin,Demonstration of Faith,,89,2069985831,Demonstration of Faith VII
+Paladin,Elixir of Resuscitation,,44,2024910418,Elixir of Resuscitation
+Paladin,Holy Aid,,11,3063029855,Holy Aid
+Paladin,Holy Aid,,22,1838859133,Holy Aid II
+Paladin,Holy Aid,,36,2061621054,Holy Aid III
+Paladin,Holy Aid,,50,2431844110,Holy Aid IV
+Paladin,Holy Aid,,64,845213229,Holy Aid V
+Paladin,Holy Aid,,76,3420581820,Holy Aid VI
+Paladin,Holy Aid,,86,1478040442,Holy Aid VII
+Paladin,Intercept,,6,3033583038,Intercept
+Paladin,Intercept,,20,1768432098,Intercept II
+Paladin,Intercept,,34,101378472,Intercept III
+Paladin,Lay on Hands,,20,386796067,Lay on Hands
+Paladin,Lay on Hands,,34,544197128,Lay on Hands II
+Paladin,Lay on Hands,,48,2861630187,Lay on Hands III
+Paladin,Lay on Hands,,62,2836355417,Lay on Hands IV
+Paladin,Lay on Hands,,74,164107332,Lay on Hands V
+Paladin,Lay on Hands,,84,120310698,Lay on Hands VI
+Paladin,Lay on Hands,,94,,Lay on Hands VII
+Paladin,Pledge of Armament,,17,3723927387,Pledge of Armament
+Paladin,Pledge of Armament,,31,2777745996,Pledge of Armament II
+Paladin,Pledge of Armament,,45,3076231194,Pledge of Armament III
+Paladin,Pledge of Armament,,59,822230951,Pledge of Armament IV
+Paladin,Pledge of Armament,,73,2989323403,Pledge of Armament V
+Paladin,Pledge of Armament,,83,3469087178,Pledge of Armament VI
+Paladin,Pledge of Armament,,93,1360826964,Pledge of Armament VII
+Paladin,Resolute Faith,,21,4071715749,Resolute Faith
+Paladin,Resolute Faith,,32,591564459,Resolute Faith II
+Paladin,Resolute Faith,,46,2988348820,Resolute Faith III
+Paladin,Resolute Faith,,60,1119521305,Resolute Faith IV
+Ranger,Focus Aim,,22,1896571032,Focus Aim
+Ranger,Focus Aim,,36,3093200593,Focus Aim II
+Ranger,Focus Aim,,50,773886649,Focus Aim III
+Ranger,Focus Aim,,64,3684663834,Focus Aim IV
+Ranger,Honed Reflexes,,35,3655255681,Honed Reflexes
+Ranger,Killing Instinct,,40,497000173,Killing Instinct
+Ranger,Killing Instinct,,54,220170012,Killing Instinct II
+Ranger,Killing Instinct,,67,182657177,Killing Instinct III
+Shadowknight,Devious Evasion,,21,777149751,Devious Evasion
+Shadowknight,Devious Evasion,,32,2504110877,Devious Evasion II
+Shadowknight,Devious Evasion,,46,967155755,Devious Evasion III
+Shadowknight,Devious Evasion,,60,2392447075,Devious Evasion IV
+Shadowknight,Intercept,,6,3033583038,Intercept
+Shadowknight,Intercept,,20,1768432098,Intercept II
+Shadowknight,Intercept,,34,101378472,Intercept III
+Shadowknight,Mortal Embrace,,21,3853171077,Mortal Embrace
+Shadowknight,Mortal Embrace,,35,1678827880,Mortal Embrace II
+Shadowknight,Mortal Embrace,,49,2730632393,Mortal Embrace III
+Shadowknight,Mortal Embrace,,63,2130014620,Mortal Embrace IV
+Shadowknight,Pledge of Armament,,17,3723927387,Pledge of Armament
+Shadowknight,Pledge of Armament,,31,2777745996,Pledge of Armament II
+Shadowknight,Pledge of Armament,,45,3076231194,Pledge of Armament III
+Shadowknight,Pledge of Armament,,59,822230951,Pledge of Armament IV
+Shadowknight,Pledge of Armament,,73,2989323403,Pledge of Armament V
+Shadowknight,Pledge of Armament,,83,3469087178,Pledge of Armament VI
+Shadowknight,Pledge of Armament,,93,1360826964,Pledge of Armament VII
+Shadowknight,Unholy Blessing,,12,1693136731,Unholy Blessing
+Shadowknight,Unholy Blessing,,26,2829832338,Unholy Blessing II
+Shadowknight,Unholy Blessing,,40,199101013,Unholy Blessing III
+Shadowknight,Unholy Blessing,,54,750326434,Unholy Blessing IV
+Shadowknight,Unholy Blessing,,68,4009986594,Unholy Blessing V
+Shadowknight,Unholy Blessing,,79,4057210147,Unholy Blessing VI
+Shadowknight,Unholy Blessing,,89,1989277570,Unholy Blessing VII
+Swashbuckler,Sleight of Hand,,80,2737608260,Sleight of Hand
+Swashbuckler,Sleight of Hand,,90,1283334309,Sleight of Hand II
+Swashbuckler,Swarthy Deception,,21,4277398471,Swarthy Deception
+Swashbuckler,Swarthy Deception,,34,1982111103,Swarthy Deception II
+Swashbuckler,Swarthy Deception,,48,4076332660,Swarthy Deception III
+Swashbuckler,Swarthy Deception,,62,1064363633,Swarthy Deception IV
+Templar,Aegolism,,4,2031280923,Aegolism
+Templar,Aegolism,,16,683699427,Aegolism II
+Templar,Aegolism,,30,364581814,Aegolism III
+Templar,Aegolism,,44,1584349090,Aegolism IV
+Templar,Aegolism,,58,3371009269,Aegolism V
+Templar,Aegolism,,72,4057145639,Aegolism VI
+Templar,Aegolism,,82,1647039969,Aegolism VII
+Templar,Aegolism,,92,2745502241,Aegolism VIII
+Templar,Battle's Reprieve,,22,1039988071,Battle's Reprieve
+Templar,Focused Intervention,,50,302740829,Focused Intervention
+Templar,Focused Intervention,,70,1361727513,Focused Intervention II
+Templar,Focused Intervention,,80,392909682,Focused Intervention III
+Templar,Focused Intervention,,90,2350430630,Focused Intervention IV
+Templar,Glory,,47,995090721,Glory
+Templar,Glory,,61,346113134,Glory II
+Templar,Glory,,75,3682754666,Glory III
+Templar,Glory,,85,44200646,Glory IV
+Templar,Glory,,95,3456660056,Glory V
+Templar,Holy Salvation,,41,2106273833,Holy Salvation
+Templar,Holy Salvation,,55,204882841,Holy Salvation II
+Templar,Holy Salvation,,69,1343463176,Holy Salvation III
+Templar,Holy Salvation,,80,885758392,Holy Salvation IV
+Templar,Holy Salvation,,90,3010286331,Holy Salvation V
+Templar,Meliorate,,1,4116243794,Meliorate
+Templar,Meliorate,,7,4105544774,Meliorate II
+Templar,Meliorate,,15,882183196,Meliorate III
+Templar,Meliorate,,22,1530301492,Meliorate IV
+Templar,Meliorate,,29,3822996630,Meliorate V
+Templar,Meliorate,,43,117904398,Meliorate VI
+Templar,Meliorate,,57,748855261,Meliorate VII
+Templar,Meliorate,,71,2008130855,Meliorate VIII
+Templar,Meliorate,,81,86325846,Meliorate IX
+Templar,Meliorate,,91,2659219001,Meliorate X
+Templar,Repent,,80,812510470,Repent
+Templar,Repent,,90,655817029,Repent II
+Templar,Restoration,,3,4128489925,Restoration
+Templar,Restoration,,10,3993156297,Restoration II
+Templar,Restoration,,18,3375721743,Restoration III
+Templar,Restoration,,32,3340399949,Restoration IV
+Templar,Restoration,,46,2536189314,Restoration V
+Templar,Restoration,,60,1668131513,Restoration VI
+Templar,Restoration,,73,3553854409,Restoration VII
+Templar,Restoration,,83,2718812170,Restoration VIII
+Templar,Restoration,,93,1057106300,Restoration IX
+Templar,Resurrect,,50,2202530924,Resurrect
+Templar,Reverence,,52,3329267101,Reverence
+Templar,Supplication of the Fallen,,10,133282909,Supplication of the Fallen
+Templar,Vital Intercession,,12,153147335,Vital Intercession
+Templar,Vital Intercession,,19,995249343,Vital Intercession II
+Templar,Vital Intercession,,26,1899956381,Vital Intercession III
+Templar,Vital Intercession,,40,2205405453,Vital Intercession IV
+Templar,Vital Intercession,,54,125769492,Vital Intercession V
+Templar,Vital Intercession,,68,236122270,Vital Intercession VI
+Templar,Vital Intercession,,78,2819125823,Vital Intercession VII
+Templar,Vital Intercession,,88,3827170577,Vital Intercession VIII
+Troubador,Energizing Ballad,,10,2602290947,Energizing Ballad
+Troubador,Jester's Cap,,65,2991120526,Jester's Cap
+Troubador,Upbeat Tempo,,10,2079430997,Upbeat Tempo
+Warden,Aspect of the Forest,,4,2013857554,Aspect of the Forest
+Warden,Aspect of the Forest,,16,212768170,Aspect of the Forest II
+Warden,Aspect of the Forest,,30,77653062,Aspect of the Forest III
+Warden,Aspect of the Forest,,44,59665586,Aspect of the Forest IV
+Warden,Aspect of the Forest,,58,4221668459,Aspect of the Forest V
+Warden,Aspect of the Forest,,72,4085393302,Aspect of the Forest VI
+Warden,Aspect of the Forest,,82,2239953950,Aspect of the Forest VII
+Warden,Aspect of the Forest,,92,519116490,Aspect of the Forest VIII
+Warden,Hierophantic Genesis,,50,3124080057,Hierophantic Genesis
+Warden,Hierophantic Genesis,,70,107280614,Hierophantic Genesis II
+Warden,Hierophantic Genesis,,80,4259559649,Hierophantic Genesis III
+Warden,Hierophantic Genesis,,90,2124305548,Hierophantic Genesis IV
+Warden,Nature's Embrace,,3,1229655748,Nature's Embrace
+Warden,Nature's Embrace,,10,934663489,Nature's Embrace II
+Warden,Nature's Embrace,,18,3709094785,Nature's Embrace III
+Warden,Nature's Embrace,,32,1510183539,Nature's Embrace IV
+Warden,Nature's Embrace,,46,2674414587,Nature's Embrace V
+Warden,Nature's Embrace,,60,807066005,Nature's Embrace VI
+Warden,Nature's Embrace,,73,2977442704,Nature's Embrace VII
+Warden,Nature's Embrace,,83,439982755,Nature's Embrace VIII
+Warden,Nature's Embrace,,93,4117441602,Nature's Embrace IX
+Warden,Nature's Renewal,,41,974014601,Nature's Renewal
+Warden,Nature's Renewal,,55,4237648378,Nature's Renewal II
+Warden,Nature's Renewal,,69,924928466,Nature's Renewal III
+Warden,Nature's Renewal,,80,1559652041,Nature's Renewal IV
+Warden,Nature's Renewal,,90,3013922856,Nature's Renewal V
+Warden,Photosynthesis,,12,1634151210,Photosynthesis
+Warden,Photosynthesis,,19,1002176663,Photosynthesis II
+Warden,Photosynthesis,,26,1309925,Photosynthesis III
+Warden,Photosynthesis,,40,2957438681,Photosynthesis IV
+Warden,Photosynthesis,,54,1623618216,Photosynthesis V
+Warden,Photosynthesis,,68,1300426726,Photosynthesis VI
+Warden,Photosynthesis,,78,853550606,Photosynthesis VII
+Warden,Photosynthesis,,88,4100068827,Photosynthesis VIII
+Warden,Spirit of the Bat,,35,1698192591,Spirit of the Bat
+Warden,Spirit of the Bat,,53,144021401,Spirit of the Bat II
+Warden,Spirit of the Bat,,71,589856662,Spirit of the Bat III
+Warden,Spirit of the Bat,,81,3189951061,Spirit of the Bat IV
+Warden,Spirit of the Bat,,91,3678794003,Spirit of the Bat V
+Warden,Supplication of the Fallen,,10,133282909,Supplication of the Fallen
+Warden,Sylvan Bloom,,1,972042084,Sylvan Bloom
+Warden,Sylvan Bloom,,7,1205207997,Sylvan Bloom II
+Warden,Sylvan Bloom,,15,1317653653,Sylvan Bloom III
+Warden,Sylvan Bloom,,22,2689295207,Sylvan Bloom IV
+Warden,Sylvan Bloom,,29,1555095324,Sylvan Bloom V
+Warden,Sylvan Bloom,,43,2994512655,Sylvan Bloom VI
+Warden,Sylvan Bloom,,57,2046615093,Sylvan Bloom VII
+Warden,Sylvan Bloom,,71,1994024703,Sylvan Bloom VIII
+Warden,Sylvan Bloom,,81,575841634,Sylvan Bloom IX
+Warden,Sylvan Bloom,,91,2611576458,Sylvan Bloom X
+Warden,Sylvan Touch,,15,1615517329,Sylvan Touch
+Warden,Thorncoat,,2,2368970071,Thorncoat
+Warden,Thorncoat,,10,1281318966,Thorncoat II
+Warden,Thorncoat,,24,4045512752,Thorncoat III
+Warden,Thorncoat,,38,2986280772,Thorncoat IV
+Warden,Thorncoat,,52,3651018817,Thorncoat V
+Warden,Thorncoat,,66,3846148380,Thorncoat VI
+Warden,Thorncoat,,77,119122066,Thorncoat VII
+Warden,Thorncoat,,87,912690669,Thorncoat VIII
+Warden,Tranquility,,65,1325608915,Tranquility
+Warden,Tranquility,,78,1059038020,Tranquility II
+Warden,Tranquility,,88,3283360301,Tranquility III
+Warlock,Boon of the Damned,,18,789042833,Boon of the Damned
+Warlock,Boon of the Damned,,33,3463782684,Boon of the Damned II
+Warlock,Boon of the Damned,,47,3788180172,Boon of the Damned III
+Warlock,Boon of the Damned,,61,3394582416,Boon of the Damned IV
+Warlock,Boon of the Damned,,73,957759862,Boon of the Damned V
+Warlock,Boon of the Damned,,83,3545517484,Boon of the Damned VI
+Warlock,Boon of the Damned,,93,1284427314,Boon of the Damned VII
+Warlock,Grasp of Bertoxxulous,,11,1084797273,Grasp of Bertoxxulous
+Warlock,Grasp of Bertoxxulous,,25,3222678259,Grasp of Bertoxxulous II
+Warlock,Grasp of Bertoxxulous,,39,3907212079,Grasp of Bertoxxulous III
+Warlock,Grasp of Bertoxxulous,,53,4117480559,Grasp of Bertoxxulous IV
+Warlock,Grasp of Bertoxxulous,,67,3908830069,Grasp of Bertoxxulous V
+Warlock,Grasp of Bertoxxulous,,78,3026927233,Grasp of Bertoxxulous VI
+Warlock,Grasp of Bertoxxulous,,88,1467888968,Grasp of Bertoxxulous VII
+Warlock,Mana Trickle,,33,3098198600,Mana Trickle
+Warlock,Mana Trickle,,47,22146178,Mana Trickle II
+Warlock,Mana Trickle,,61,4227623449,Mana Trickle III
+Warlock,Mana Trickle,,74,3949474075,Mana Trickle IV
+Warlock,Mana Trickle,,84,3219190406,Mana Trickle V
+Warlock,Mana Trickle,,94,102443374,Mana Trickle VI
+Warlock,Shroud of Bertoxxulous,,20,4293827309,Shroud of Bertoxxulous
+Warlock,Shroud of Bertoxxulous,,35,4130221467,Shroud of Bertoxxulous II
+Warlock,Shroud of Bertoxxulous,,50,87067240,Shroud of Bertoxxulous III
+Warlock,Shroud of Bertoxxulous,,64,542411599,Shroud of Bertoxxulous IV
+Warlock,Shroud of Bertoxxulous,,76,2063222378,Shroud of Bertoxxulous V
+Warlock,Shroud of Bertoxxulous,,86,2560698741,Shroud of Bertoxxulous VI
+Wizard,Converge,,18,2837552003,Converge
+Wizard,Converge,,33,2977123919,Converge II
+Wizard,Converge,,47,1910286257,Converge III
+Wizard,Converge,,61,2985618841,Converge IV
+Wizard,Converge,,73,4056697510,Converge V
+Wizard,Converge,,83,1647623776,Converge VI
+Wizard,Converge,,93,2746900896,Converge VII
+Wizard,Iceshield,,20,706097448,Iceshield
+Wizard,Iceshield,,35,3438753180,Iceshield II
+Wizard,Iceshield,,50,719577128,Iceshield III
+Wizard,Iceshield,,64,4202698666,Iceshield IV
+Wizard,Iceshield,,76,2842470836,Iceshield V
+Wizard,Iceshield,,86,1272806773,Iceshield VI
+Wizard,Mana Intromission,,33,1124179970,Mana Intromission
+Wizard,Mana Intromission,,47,3407821414,Mana Intromission II
+Wizard,Mana Intromission,,61,1946853459,Mana Intromission III
+Wizard,Mana Intromission,,74,4218383220,Mana Intromission IV
+Wizard,Mana Intromission,,84,2280659797,Mana Intromission V
+Wizard,Mana Intromission,,94,3801554963,Mana Intromission VI
+Wizard,Ro's Blade,,11,1152953154,Ro's Blade
+Wizard,Ro's Blade,,25,2335795735,Ro's Blade II
+Wizard,Ro's Blade,,38,169417704,Ro's Blade III
+Wizard,Ro's Blade,,53,3493415812,Ro's Blade IV
+Wizard,Ro's Blade,,67,1277302037,Ro's Blade V
+Wizard,Ro's Blade,,78,2749142665,Ro's Blade VI
+Wizard,Ro's Blade,,88,3511159288,Ro's Blade VII

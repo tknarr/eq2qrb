@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Spell Lines</Title>
+</HEAD>
+<BODY>
+
+<H1>Spell line creation and editing</H1>
+
+<IMG SRC="SpellLines.png">
+
+<P>
+The normal workflow for creating or editing spell lines is:
+<OL>
+<LI>Select the class you want to edit spell lines for from the Class pull-down list.</LI>
+<LI>To create a new spell line:
+	<OL>
+	<LI>Click the New Spell Line button.</LI>
+	<LI>Fill in the name of the spell line and the tooltip description. If you don't provide a tooltip description, the name of the spell line will be used for the tooltip.</LI>
+	<LI>Click OK to create the spell line, or Cancel to abort and not create it.</LI>
+	</OL>
+</LI>
+<LI>To edit an existing spell line, select it from the Spell Line pull-down list.</LI>
+<LI>Edit the tooltip description textbox to change the tooltip text.</LI>
+<LI>Use the level spinners and spell name textboxes to add spells or arbitrary commands to the spell line, or to edit existing entries.</LI>
+<LI>If you know the spell ID for a spell entry, you can fill in the spell ID box. This isn't required.</LI>
+<LI>If you need to delete an entire spell line, edit it and use the Delete Spell Line button.</LI>
+<LI>Repeat the process of creating a new spell line, or select a different spell line from the pull-down to edit it.</LI>
+<LI>Select another class from the Class pull-down and continue editing it's spell lines. Repeat until you're done with your changes.</LI>
+<LI>Click Done to save your work and return to the button assignment screen, or click Cancel to abort and discard your changes to spell lines.</LI>
+</OL>
+</P>
+<P>
+Most spells have a level associated with them, the level you receive the spell at. Some abilities such as ones you get via AA points, don't have an explicit
+level. For those, if it's going to be the only ability in the spell line you can use level 1 or the max level, it won't really matter. Otherwise, use the level at
+which you want to start using that ability. Remember that the UI code will look for the highest-level ability in the line that's not higher in level than your
+actual level.
+</P>
+<P>
+You can also enter arbitrary game commands by using level 0 and entering the command text as the spell name. This works like adding commands to
+macros in the in-game macro system. Normally /gsay, /raidsay, /shout and /cancel_spellcast would be the most popular commands to use. You can use
+%T in the command, it'll be replaced with the name of the character you clicked the button on. You can also use %I, that'll be replaced by whatever the
+person you clicked the button for is targeting. Lowercase %t and %i work too. You can include the leading slashes on commands to make it clearer, and
+it'll be taken care of when generating the UI code file.
+</P>
+<P>
+If you need to clear a single line, use the Clear button beside it. That'll clear the text and reset the level to zero, and that line will disappear from
+the list once it's saved (or once you sort the list and clean it up). If you want to insert lines, just add them at the end and use the Sort/Cleanup
+button. Inserting level 0 commands in between existing ones is unfortunately awkward, you have to manually retype things. I'll eventually put something
+a bit easier in place.
+</P>
+<P>
+For spell lines (those with a level > 0), if the spell ID wasn't filled in an attempt will be made to locate the spell name in the spell ID dictionary and
+fill the spell ID in. Similarly, if the spell ID is filled in and no spell name is present, an attempt will be made to fill the name in based on known
+spell IDs.
+</P>
+<P>The Save and Revert buttons work as they do on the button assignment screen. The Save button saves the current state of spell lines into the
+permanent state of the program, and the Revert button discards the current state and replaces it with the last saved permanent state. The Cancel
+button does an implicit Revert, and the Done button does an implicit Save. The Sort/Cleanup button sorts the current list of spells into the normal
+order: level 0 entries first, retaining the display order, and then entries with a level sorted in ascending order by level leaving the highest-level spells
+at the bottom. This sorting will also be done as part of saving your changes into the permanent state.
+</P>
+<P>
+The Auto Fill Spells button attempts to automatically fill in blank spell entries based on either the highest-level spell present or the name of
+the spell line if no spells are present. Levels in particular are likely to be wrong due to the variations in replacement intervals, but at least
+the names (the largest amount of typing) should be valid and you'll just have to use the spinners to adjust levels and delete any spells higher
+than the current level cap.
+</P>
+
+</BODY>
+</HTML>

@@ -1,0 +1,6173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuickRaidButtons version="1.3" xmlns="http://xsd.silverglass.org/QuickRaidButtons/QRBStorage.xsd">
+  <Spells>
+    <SpellClass class="Assassin">
+      <SpellLine name="Apply Poison">
+        <ToolTip>Apply Poison</ToolTip>
+        <Spell>
+          <Level>52</Level>
+          <Text>Apply Poison</Text>
+          <ID>4191452681</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Apply Poison II</Text>
+          <ID>2829320935</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Apply Poison III</Text>
+          <ID>3837053096</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Apply Poison IV</Text>
+          <ID>1565463360</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Murderous Design">
+        <ToolTip>Murderous Design</ToolTip>
+        <Spell>
+          <Level>11</Level>
+          <Text>Murderous Design</Text>
+          <ID>1939112048</ID>
+        </Spell>
+        <Spell>
+          <Level>25</Level>
+          <Text>Murderous Design II</Text>
+          <ID>4115775947</ID>
+        </Spell>
+        <Spell>
+          <Level>39</Level>
+          <Text>Murderous Design III</Text>
+          <ID>3598453043</ID>
+        </Spell>
+        <Spell>
+          <Level>53</Level>
+          <Text>Murderous Design IV</Text>
+          <ID>705062542</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Beastlord">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Berserker">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Intercept">
+        <ToolTip>Intercept</ToolTip>
+        <Spell>
+          <Level>6</Level>
+          <Text>Intercept</Text>
+          <ID>3033583038</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Intercept II</Text>
+          <ID>1768432098</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Intercept III</Text>
+          <ID>101378472</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Reckless Aide">
+        <ToolTip>Reckless Aide</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Reckless Aide</Text>
+          <ID>2229994418</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Reckless Aide II</Text>
+          <ID>759160778</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Reckless Aide III</Text>
+          <ID>4268098652</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Reckless Aide IV</Text>
+          <ID>761844627</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Brigand">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Beg for Mercy">
+        <ToolTip>Beg for Mercy</ToolTip>
+        <Spell>
+          <Level>26</Level>
+          <Text>Beg for Mercy</Text>
+          <ID>3332700454</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Beg for Mercy II</Text>
+          <ID>2911860733</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Beg for Mercy III</Text>
+          <ID>2558517702</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Beg for Mercy IV</Text>
+          <ID>2744273247</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Thieves Guild">
+        <ToolTip>Thieves Guild</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Thieves Guild</Text>
+          <ID>3258249298</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Bruiser">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Brutality">
+        <ToolTip>Brutality</ToolTip>
+        <Spell>
+          <Level>9</Level>
+          <Text>Brutality</Text>
+          <ID>1027448741</ID>
+        </Spell>
+        <Spell>
+          <Level>23</Level>
+          <Text>Brutality II</Text>
+          <ID>2843307860</ID>
+        </Spell>
+        <Spell>
+          <Level>37</Level>
+          <Text>Brutality III</Text>
+          <ID>3496057053</ID>
+        </Spell>
+        <Spell>
+          <Level>51</Level>
+          <Text>Brutality IV</Text>
+          <ID>554501377</ID>
+        </Spell>
+        <Spell>
+          <Level>65</Level>
+          <Text>Brutality V</Text>
+          <ID>3932984657</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Brutality VI</Text>
+          <ID>1289996500</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Brutality VII</Text>
+          <ID>2831752605</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Intercept">
+        <ToolTip>Intercept</ToolTip>
+        <Spell>
+          <Level>6</Level>
+          <Text>Intercept</Text>
+          <ID>3033583038</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Intercept II</Text>
+          <ID>1768432098</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Intercept III</Text>
+          <ID>101378472</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Shrug Off">
+        <ToolTip>Shrug Off</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Shrug Off</Text>
+          <ID>699446630</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Shrug Off II</Text>
+          <ID>44714223</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Shrug Off III</Text>
+          <ID>1767335325</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Shrug Off IV</Text>
+          <ID>2029225881</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Soak Hit">
+        <ToolTip>Soak Hit</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Soak Hit</Text>
+          <ID>982097426</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+      <SpellClass class="Channeler">
+          <SpellLine name="Assist">
+              <ToolTip>Assist</ToolTip>
+              <Spell>
+                  <Level>0</Level>
+                  <Text>assist %T</Text>
+              </Spell>
+          </SpellLine>
+          <SpellLine name="Heart/Shard request">
+              <ToolTip>Heart/Shard request</ToolTip>
+              <Spell>
+                  <Level>0</Level>
+                  <Text>tell %T Heart/Shard please</Text>
+              </Spell>
+          </SpellLine>
+      </SpellClass>
+      <SpellClass class="Coercer">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Channel">
+        <ToolTip>Channel</ToolTip>
+        <Spell>
+          <Level>58</Level>
+          <Text>Channel</Text>
+          <ID>1953089559</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Channel II</Text>
+          <ID>3471533037</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Channeled Focus">
+        <ToolTip>Channeled Focus</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Channeled Focus</Text>
+          <ID>2177252207</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Coercive Healing">
+        <ToolTip>Coercive Healing</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Coercive Healing</Text>
+          <ID>3426657644</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Coercive Shout">
+        <ToolTip>Coercive Shout</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Coercive Shout</Text>
+          <ID>3491920474</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Destructive Mind">
+        <ToolTip>Destructive Mind</ToolTip>
+        <Spell>
+          <Level>28</Level>
+          <Text>Destructive Mind</Text>
+          <ID>3498931225</ID>
+        </Spell>
+        <Spell>
+          <Level>42</Level>
+          <Text>Destructive Mind II</Text>
+          <ID>3915512446</ID>
+        </Spell>
+        <Spell>
+          <Level>56</Level>
+          <Text>Destructive Mind III</Text>
+          <ID>2405249683</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Destructive Mind IV</Text>
+          <ID>2610662413</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Destructive Mind V</Text>
+          <ID>84402331</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Destructive Mind VI</Text>
+          <ID>1642634865</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Enraging Demeanor">
+        <ToolTip>Enraging Demeanor</ToolTip>
+        <Spell>
+          <Level>24</Level>
+          <Text>Enraging Demeanor</Text>
+          <ID>903813412</ID>
+        </Spell>
+        <Spell>
+          <Level>38</Level>
+          <Text>Enraging Demeanor II</Text>
+          <ID>648026222</ID>
+        </Spell>
+        <Spell>
+          <Level>52</Level>
+          <Text>Enraging Demeanor III</Text>
+          <ID>595442236</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mana Cloak">
+        <ToolTip>Mana Cloak</ToolTip>
+        <Spell>
+          <Level>35</Level>
+          <Text>Mana Cloak</Text>
+          <ID>2324198425</ID>
+        </Spell>
+        <Spell>
+          <Level>53</Level>
+          <Text>Mana Cloak II</Text>
+          <ID>3289732337</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Mana Cloak III</Text>
+          <ID>2110871988</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Mana Cloak IV</Text>
+          <ID>1850208453</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Mana Cloak V</Text>
+          <ID>3016829248</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mana Flow">
+        <ToolTip>Mana Flow</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Mana Flow</Text>
+          <ID>1945409072</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Manaward">
+        <ToolTip>Manaward</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Manaward</Text>
+          <ID>784965358</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Peaceful Link">
+        <ToolTip>Peaceful Link</ToolTip>
+        <Spell>
+          <Level>35</Level>
+          <Text>Peaceful Link</Text>
+          <ID>1534297879</ID>
+        </Spell>
+        <Spell>
+          <Level>49</Level>
+          <Text>Peaceful Link II</Text>
+          <ID>3205091573</ID>
+        </Spell>
+        <Spell>
+          <Level>63</Level>
+          <Text>Peaceful Link III</Text>
+          <ID>4189551492</ID>
+        </Spell>
+        <Spell>
+          <Level>75</Level>
+          <Text>Peaceful Link IV</Text>
+          <ID>685417323</ID>
+        </Spell>
+        <Spell>
+          <Level>85</Level>
+          <Text>Peaceful Link V</Text>
+          <ID>2788213841</ID>
+        </Spell>
+        <Spell>
+          <Level>95</Level>
+          <Text>Peaceful Link VI</Text>
+          <ID>140006848</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sever Hate">
+        <ToolTip>Sever Hate</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Sever Hate</Text>
+          <ID>237735835</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Signet of Intellect">
+        <ToolTip>Signet of Intellect</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Signet of Intellect</Text>
+          <ID>1009471530</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Signet of Intellect II</Text>
+          <ID>602613284</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Signet of Intellect III</Text>
+          <ID>1389421614</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Signet of Intellect IV</Text>
+          <ID>341745051</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Signet of Intellect V</Text>
+          <ID>1117595484</ID>
+        </Spell>
+        <Spell>
+          <Level>79</Level>
+          <Text>Signet of Intellect VI</Text>
+          <ID>375405750</ID>
+        </Spell>
+        <Spell>
+          <Level>89</Level>
+          <Text>Signet of Intellect VII</Text>
+          <ID>3405391094</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Touch of Empathy">
+        <ToolTip>Touch of Empathy</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Touch of Empathy</Text>
+          <ID>2421103160</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Velocity">
+        <ToolTip>Velocity</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Velocity</Text>
+          <ID>3216920474</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Velocity II</Text>
+          <ID>3149463382</ID>
+        </Spell>
+        <Spell>
+          <Level>48</Level>
+          <Text>Velocity III</Text>
+          <ID>1782122432</ID>
+        </Spell>
+        <Spell>
+          <Level>62</Level>
+          <Text>Velocity IV</Text>
+          <ID>435131742</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Conjuror">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Call of the Hero">
+        <ToolTip>Call of the Hero</ToolTip>
+        <Spell>
+          <Level>52</Level>
+          <Text>Call of the Hero</Text>
+          <ID>1688191333</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Fire Seed">
+        <ToolTip>Fire Seed</ToolTip>
+        <Spell>
+          <Level>23</Level>
+          <Text>Fire Seed</Text>
+          <ID>363638977</ID>
+        </Spell>
+        <Spell>
+          <Level>37</Level>
+          <Text>Fire Seed II</Text>
+          <ID>895367827</ID>
+        </Spell>
+        <Spell>
+          <Level>51</Level>
+          <Text>Fire Seed III</Text>
+          <ID>1600602994</ID>
+        </Spell>
+        <Spell>
+          <Level>65</Level>
+          <Text>Fire Seed IV</Text>
+          <ID>710768599</ID>
+        </Spell>
+        <Spell>
+          <Level>77</Level>
+          <Text>Fire Seed V</Text>
+          <ID>274641691</ID>
+        </Spell>
+        <Spell>
+          <Level>87</Level>
+          <Text>Fire Seed VI</Text>
+          <ID>3842085846</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Flameshield">
+        <ToolTip>Flameshield</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Flameshield</Text>
+          <ID>2384202484</ID>
+        </Spell>
+        <Spell>
+          <Level>35</Level>
+          <Text>Flameshield II</Text>
+          <ID>932738302</ID>
+        </Spell>
+        <Spell>
+          <Level>50</Level>
+          <Text>Flameshield III</Text>
+          <ID>3604369406</ID>
+        </Spell>
+        <Spell>
+          <Level>64</Level>
+          <Text>Flameshield IV</Text>
+          <ID>3419662531</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Flameshield V</Text>
+          <ID>3832402452</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Flameshield VI</Text>
+          <ID>4285749358</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Shard of Essence">
+        <ToolTip>Shard of Essence</ToolTip>
+        <Spell>
+          <Level>18</Level>
+          <Text>Shard of Essence</Text>
+          <ID>3814592930</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Defiler">
+      <SpellLine name="Ancestral Avenger">
+        <ToolTip>Ancestral Avenger</ToolTip>
+        <Spell>
+          <Level>41</Level>
+          <Text>Ancestral Avenger</Text>
+          <ID>4132404075</ID>
+        </Spell>
+        <Spell>
+          <Level>55</Level>
+          <Text>Ancestral Avenger II</Text>
+          <ID>3541101869</ID>
+        </Spell>
+        <Spell>
+          <Level>69</Level>
+          <Text>Ancestral Avenger III</Text>
+          <ID>3752016364</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Ancestral Avenger IV</Text>
+          <ID>1711748269</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Ancestral Avenger V</Text>
+          <ID>56627179</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Ancient Shroud">
+        <ToolTip>Ancient Shroud</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Ancient Shroud</Text>
+          <ID>2819125823</ID>
+        </Spell>
+        <Spell>
+          <Level>19</Level>
+          <Text>Ancient Shroud II</Text>
+          <ID>753499921</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Ancient Shroud III</Text>
+          <ID>2492058635</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Ancient Shroud IV</Text>
+          <ID>1566069660</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Ancient Shroud V</Text>
+          <ID>1352085168</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Ancient Shroud VI</Text>
+          <ID>279943205</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Ancient Shroud VII</Text>
+          <ID>632641928</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Ancient Shroud VIII</Text>
+          <ID>3812059741</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Carrion Warding">
+        <ToolTip>Carrion Warding</ToolTip>
+        <Spell>
+          <Level>14</Level>
+          <Text>Carrion Warding</Text>
+          <ID>1985600764</ID>
+        </Spell>
+        <Spell>
+          <Level>28</Level>
+          <Text>Carrion Warding II</Text>
+          <ID>2005639101</ID>
+        </Spell>
+        <Spell>
+          <Level>42</Level>
+          <Text>Carrion Warding III</Text>
+          <ID>4240187952</ID>
+        </Spell>
+        <Spell>
+          <Level>56</Level>
+          <Text>Carrion Warding IV</Text>
+          <ID>3053982195</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Carrion Warding V</Text>
+          <ID>3659670798</ID>
+        </Spell>
+        <Spell>
+          <Level>79</Level>
+          <Text>Carrion Warding VI</Text>
+          <ID>1788593003</ID>
+        </Spell>
+        <Spell>
+          <Level>89</Level>
+          <Text>Carrion Warding VII</Text>
+          <ID>2632214275</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Deathward">
+        <ToolTip>Deathward</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Deathward</Text>
+          <ID>4055243208</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Deathward II</Text>
+          <ID>1779652007</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Dire Balm">
+        <ToolTip>Dire Balm</ToolTip>
+        <Spell>
+          <Level>1</Level>
+          <Text>Dire Balm</Text>
+          <ID>1455620557</ID>
+        </Spell>
+        <Spell>
+          <Level>7</Level>
+          <Text>Dire Balm II</Text>
+          <ID>45204546</ID>
+        </Spell>
+        <Spell>
+          <Level>15</Level>
+          <Text>Dire Balm III</Text>
+          <ID>989024464</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Dire Balm IV</Text>
+          <ID>3384996850</ID>
+        </Spell>
+        <Spell>
+          <Level>29</Level>
+          <Text>Dire Balm V</Text>
+          <ID>4156312428</ID>
+        </Spell>
+        <Spell>
+          <Level>43</Level>
+          <Text>Dire Balm VI</Text>
+          <ID>3173001762</ID>
+        </Spell>
+        <Spell>
+          <Level>57</Level>
+          <Text>Dire Balm VII</Text>
+          <ID>633707383</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Dire Balm VIII</Text>
+          <ID>1390698267</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Dire Balm IX</Text>
+          <ID>544260202</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Dire Balm X</Text>
+          <ID>3151334405</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Harbinger">
+        <ToolTip>Harbinger</ToolTip>
+        <Spell>
+          <Level>4</Level>
+          <Text>Harbinger</Text>
+          <ID>2191465295</ID>
+        </Spell>
+        <Spell>
+          <Level>16</Level>
+          <Text>Harbinger II</Text>
+          <ID>810531409</ID>
+        </Spell>
+        <Spell>
+          <Level>30</Level>
+          <Text>Harbinger III</Text>
+          <ID>1524360537</ID>
+        </Spell>
+        <Spell>
+          <Level>44</Level>
+          <Text>Harbinger IV</Text>
+          <ID>4041756661</ID>
+        </Spell>
+        <Spell>
+          <Level>58</Level>
+          <Text>Harbinger V</Text>
+          <ID>2214521807</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Harbinger VI</Text>
+          <ID>248310279</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Harbinger VII</Text>
+          <ID>2914404066</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Harbinger VIII</Text>
+          <ID>907217549</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sacrificial Restoration">
+        <ToolTip>Sacrificial Restoration</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Sacrificial Restoration</Text>
+          <ID>589856008</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Sacrificial Restoration II</Text>
+          <ID>3547336263</ID>
+        </Spell>
+        <Spell>
+          <Level>18</Level>
+          <Text>Sacrificial Restoration III</Text>
+          <ID>2609951372</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Sacrificial Restoration IV</Text>
+          <ID>1817814869</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Sacrificial Restoration V</Text>
+          <ID>3291929854</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Sacrificial Restoration VI</Text>
+          <ID>4222340933</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Sacrificial Restoration VII</Text>
+          <ID>1776638355</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Sacrificial Restoration VIII</Text>
+          <ID>3826192137</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Sacrificial Restoration IX</Text>
+          <ID>51554718</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Supplication of the Fallen">
+        <ToolTip>Supplication of the Fallen</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Supplication of the Fallen</Text>
+          <ID>133282909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Vivication">
+        <ToolTip>Vivication</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Vivication</Text>
+          <ID>758673695</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Wild Accretion">
+        <ToolTip>Wild Accretion</ToolTip>
+        <Spell>
+          <Level>14</Level>
+          <Text>Wild Accretion</Text>
+          <ID>3933688258</ID>
+        </Spell>
+        <Spell>
+          <Level>28</Level>
+          <Text>Wild Accretion II</Text>
+          <ID>898287052</ID>
+        </Spell>
+        <Spell>
+          <Level>42</Level>
+          <Text>Wild Accretion III</Text>
+          <ID>2933625426</ID>
+        </Spell>
+        <Spell>
+          <Level>56</Level>
+          <Text>Wild Accretion IV</Text>
+          <ID>2780797537</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Wild Accretion V</Text>
+          <ID>1559312784</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Wild Accretion VI</Text>
+          <ID>824204141</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Wild Accretion VII</Text>
+          <ID>3062272046</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Dirge">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Confront Fear">
+        <ToolTip>Confront Fear</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Confront Fear</Text>
+          <ID>3601331586</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Elegy at Death's Door">
+        <ToolTip>Elegy at Death's Door</ToolTip>
+        <Spell>
+          <Level>44</Level>
+          <Text>Elegy at Death's Door</Text>
+          <ID>1033316620</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Elegy of Awakening">
+        <ToolTip>Elegy of Awakening</ToolTip>
+        <Spell>
+          <Level>58</Level>
+          <Text>Elegy of Awakening</Text>
+          <ID>3390154729</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Gravitas">
+        <ToolTip>Gravitas</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Gravitas</Text>
+          <ID>3677033782</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Hyran's Seething Sonata">
+        <ToolTip>Hyran's Seething Sonata</ToolTip>
+        <Spell>
+          <Level>32</Level>
+          <Text>Hyran's Seething Sonata</Text>
+          <ID>1493973664</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Hyran's Seething Sonata II</Text>
+          <ID>3178655042</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Hyran's Seething Sonata III</Text>
+          <ID>1773512360</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Oration of Sacrifice">
+        <ToolTip>Oration of Sacrifice</ToolTip>
+        <Spell>
+          <Level>65</Level>
+          <Text>Oration of Sacrifice</Text>
+          <ID>847451313</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Oration of Sacrifice II</Text>
+          <ID>1492846922</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Oration of Sacrifice III</Text>
+          <ID>3867707565</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Percussion of Stone">
+        <ToolTip>Percussion of Stone</ToolTip>
+        <Spell>
+          <Level>52</Level>
+          <Text>Percussion of Stone</Text>
+          <ID>3535108715</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sonic Barrier">
+        <ToolTip>Sonic Barrier</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Sonic Barrier</Text>
+          <ID>1073502077</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Fury">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Back into the Fray">
+        <ToolTip>Back into the Fray</ToolTip>
+        <Spell>
+          <Level>52</Level>
+          <Text>Back into the Fray</Text>
+          <ID>3225276758</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Back into the Fray II</Text>
+          <ID>598732465</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Back into the Fray III</Text>
+          <ID>2720147849</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Back into the Fray IV</Text>
+          <ID>1039706647</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Feral Tenacity">
+        <ToolTip>Feral Tenacity</ToolTip>
+        <Spell>
+          <Level>41</Level>
+          <Text>Feral Tenacity</Text>
+          <ID>4058495140</ID>
+        </Spell>
+        <Spell>
+          <Level>55</Level>
+          <Text>Feral Tenacity II</Text>
+          <ID>115125876</ID>
+        </Spell>
+        <Spell>
+          <Level>69</Level>
+          <Text>Feral Tenacity III</Text>
+          <ID>1675846636</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Feral Tenacity IV</Text>
+          <ID>4240163028</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Feral Tenacity V</Text>
+          <ID>1076629809</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Lucidity">
+        <ToolTip>Lucidity</ToolTip>
+        <Spell>
+          <Level>4</Level>
+          <Text>Lucidity</Text>
+          <ID>2250876335</ID>
+        </Spell>
+        <Spell>
+          <Level>16</Level>
+          <Text>Lucidity II</Text>
+          <ID>3865807799</ID>
+        </Spell>
+        <Spell>
+          <Level>30</Level>
+          <Text>Lucidity III</Text>
+          <ID>533018687</ID>
+        </Spell>
+        <Spell>
+          <Level>44</Level>
+          <Text>Lucidity IV</Text>
+          <ID>604960661</ID>
+        </Spell>
+        <Spell>
+          <Level>58</Level>
+          <Text>Lucidity V</Text>
+          <ID>1107677782</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Lucidity VI</Text>
+          <ID>114622175</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Lucidity VII</Text>
+          <ID>2502691353</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Lucidity VIII</Text>
+          <ID>1419957721</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Nature's Elixir">
+        <ToolTip>Nature's Elixir</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Nature's Elixir</Text>
+          <ID>1978430617</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Nature's Elixir II</Text>
+          <ID>2693769062</ID>
+        </Spell>
+        <Spell>
+          <Level>18</Level>
+          <Text>Nature's Elixir III</Text>
+          <ID>880694377</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Nature's Elixir IV</Text>
+          <ID>1302573832</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Nature's Elixir V</Text>
+          <ID>2443722274</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Nature's Elixir VI</Text>
+          <ID>2286085178</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Nature's Elixir VII</Text>
+          <ID>3584665359</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Nature's Elixir VIII</Text>
+          <ID>3769542750</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Nature's Elixir IX</Text>
+          <ID>1728602909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Nature's Salve">
+        <ToolTip>Nature's Salve</ToolTip>
+        <Spell>
+          <Level>1</Level>
+          <Text>Nature's Salve</Text>
+          <ID>1790945610</ID>
+        </Spell>
+        <Spell>
+          <Level>7</Level>
+          <Text>Nature's Salve II</Text>
+          <ID>8141107</ID>
+        </Spell>
+        <Spell>
+          <Level>15</Level>
+          <Text>Nature's Salve III</Text>
+          <ID>1622671014</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Nature's Salve IV</Text>
+          <ID>3124574221</ID>
+        </Spell>
+        <Spell>
+          <Level>29</Level>
+          <Text>Nature's Salve V</Text>
+          <ID>2796412562</ID>
+        </Spell>
+        <Spell>
+          <Level>43</Level>
+          <Text>Nature's Salve VI</Text>
+          <ID>2589372575</ID>
+        </Spell>
+        <Spell>
+          <Level>57</Level>
+          <Text>Nature's Salve VII</Text>
+          <ID>4100820878</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Nature's Salve VIII</Text>
+          <ID>2027130211</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Nature's Salve IX</Text>
+          <ID>1609820248</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Nature's Salve X</Text>
+          <ID>4053498313</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Porcupine">
+        <ToolTip>Porcupine</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Porcupine</Text>
+          <ID>1457820023</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Porcupine II</Text>
+          <ID>1745480399</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Porcupine III</Text>
+          <ID>977223010</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Porcupine IV</Text>
+          <ID>1019141819</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Primeval Awakening">
+        <ToolTip>Primeval Awakening</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Primeval Awakening</Text>
+          <ID>3371933150</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Regrowth">
+        <ToolTip>Regrowth</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Regrowth</Text>
+          <ID>3341174343</ID>
+        </Spell>
+        <Spell>
+          <Level>19</Level>
+          <Text>Regrowth II</Text>
+          <ID>1069989296</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Regrowth III</Text>
+          <ID>3150960155</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Regrowth IV</Text>
+          <ID>791522586</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Regrowth V</Text>
+          <ID>3643277861</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Regrowth VI</Text>
+          <ID>2624085369</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Regrowth VII</Text>
+          <ID>2460326851</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Regrowth VIII</Text>
+          <ID>2873747467</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Supplication of the Fallen">
+        <ToolTip>Supplication of the Fallen</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Supplication of the Fallen</Text>
+          <ID>133282909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sylvan Touch">
+        <ToolTip>Sylvan Touch</ToolTip>
+        <Spell>
+          <Level>15</Level>
+          <Text>Sylvan Touch</Text>
+          <ID>1615517329</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Thornskin">
+        <ToolTip>Thornskin</ToolTip>
+        <Spell>
+          <Level>2</Level>
+          <Text>Thornskin</Text>
+          <ID>2061537244</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Thornskin II</Text>
+          <ID>2192321105</ID>
+        </Spell>
+        <Spell>
+          <Level>24</Level>
+          <Text>Thornskin III</Text>
+          <ID>1549013162</ID>
+        </Spell>
+        <Spell>
+          <Level>38</Level>
+          <Text>Thornskin IV</Text>
+          <ID>3619305200</ID>
+        </Spell>
+        <Spell>
+          <Level>52</Level>
+          <Text>Thornskin V</Text>
+          <ID>652266626</ID>
+        </Spell>
+        <Spell>
+          <Level>66</Level>
+          <Text>Thornskin VI</Text>
+          <ID>1250749548</ID>
+        </Spell>
+        <Spell>
+          <Level>77</Level>
+          <Text>Thornskin VII</Text>
+          <ID>912890459</ID>
+        </Spell>
+        <Spell>
+          <Level>87</Level>
+          <Text>Thornskin VIII</Text>
+          <ID>3373818158</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Guardian">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Intercept">
+        <ToolTip>Intercept</ToolTip>
+        <Spell>
+          <Level>6</Level>
+          <Text>Intercept</Text>
+          <ID>3033583038</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Intercept II</Text>
+          <ID>1768432098</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Intercept III</Text>
+          <ID>101378472</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Moderate">
+        <ToolTip>Moderate</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Moderate</Text>
+          <ID>2827549737</ID>
+        </Spell>
+        <Spell>
+          <Level>35</Level>
+          <Text>Moderate II</Text>
+          <ID>2674432464</ID>
+        </Spell>
+        <Spell>
+          <Level>49</Level>
+          <Text>Moderate III</Text>
+          <ID>2615846370</ID>
+        </Spell>
+        <Spell>
+          <Level>63</Level>
+          <Text>Moderate IV</Text>
+          <ID>1339121559</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Never Surrender">
+        <ToolTip>Never Surrender</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Never Surrender</Text>
+          <ID>2193493462</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Never Surrender II</Text>
+          <ID>3834770023</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Never Surrender III</Text>
+          <ID>4168865724</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Never Surrender IV</Text>
+          <ID>2982903136</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sentinel">
+        <ToolTip>Sentinel</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Sentinel</Text>
+          <ID>394791571</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Sentinel II</Text>
+          <ID>459388837</ID>
+        </Spell>
+        <Spell>
+          <Level>48</Level>
+          <Text>Sentinel III</Text>
+          <ID>394791571</ID>
+        </Spell>
+        <Spell>
+          <Level>62</Level>
+          <Text>Sentinel IV</Text>
+          <ID>2646868696</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Shoulder the Burden">
+        <ToolTip>Shoulder the Burden</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Shoulder the Burden</Text>
+          <ID>285176763</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Illusionist">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Doppleganger">
+        <ToolTip>Doppleganger</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Doppleganger</Text>
+          <ID>1556556987</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Doppleganger II</Text>
+          <ID>3845977939</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Illusory Arm">
+        <ToolTip>Illusory Arm</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Illusory Arm</Text>
+          <ID>296364590</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mana Cloak">
+        <ToolTip>Mana Cloak</ToolTip>
+        <Spell>
+          <Level>35</Level>
+          <Text>Mana Cloak</Text>
+          <ID>2324198425</ID>
+        </Spell>
+        <Spell>
+          <Level>53</Level>
+          <Text>Mana Cloak II</Text>
+          <ID>3289732337</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Mana Cloak III</Text>
+          <ID>2110871988</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Mana Cloak IV</Text>
+          <ID>1850208453</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Mana Cloak V</Text>
+          <ID>3016829248</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mana Flow">
+        <ToolTip>Mana Flow</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Mana Flow</Text>
+          <ID>1945409072</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Rapidity">
+        <ToolTip>Rapidity</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Rapidity</Text>
+          <ID>1477218420</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Rapidity II</Text>
+          <ID>9117198</ID>
+        </Spell>
+        <Spell>
+          <Level>48</Level>
+          <Text>Rapidity III</Text>
+          <ID>3081359513</ID>
+        </Spell>
+        <Spell>
+          <Level>62</Level>
+          <Text>Rapidity IV</Text>
+          <ID>1811382865</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sever Hate">
+        <ToolTip>Sever Hate</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Sever Hate</Text>
+          <ID>237735835</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Spellshield">
+        <ToolTip>Spellshield</ToolTip>
+        <Spell>
+          <Level>58</Level>
+          <Text>Spellshield</Text>
+          <ID>1432010721</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Synergism">
+        <ToolTip>Synergism</ToolTip>
+        <Spell>
+          <Level>35</Level>
+          <Text>Synergism</Text>
+          <ID>2005616945</ID>
+        </Spell>
+        <Spell>
+          <Level>49</Level>
+          <Text>Synergism II</Text>
+          <ID>2337256011</ID>
+        </Spell>
+        <Spell>
+          <Level>63</Level>
+          <Text>Synergism III</Text>
+          <ID>4158816328</ID>
+        </Spell>
+        <Spell>
+          <Level>75</Level>
+          <Text>Synergism IV</Text>
+          <ID>3073128528</ID>
+        </Spell>
+        <Spell>
+          <Level>85</Level>
+          <Text>Synergism V</Text>
+          <ID>4133918997</ID>
+        </Spell>
+        <Spell>
+          <Level>95</Level>
+          <Text>Synergism VI</Text>
+          <ID>1841550714</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Time Compression">
+        <ToolTip>Time Compression</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Time Compression</Text>
+          <ID>2304840099</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Time Warp">
+        <ToolTip>Time Warp</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Time Warp</Text>
+          <ID>3020295062</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Touch of Empathy">
+        <ToolTip>Touch of Empathy</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Touch of Empathy</Text>
+          <ID>2421103160</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Inquisitor">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Chilling Invigoration">
+        <ToolTip>Chilling Invigoration</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Chilling Invigoration</Text>
+          <ID>3659424627</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Conversion of the Soul">
+        <ToolTip>Conversion of the Soul</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Conversion of the Soul</Text>
+          <ID>363447997</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Fanatical Healing">
+        <ToolTip>Fanatical Healing</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Fanatical Healing</Text>
+          <ID>2493734826</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Fanatical Healing II</Text>
+          <ID>1236046508</ID>
+        </Spell>
+        <Spell>
+          <Level>18</Level>
+          <Text>Fanatical Healing III</Text>
+          <ID>1666305466</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Fanatical Healing IV</Text>
+          <ID>4004566745</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Fanatical Healing V</Text>
+          <ID>900403021</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Fanatical Healing VI</Text>
+          <ID>4089064119</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Fanatical Healing VII</Text>
+          <ID>4124612351</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Fanatical Healing VIII</Text>
+          <ID>1226106745</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Fanatical Healing IX</Text>
+          <ID>745790527</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Ministration">
+        <ToolTip>Ministration</ToolTip>
+        <Spell>
+          <Level>1</Level>
+          <Text>Ministration</Text>
+          <ID>759839429</ID>
+        </Spell>
+        <Spell>
+          <Level>7</Level>
+          <Text>Ministration II</Text>
+          <ID>2766199209</ID>
+        </Spell>
+        <Spell>
+          <Level>15</Level>
+          <Text>Ministration III</Text>
+          <ID>467053480</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Ministration IV</Text>
+          <ID>2395571978</ID>
+        </Spell>
+        <Spell>
+          <Level>29</Level>
+          <Text>Ministration V</Text>
+          <ID>966134467</ID>
+        </Spell>
+        <Spell>
+          <Level>43</Level>
+          <Text>Ministration VI</Text>
+          <ID>2750594157</ID>
+        </Spell>
+        <Spell>
+          <Level>57</Level>
+          <Text>Ministration VII</Text>
+          <ID>1834882570</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Ministration VIII</Text>
+          <ID>2347916808</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Ministration IX</Text>
+          <ID>3749354901</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Ministration X</Text>
+          <ID>1719748221</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Penance">
+        <ToolTip>Penance</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Penance</Text>
+          <ID>2739911483</ID>
+        </Spell>
+        <Spell>
+          <Level>19</Level>
+          <Text>Penance II</Text>
+          <ID>555361766</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Penance III</Text>
+          <ID>2453909181</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Penance IV</Text>
+          <ID>872144021</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Penance V</Text>
+          <ID>1287978567</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Penance VI</Text>
+          <ID>2126014885</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Penance VII</Text>
+          <ID>998195682</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Penance VIII</Text>
+          <ID>3396606575</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Radiance">
+        <ToolTip>Radiance</ToolTip>
+        <Spell>
+          <Level>15</Level>
+          <Text>Radiance</Text>
+          <ID>2059458919</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Redemption">
+        <ToolTip>Redemption</ToolTip>
+        <Spell>
+          <Level>41</Level>
+          <Text>Redemption</Text>
+          <ID>1252901005</ID>
+        </Spell>
+        <Spell>
+          <Level>55</Level>
+          <Text>Redemption II</Text>
+          <ID>2773745123</ID>
+        </Spell>
+        <Spell>
+          <Level>69</Level>
+          <Text>Redemption III</Text>
+          <ID>2611307269</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Redemption IV</Text>
+          <ID>1007543134</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Redemption V</Text>
+          <ID>1479991338</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sacrifice">
+        <ToolTip>Sacrifice</ToolTip>
+        <Spell>
+          <Level>15</Level>
+          <Text>Sacrifice</Text>
+          <ID>3623335613</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Supplication of the Fallen">
+        <ToolTip>Supplication of the Fallen</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Supplication of the Fallen</Text>
+          <ID>133282909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Tenacity">
+        <ToolTip>Tenacity</ToolTip>
+        <Spell>
+          <Level>4</Level>
+          <Text>Tenacity</Text>
+          <ID>745921444</ID>
+        </Spell>
+        <Spell>
+          <Level>16</Level>
+          <Text>Tenacity II</Text>
+          <ID>4234438373</ID>
+        </Spell>
+        <Spell>
+          <Level>30</Level>
+          <Text>Tenacity III</Text>
+          <ID>3002372253</ID>
+        </Spell>
+        <Spell>
+          <Level>44</Level>
+          <Text>Tenacity IV</Text>
+          <ID>2486721636</ID>
+        </Spell>
+        <Spell>
+          <Level>58</Level>
+          <Text>Tenacity V</Text>
+          <ID>1546906825</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Tenacity VI</Text>
+          <ID>1487590821</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Tenacity VII</Text>
+          <ID>3411157347</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Tenacity VIII</Text>
+          <ID>182255267</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Monk">
+      <SpellLine name="Altruism">
+        <ToolTip>Altruism</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Altruism</Text>
+          <ID>2017894776</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Intercept">
+        <ToolTip>Intercept</ToolTip>
+        <Spell>
+          <Level>6</Level>
+          <Text>Intercept</Text>
+          <ID>3033583038</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Intercept II</Text>
+          <ID>1768432098</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Intercept III</Text>
+          <ID>101378472</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mend">
+        <ToolTip>Mend</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Mend</Text>
+          <ID>3242124289</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Mend II</Text>
+          <ID>721957876</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Mend III</Text>
+          <ID>112342185</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Mend IV</Text>
+          <ID>80636041</ID>
+        </Spell>
+        <Spell>
+          <Level>48</Level>
+          <Text>Mend V</Text>
+          <ID>934078257</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Tranquil Vision">
+        <ToolTip>Tranquil Vision</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Tranquil Vision</Text>
+          <ID>544354214</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Tranquil Vision II</Text>
+          <ID>3579756463</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Tranquil Vision III</Text>
+          <ID>708077976</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Tranquil Vision IV</Text>
+          <ID>238703741</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Mystic">
+      <SpellLine name="Ancestral Balm">
+        <ToolTip>Ancestral Balm</ToolTip>
+        <Spell>
+          <Level>58</Level>
+          <Text>Ancestral Balm</Text>
+          <ID>1201946921</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Ancestral Balm II</Text>
+          <ID>3537042667</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Ancestral Balm III</Text>
+          <ID>340840254</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Ancestral Savior">
+        <ToolTip>Ancestral Savior</ToolTip>
+        <Spell>
+          <Level>41</Level>
+          <Text>Ancestral Savior</Text>
+          <ID>740637785</ID>
+        </Spell>
+        <Spell>
+          <Level>55</Level>
+          <Text>Ancestral Savior II</Text>
+          <ID>2012002808</ID>
+        </Spell>
+        <Spell>
+          <Level>69</Level>
+          <Text>Ancestral Savior III</Text>
+          <ID>3807319112</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Ancestral Savior IV</Text>
+          <ID>3895182824</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Ancestral Savior V</Text>
+          <ID>1070155184</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Ancestral Ward">
+        <ToolTip>Ancestral Ward</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Ancestral Ward</Text>
+          <ID>1804412850</ID>
+        </Spell>
+        <Spell>
+          <Level>19</Level>
+          <Text>Ancestral Ward II</Text>
+          <ID>827722767</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Ancestral Ward III</Text>
+          <ID>3356446724</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Ancestral Ward IV</Text>
+          <ID>4145349802</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Ancestral Ward V</Text>
+          <ID>3396252746</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Ancestral Ward VI</Text>
+          <ID>3604463143</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Ancestral Ward VII</Text>
+          <ID>1663775277</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Ancestral Ward VIII</Text>
+          <ID>4270332227</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Bolster">
+        <ToolTip>Bolster</ToolTip>
+        <Spell>
+          <Level>65</Level>
+          <Text>Bolster</Text>
+          <ID>3484670453</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Eidolic Ward">
+        <ToolTip>Eidolic Ward</ToolTip>
+        <Spell>
+          <Level>15</Level>
+          <Text>Eidolic Ward</Text>
+          <ID>2936879794</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Oberon">
+        <ToolTip>Oberon</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Oberon</Text>
+          <ID>1719185754</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Oberon II</Text>
+          <ID>1752859071</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Oberon III</Text>
+          <ID>1581693773</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Oberon IV</Text>
+          <ID>2553630001</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Premonition">
+        <ToolTip>Premonition</ToolTip>
+        <Spell>
+          <Level>4</Level>
+          <Text>Premonition</Text>
+          <ID>64748398</ID>
+        </Spell>
+        <Spell>
+          <Level>16</Level>
+          <Text>Premonition II</Text>
+          <ID>3056957686</ID>
+        </Spell>
+        <Spell>
+          <Level>30</Level>
+          <Text>Premonition III</Text>
+          <ID>444278822</ID>
+        </Spell>
+        <Spell>
+          <Level>44</Level>
+          <Text>Premonition IV</Text>
+          <ID>2057500355</ID>
+        </Spell>
+        <Spell>
+          <Level>58</Level>
+          <Text>Premonition V</Text>
+          <ID>1663008317</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Premonition VI</Text>
+          <ID>99462521</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Premonition VII</Text>
+          <ID>1400445327</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Premonition VIII</Text>
+          <ID>3463903481</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Rejuvenation">
+        <ToolTip>Rejuvenation</ToolTip>
+        <Spell>
+          <Level>1</Level>
+          <Text>Rejuvenation</Text>
+          <ID>3274438181</ID>
+        </Spell>
+        <Spell>
+          <Level>7</Level>
+          <Text>Rejuvenation II</Text>
+          <ID>3408448735</ID>
+        </Spell>
+        <Spell>
+          <Level>15</Level>
+          <Text>Rejuvenation III</Text>
+          <ID>2232343269</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Rejuvenation IV</Text>
+          <ID>3145543790</ID>
+        </Spell>
+        <Spell>
+          <Level>29</Level>
+          <Text>Rejuvenation V</Text>
+          <ID>2490559713</ID>
+        </Spell>
+        <Spell>
+          <Level>43</Level>
+          <Text>Rejuvenation VI</Text>
+          <ID>916924469</ID>
+        </Spell>
+        <Spell>
+          <Level>57</Level>
+          <Text>Rejuvenation VII</Text>
+          <ID>3537124650</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Rejuvenation VIII</Text>
+          <ID>423701891</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Rejuvenation IX</Text>
+          <ID>1305079326</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Rejuvenation X</Text>
+          <ID>4096931318</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Ritual Healing">
+        <ToolTip>Ritual Healing</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Ritual Healing</Text>
+          <ID>2385577370</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Ritual Healing II</Text>
+          <ID>1980933536</ID>
+        </Spell>
+        <Spell>
+          <Level>18</Level>
+          <Text>Ritual Healing III</Text>
+          <ID>4120970950</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Ritual Healing IV</Text>
+          <ID>4160279742</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Ritual Healing V</Text>
+          <ID>1678922074</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Ritual Healing VI</Text>
+          <ID>742510228</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Ritual Healing VII</Text>
+          <ID>3754198906</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Ritual Healing VIII</Text>
+          <ID>424064175</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Ritual Healing IX</Text>
+          <ID>2665512940</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Supplication of the Fallen">
+        <ToolTip>Supplication of the Fallen</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Supplication of the Fallen</Text>
+          <ID>133282909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Torpor">
+        <ToolTip>Torpor</ToolTip>
+        <Spell>
+          <Level>52</Level>
+          <Text>Torpor</Text>
+          <ID>902524875</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Torpor II</Text>
+          <ID>2039140121</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Torpor III</Text>
+          <ID>2258735073</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Torpor IV</Text>
+          <ID>2447023010</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Necromancer">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Dark Heart">
+        <ToolTip>Dark Heart</ToolTip>
+        <Spell>
+          <Level>18</Level>
+          <Text>Dark Heart</Text>
+          <ID>1852049104</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Revivication">
+        <ToolTip>Revivication</ToolTip>
+        <Spell>
+          <Level>48</Level>
+          <Text>Revivication</Text>
+          <ID>403740096</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Transfer Life">
+        <ToolTip>Transfer Life</ToolTip>
+        <Spell>
+          <Level>33</Level>
+          <Text>Transfer Life</Text>
+          <ID>3450843944</ID>
+        </Spell>
+        <Spell>
+          <Level>47</Level>
+          <Text>Transfer Life II</Text>
+          <ID>1042106285</ID>
+        </Spell>
+        <Spell>
+          <Level>61</Level>
+          <Text>Transfer Life III</Text>
+          <ID>214045967</ID>
+        </Spell>
+        <Spell>
+          <Level>74</Level>
+          <Text>Transfer Life IV</Text>
+          <ID>1244024435</ID>
+        </Spell>
+        <Spell>
+          <Level>84</Level>
+          <Text>Transfer Life V</Text>
+          <ID>487128566</ID>
+        </Spell>
+        <Spell>
+          <Level>94</Level>
+          <Text>Transfer Life VI</Text>
+          <ID>3009440871</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Vampirism">
+        <ToolTip>Vampirism</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Vampirism</Text>
+          <ID>4248972491</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Vampirism II</Text>
+          <ID>1726439588</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Paladin">
+      <SpellLine name="Amends">
+        <ToolTip>Amends</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Amends</Text>
+          <ID>1127918058</ID>
+        </Spell>
+        <Spell>
+          <Level>35</Level>
+          <Text>Amends II</Text>
+          <ID>1055233082</ID>
+        </Spell>
+        <Spell>
+          <Level>49</Level>
+          <Text>Amends III</Text>
+          <ID>3824506796</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Arch Heal">
+        <ToolTip>Arch Heal</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Arch Heal</Text>
+          <ID>816148431</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Demonstration of Faith">
+        <ToolTip>Demonstration of Faith</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Demonstration of Faith</Text>
+          <ID>2029186056</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Demonstration of Faith II</Text>
+          <ID>4070937418</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Demonstration of Faith III</Text>
+          <ID>2868612197</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Demonstration of Faith IV</Text>
+          <ID>1402585519</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Demonstration of Faith V</Text>
+          <ID>1698381326</ID>
+        </Spell>
+        <Spell>
+          <Level>79</Level>
+          <Text>Demonstration of Faith VI</Text>
+          <ID>3305085423</ID>
+        </Spell>
+        <Spell>
+          <Level>89</Level>
+          <Text>Demonstration of Faith VII</Text>
+          <ID>2069985831</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Elixir of Resuscitation">
+        <ToolTip>Elixir of Resuscitation</ToolTip>
+        <Spell>
+          <Level>44</Level>
+          <Text>Elixir of Resuscitation</Text>
+          <ID>2024910418</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Holy Aid">
+        <ToolTip>Holy Aid</ToolTip>
+        <Spell>
+          <Level>11</Level>
+          <Text>Holy Aid</Text>
+          <ID>3063029855</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Holy Aid II</Text>
+          <ID>1838859133</ID>
+        </Spell>
+        <Spell>
+          <Level>36</Level>
+          <Text>Holy Aid III</Text>
+          <ID>2061621054</ID>
+        </Spell>
+        <Spell>
+          <Level>50</Level>
+          <Text>Holy Aid IV</Text>
+          <ID>2431844110</ID>
+        </Spell>
+        <Spell>
+          <Level>64</Level>
+          <Text>Holy Aid V</Text>
+          <ID>845213229</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Holy Aid VI</Text>
+          <ID>3420581820</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Holy Aid VII</Text>
+          <ID>1478040442</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Intercept">
+        <ToolTip>Intercept</ToolTip>
+        <Spell>
+          <Level>6</Level>
+          <Text>Intercept</Text>
+          <ID>3033583038</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Intercept II</Text>
+          <ID>1768432098</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Intercept III</Text>
+          <ID>101378472</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Lay on Hands">
+        <ToolTip>Lay on Hands</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Lay on Hands</Text>
+          <ID>386796067</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Lay on Hands II</Text>
+          <ID>544197128</ID>
+        </Spell>
+        <Spell>
+          <Level>48</Level>
+          <Text>Lay on Hands III</Text>
+          <ID>2861630187</ID>
+        </Spell>
+        <Spell>
+          <Level>62</Level>
+          <Text>Lay on Hands IV</Text>
+          <ID>2836355417</ID>
+        </Spell>
+        <Spell>
+          <Level>74</Level>
+          <Text>Lay on Hands V</Text>
+          <ID>164107332</ID>
+        </Spell>
+        <Spell>
+          <Level>84</Level>
+          <Text>Lay on Hands VI</Text>
+          <ID>120310698</ID>
+        </Spell>
+        <Spell>
+          <Level>94</Level>
+          <Text>Lay on Hands VII</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Pledge of Armament">
+        <ToolTip>Pledge of Armament</ToolTip>
+        <Spell>
+          <Level>17</Level>
+          <Text>Pledge of Armament</Text>
+          <ID>3723927387</ID>
+        </Spell>
+        <Spell>
+          <Level>31</Level>
+          <Text>Pledge of Armament II</Text>
+          <ID>2777745996</ID>
+        </Spell>
+        <Spell>
+          <Level>45</Level>
+          <Text>Pledge of Armament III</Text>
+          <ID>3076231194</ID>
+        </Spell>
+        <Spell>
+          <Level>59</Level>
+          <Text>Pledge of Armament IV</Text>
+          <ID>822230951</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Pledge of Armament V</Text>
+          <ID>2989323403</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Pledge of Armament VI</Text>
+          <ID>3469087178</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Pledge of Armament VII</Text>
+          <ID>1360826964</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Resolute Faith">
+        <ToolTip>Resolute Faith</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Resolute Faith</Text>
+          <ID>4071715749</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Resolute Faith II</Text>
+          <ID>591564459</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Resolute Faith III</Text>
+          <ID>2988348820</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Resolute Faith IV</Text>
+          <ID>1119521305</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Ranger">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Focus Aim">
+        <ToolTip>Focus Aim</ToolTip>
+        <Spell>
+          <Level>22</Level>
+          <Text>Focus Aim</Text>
+          <ID>1896571032</ID>
+        </Spell>
+        <Spell>
+          <Level>36</Level>
+          <Text>Focus Aim II</Text>
+          <ID>3093200593</ID>
+        </Spell>
+        <Spell>
+          <Level>50</Level>
+          <Text>Focus Aim III</Text>
+          <ID>773886649</ID>
+        </Spell>
+        <Spell>
+          <Level>64</Level>
+          <Text>Focus Aim IV</Text>
+          <ID>3684663834</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Honed Reflexes">
+        <ToolTip>Honed Reflexes</ToolTip>
+        <Spell>
+          <Level>35</Level>
+          <Text>Honed Reflexes</Text>
+          <ID>3655255681</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Killing Instinct">
+        <ToolTip>Killing Instinct</ToolTip>
+        <Spell>
+          <Level>40</Level>
+          <Text>Killing Instinct</Text>
+          <ID>497000173</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Killing Instinct II</Text>
+          <ID>220170012</ID>
+        </Spell>
+        <Spell>
+          <Level>67</Level>
+          <Text>Killing Instinct III</Text>
+          <ID>182657177</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Shadowknight">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Devious Evasion">
+        <ToolTip>Devious Evasion</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Devious Evasion</Text>
+          <ID>777149751</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Devious Evasion II</Text>
+          <ID>2504110877</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Devious Evasion III</Text>
+          <ID>967155755</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Devious Evasion IV</Text>
+          <ID>2392447075</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Intercept">
+        <ToolTip>Intercept</ToolTip>
+        <Spell>
+          <Level>6</Level>
+          <Text>Intercept</Text>
+          <ID>3033583038</ID>
+        </Spell>
+        <Spell>
+          <Level>20</Level>
+          <Text>Intercept II</Text>
+          <ID>1768432098</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Intercept III</Text>
+          <ID>101378472</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mortal Embrace">
+        <ToolTip>Mortal Embrace</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Mortal Embrace</Text>
+          <ID>3853171077</ID>
+        </Spell>
+        <Spell>
+          <Level>35</Level>
+          <Text>Mortal Embrace II</Text>
+          <ID>1678827880</ID>
+        </Spell>
+        <Spell>
+          <Level>49</Level>
+          <Text>Mortal Embrace III</Text>
+          <ID>2730632393</ID>
+        </Spell>
+        <Spell>
+          <Level>63</Level>
+          <Text>Mortal Embrace IV</Text>
+          <ID>2130014620</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Pledge of Armament">
+        <ToolTip>Pledge of Armament</ToolTip>
+        <Spell>
+          <Level>17</Level>
+          <Text>Pledge of Armament</Text>
+          <ID>3723927387</ID>
+        </Spell>
+        <Spell>
+          <Level>31</Level>
+          <Text>Pledge of Armament II</Text>
+          <ID>2777745996</ID>
+        </Spell>
+        <Spell>
+          <Level>45</Level>
+          <Text>Pledge of Armament III</Text>
+          <ID>3076231194</ID>
+        </Spell>
+        <Spell>
+          <Level>59</Level>
+          <Text>Pledge of Armament IV</Text>
+          <ID>822230951</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Pledge of Armament V</Text>
+          <ID>2989323403</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Pledge of Armament VI</Text>
+          <ID>3469087178</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Pledge of Armament VII</Text>
+          <ID>1360826964</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Unholy Blessing">
+        <ToolTip>Unholy Blessing</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Unholy Blessing</Text>
+          <ID>1693136731</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Unholy Blessing II</Text>
+          <ID>2829832338</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Unholy Blessing III</Text>
+          <ID>199101013</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Unholy Blessing IV</Text>
+          <ID>750326434</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Unholy Blessing V</Text>
+          <ID>4009986594</ID>
+        </Spell>
+        <Spell>
+          <Level>79</Level>
+          <Text>Unholy Blessing VI</Text>
+          <ID>4057210147</ID>
+        </Spell>
+        <Spell>
+          <Level>89</Level>
+          <Text>Unholy Blessing VII</Text>
+          <ID>1989277570</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Swashbuckler">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sleight of Hand">
+        <ToolTip>Sleight of Hand</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Sleight of Hand</Text>
+          <ID>2737608260</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Sleight of Hand II</Text>
+          <ID>1283334309</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Swarthy Deception">
+        <ToolTip>Swarthy Deception</ToolTip>
+        <Spell>
+          <Level>21</Level>
+          <Text>Swarthy Deception</Text>
+          <ID>4277398471</ID>
+        </Spell>
+        <Spell>
+          <Level>34</Level>
+          <Text>Swarthy Deception II</Text>
+          <ID>1982111103</ID>
+        </Spell>
+        <Spell>
+          <Level>48</Level>
+          <Text>Swarthy Deception III</Text>
+          <ID>4076332660</ID>
+        </Spell>
+        <Spell>
+          <Level>62</Level>
+          <Text>Swarthy Deception IV</Text>
+          <ID>1064363633</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Templar">
+      <SpellLine name="Aegolism">
+        <ToolTip>Aegolism</ToolTip>
+        <Spell>
+          <Level>4</Level>
+          <Text>Aegolism</Text>
+          <ID>2031280923</ID>
+        </Spell>
+        <Spell>
+          <Level>16</Level>
+          <Text>Aegolism II</Text>
+          <ID>683699427</ID>
+        </Spell>
+        <Spell>
+          <Level>30</Level>
+          <Text>Aegolism III</Text>
+          <ID>364581814</ID>
+        </Spell>
+        <Spell>
+          <Level>44</Level>
+          <Text>Aegolism IV</Text>
+          <ID>1584349090</ID>
+        </Spell>
+        <Spell>
+          <Level>58</Level>
+          <Text>Aegolism V</Text>
+          <ID>3371009269</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Aegolism VI</Text>
+          <ID>4057145639</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Aegolism VII</Text>
+          <ID>1647039969</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Aegolism VIII</Text>
+          <ID>2745502241</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Battle's Reprieve">
+        <ToolTip>Battle's Reprieve</ToolTip>
+        <Spell>
+          <Level>22</Level>
+          <Text>Battle's Reprieve</Text>
+          <ID>1039988071</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Focused Intervention">
+        <ToolTip>Focused Intervention</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Focused Intervention</Text>
+          <ID>302740829</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Focused Intervention II</Text>
+          <ID>1361727513</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Focused Intervention III</Text>
+          <ID>392909682</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Focused Intervention IV</Text>
+          <ID>2350430630</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Glory">
+        <ToolTip>Glory</ToolTip>
+        <Spell>
+          <Level>47</Level>
+          <Text>Glory</Text>
+          <ID>995090721</ID>
+        </Spell>
+        <Spell>
+          <Level>61</Level>
+          <Text>Glory II</Text>
+          <ID>346113134</ID>
+        </Spell>
+        <Spell>
+          <Level>75</Level>
+          <Text>Glory III</Text>
+          <ID>3682754666</ID>
+        </Spell>
+        <Spell>
+          <Level>85</Level>
+          <Text>Glory IV</Text>
+          <ID>44200646</ID>
+        </Spell>
+        <Spell>
+          <Level>95</Level>
+          <Text>Glory V</Text>
+          <ID>3456660056</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Holy Salvation">
+        <ToolTip>Holy Salvation</ToolTip>
+        <Spell>
+          <Level>41</Level>
+          <Text>Holy Salvation</Text>
+          <ID>2106273833</ID>
+        </Spell>
+        <Spell>
+          <Level>55</Level>
+          <Text>Holy Salvation II</Text>
+          <ID>204882841</ID>
+        </Spell>
+        <Spell>
+          <Level>69</Level>
+          <Text>Holy Salvation III</Text>
+          <ID>1343463176</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Holy Salvation IV</Text>
+          <ID>885758392</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Holy Salvation V</Text>
+          <ID>3010286331</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Meliorate">
+        <ToolTip>Meliorate</ToolTip>
+        <Spell>
+          <Level>1</Level>
+          <Text>Meliorate</Text>
+          <ID>4116243794</ID>
+        </Spell>
+        <Spell>
+          <Level>7</Level>
+          <Text>Meliorate II</Text>
+          <ID>4105544774</ID>
+        </Spell>
+        <Spell>
+          <Level>15</Level>
+          <Text>Meliorate III</Text>
+          <ID>882183196</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Meliorate IV</Text>
+          <ID>1530301492</ID>
+        </Spell>
+        <Spell>
+          <Level>29</Level>
+          <Text>Meliorate V</Text>
+          <ID>3822996630</ID>
+        </Spell>
+        <Spell>
+          <Level>43</Level>
+          <Text>Meliorate VI</Text>
+          <ID>117904398</ID>
+        </Spell>
+        <Spell>
+          <Level>57</Level>
+          <Text>Meliorate VII</Text>
+          <ID>748855261</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Meliorate VIII</Text>
+          <ID>2008130855</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Meliorate IX</Text>
+          <ID>86325846</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Meliorate X</Text>
+          <ID>2659219001</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Repent">
+        <ToolTip>Repent</ToolTip>
+        <Spell>
+          <Level>80</Level>
+          <Text>Repent</Text>
+          <ID>812510470</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Repent II</Text>
+          <ID>655817029</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Restoration">
+        <ToolTip>Restoration</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Restoration</Text>
+          <ID>4128489925</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Restoration II</Text>
+          <ID>3993156297</ID>
+        </Spell>
+        <Spell>
+          <Level>18</Level>
+          <Text>Restoration III</Text>
+          <ID>3375721743</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Restoration IV</Text>
+          <ID>3340399949</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Restoration V</Text>
+          <ID>2536189314</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Restoration VI</Text>
+          <ID>1668131513</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Restoration VII</Text>
+          <ID>3553854409</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Restoration VIII</Text>
+          <ID>2718812170</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Restoration IX</Text>
+          <ID>1057106300</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Resurrect">
+        <ToolTip>Resurrect</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Resurrect</Text>
+          <ID>2202530924</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Reverence">
+        <ToolTip>Reverence</ToolTip>
+        <Spell>
+          <Level>52</Level>
+          <Text>Reverence</Text>
+          <ID>3329267101</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Supplication of the Fallen">
+        <ToolTip>Supplication of the Fallen</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Supplication of the Fallen</Text>
+          <ID>133282909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Vital Intercession">
+        <ToolTip>Vital Intercession</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Vital Intercession</Text>
+          <ID>153147335</ID>
+        </Spell>
+        <Spell>
+          <Level>19</Level>
+          <Text>Vital Intercession II</Text>
+          <ID>995249343</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Vital Intercession III</Text>
+          <ID>1899956381</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Vital Intercession IV</Text>
+          <ID>2205405453</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Vital Intercession V</Text>
+          <ID>125769492</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Vital Intercession VI</Text>
+          <ID>236122270</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Vital Intercession VII</Text>
+          <ID>2819125823</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Vital Intercession VIII</Text>
+          <ID>3827170577</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Troubador">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Energizing Ballad">
+        <ToolTip>Energizing Ballad</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Energizing Ballad</Text>
+          <ID>2602290947</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Jester's Cap">
+        <ToolTip>Jester's Cap</ToolTip>
+        <Spell>
+          <Level>65</Level>
+          <Text>Jester's Cap</Text>
+          <ID>2991120526</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Upbeat Tempo">
+        <ToolTip>Upbeat Tempo</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Upbeat Tempo</Text>
+          <ID>2079430997</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Warden">
+      <SpellLine name="Aspect of the Forest">
+        <ToolTip>Aspect of the Forest</ToolTip>
+        <Spell>
+          <Level>4</Level>
+          <Text>Aspect of the Forest</Text>
+          <ID>2013857554</ID>
+        </Spell>
+        <Spell>
+          <Level>16</Level>
+          <Text>Aspect of the Forest II</Text>
+          <ID>212768170</ID>
+        </Spell>
+        <Spell>
+          <Level>30</Level>
+          <Text>Aspect of the Forest III</Text>
+          <ID>77653062</ID>
+        </Spell>
+        <Spell>
+          <Level>44</Level>
+          <Text>Aspect of the Forest IV</Text>
+          <ID>59665586</ID>
+        </Spell>
+        <Spell>
+          <Level>58</Level>
+          <Text>Aspect of the Forest V</Text>
+          <ID>4221668459</ID>
+        </Spell>
+        <Spell>
+          <Level>72</Level>
+          <Text>Aspect of the Forest VI</Text>
+          <ID>4085393302</ID>
+        </Spell>
+        <Spell>
+          <Level>82</Level>
+          <Text>Aspect of the Forest VII</Text>
+          <ID>2239953950</ID>
+        </Spell>
+        <Spell>
+          <Level>92</Level>
+          <Text>Aspect of the Forest VIII</Text>
+          <ID>519116490</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Hierophantic Genesis">
+        <ToolTip>Hierophantic Genesis</ToolTip>
+        <Spell>
+          <Level>50</Level>
+          <Text>Hierophantic Genesis</Text>
+          <ID>3124080057</ID>
+        </Spell>
+        <Spell>
+          <Level>70</Level>
+          <Text>Hierophantic Genesis II</Text>
+          <ID>107280614</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Hierophantic Genesis III</Text>
+          <ID>4259559649</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Hierophantic Genesis IV</Text>
+          <ID>2124305548</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Nature's Embrace">
+        <ToolTip>Nature's Embrace</ToolTip>
+        <Spell>
+          <Level>3</Level>
+          <Text>Nature's Embrace</Text>
+          <ID>1229655748</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Nature's Embrace II</Text>
+          <ID>934663489</ID>
+        </Spell>
+        <Spell>
+          <Level>18</Level>
+          <Text>Nature's Embrace III</Text>
+          <ID>3709094785</ID>
+        </Spell>
+        <Spell>
+          <Level>32</Level>
+          <Text>Nature's Embrace IV</Text>
+          <ID>1510183539</ID>
+        </Spell>
+        <Spell>
+          <Level>46</Level>
+          <Text>Nature's Embrace V</Text>
+          <ID>2674414587</ID>
+        </Spell>
+        <Spell>
+          <Level>60</Level>
+          <Text>Nature's Embrace VI</Text>
+          <ID>807066005</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Nature's Embrace VII</Text>
+          <ID>2977442704</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Nature's Embrace VIII</Text>
+          <ID>439982755</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Nature's Embrace IX</Text>
+          <ID>4117441602</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Nature's Renewal">
+        <ToolTip>Nature's Renewal</ToolTip>
+        <Spell>
+          <Level>41</Level>
+          <Text>Nature's Renewal</Text>
+          <ID>974014601</ID>
+        </Spell>
+        <Spell>
+          <Level>55</Level>
+          <Text>Nature's Renewal II</Text>
+          <ID>4237648378</ID>
+        </Spell>
+        <Spell>
+          <Level>69</Level>
+          <Text>Nature's Renewal III</Text>
+          <ID>924928466</ID>
+        </Spell>
+        <Spell>
+          <Level>80</Level>
+          <Text>Nature's Renewal IV</Text>
+          <ID>1559652041</ID>
+        </Spell>
+        <Spell>
+          <Level>90</Level>
+          <Text>Nature's Renewal V</Text>
+          <ID>3013922856</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Photosynthesis">
+        <ToolTip>Photosynthesis</ToolTip>
+        <Spell>
+          <Level>12</Level>
+          <Text>Photosynthesis</Text>
+          <ID>1634151210</ID>
+        </Spell>
+        <Spell>
+          <Level>19</Level>
+          <Text>Photosynthesis II</Text>
+          <ID>1002176663</ID>
+        </Spell>
+        <Spell>
+          <Level>26</Level>
+          <Text>Photosynthesis III</Text>
+          <ID>1309925</ID>
+        </Spell>
+        <Spell>
+          <Level>40</Level>
+          <Text>Photosynthesis IV</Text>
+          <ID>2957438681</ID>
+        </Spell>
+        <Spell>
+          <Level>54</Level>
+          <Text>Photosynthesis V</Text>
+          <ID>1623618216</ID>
+        </Spell>
+        <Spell>
+          <Level>68</Level>
+          <Text>Photosynthesis VI</Text>
+          <ID>1300426726</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Photosynthesis VII</Text>
+          <ID>853550606</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Photosynthesis VIII</Text>
+          <ID>4100068827</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Spirit of the Bat">
+        <ToolTip>Spirit of the Bat</ToolTip>
+        <Spell>
+          <Level>35</Level>
+          <Text>Spirit of the Bat</Text>
+          <ID>1698192591</ID>
+        </Spell>
+        <Spell>
+          <Level>53</Level>
+          <Text>Spirit of the Bat II</Text>
+          <ID>144021401</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Spirit of the Bat III</Text>
+          <ID>589856662</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Spirit of the Bat IV</Text>
+          <ID>3189951061</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Spirit of the Bat V</Text>
+          <ID>3678794003</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Supplication of the Fallen">
+        <ToolTip>Supplication of the Fallen</ToolTip>
+        <Spell>
+          <Level>10</Level>
+          <Text>Supplication of the Fallen</Text>
+          <ID>133282909</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sylvan Bloom">
+        <ToolTip>Sylvan Bloom</ToolTip>
+        <Spell>
+          <Level>1</Level>
+          <Text>Sylvan Bloom</Text>
+          <ID>972042084</ID>
+        </Spell>
+        <Spell>
+          <Level>7</Level>
+          <Text>Sylvan Bloom II</Text>
+          <ID>1205207997</ID>
+        </Spell>
+        <Spell>
+          <Level>15</Level>
+          <Text>Sylvan Bloom III</Text>
+          <ID>1317653653</ID>
+        </Spell>
+        <Spell>
+          <Level>22</Level>
+          <Text>Sylvan Bloom IV</Text>
+          <ID>2689295207</ID>
+        </Spell>
+        <Spell>
+          <Level>29</Level>
+          <Text>Sylvan Bloom V</Text>
+          <ID>1555095324</ID>
+        </Spell>
+        <Spell>
+          <Level>43</Level>
+          <Text>Sylvan Bloom VI</Text>
+          <ID>2994512655</ID>
+        </Spell>
+        <Spell>
+          <Level>57</Level>
+          <Text>Sylvan Bloom VII</Text>
+          <ID>2046615093</ID>
+        </Spell>
+        <Spell>
+          <Level>71</Level>
+          <Text>Sylvan Bloom VIII</Text>
+          <ID>1994024703</ID>
+        </Spell>
+        <Spell>
+          <Level>81</Level>
+          <Text>Sylvan Bloom IX</Text>
+          <ID>575841634</ID>
+        </Spell>
+        <Spell>
+          <Level>91</Level>
+          <Text>Sylvan Bloom X</Text>
+          <ID>2611576458</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Sylvan Touch">
+        <ToolTip>Sylvan Touch</ToolTip>
+        <Spell>
+          <Level>15</Level>
+          <Text>Sylvan Touch</Text>
+          <ID>1615517329</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Thorncoat">
+        <ToolTip>Thorncoat</ToolTip>
+        <Spell>
+          <Level>2</Level>
+          <Text>Thorncoat</Text>
+          <ID>2368970071</ID>
+        </Spell>
+        <Spell>
+          <Level>10</Level>
+          <Text>Thorncoat II</Text>
+          <ID>1281318966</ID>
+        </Spell>
+        <Spell>
+          <Level>24</Level>
+          <Text>Thorncoat III</Text>
+          <ID>4045512752</ID>
+        </Spell>
+        <Spell>
+          <Level>38</Level>
+          <Text>Thorncoat IV</Text>
+          <ID>2986280772</ID>
+        </Spell>
+        <Spell>
+          <Level>52</Level>
+          <Text>Thorncoat V</Text>
+          <ID>3651018817</ID>
+        </Spell>
+        <Spell>
+          <Level>66</Level>
+          <Text>Thorncoat VI</Text>
+          <ID>3846148380</ID>
+        </Spell>
+        <Spell>
+          <Level>77</Level>
+          <Text>Thorncoat VII</Text>
+          <ID>119122066</ID>
+        </Spell>
+        <Spell>
+          <Level>87</Level>
+          <Text>Thorncoat VIII</Text>
+          <ID>912690669</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Tranquility">
+        <ToolTip>Tranquility</ToolTip>
+        <Spell>
+          <Level>65</Level>
+          <Text>Tranquility</Text>
+          <ID>1325608915</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Tranquility II</Text>
+          <ID>1059038020</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Tranquility III</Text>
+          <ID>3283360301</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Warlock">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Boon of the Damned">
+        <ToolTip>Boon of the Damned</ToolTip>
+        <Spell>
+          <Level>18</Level>
+          <Text>Boon of the Damned</Text>
+          <ID>789042833</ID>
+        </Spell>
+        <Spell>
+          <Level>33</Level>
+          <Text>Boon of the Damned II</Text>
+          <ID>3463782684</ID>
+        </Spell>
+        <Spell>
+          <Level>47</Level>
+          <Text>Boon of the Damned III</Text>
+          <ID>3788180172</ID>
+        </Spell>
+        <Spell>
+          <Level>61</Level>
+          <Text>Boon of the Damned IV</Text>
+          <ID>3394582416</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Boon of the Damned V</Text>
+          <ID>957759862</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Boon of the Damned VI</Text>
+          <ID>3545517484</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Boon of the Damned VII</Text>
+          <ID>1284427314</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Grasp of Bertoxxulous">
+        <ToolTip>Grasp of Bertoxxulous</ToolTip>
+        <Spell>
+          <Level>11</Level>
+          <Text>Grasp of Bertoxxulous</Text>
+          <ID>1084797273</ID>
+        </Spell>
+        <Spell>
+          <Level>25</Level>
+          <Text>Grasp of Bertoxxulous II</Text>
+          <ID>3222678259</ID>
+        </Spell>
+        <Spell>
+          <Level>39</Level>
+          <Text>Grasp of Bertoxxulous III</Text>
+          <ID>3907212079</ID>
+        </Spell>
+        <Spell>
+          <Level>53</Level>
+          <Text>Grasp of Bertoxxulous IV</Text>
+          <ID>4117480559</ID>
+        </Spell>
+        <Spell>
+          <Level>67</Level>
+          <Text>Grasp of Bertoxxulous V</Text>
+          <ID>3908830069</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Grasp of Bertoxxulous VI</Text>
+          <ID>3026927233</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Grasp of Bertoxxulous VII</Text>
+          <ID>1467888968</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mana Trickle">
+        <ToolTip>Mana Trickle</ToolTip>
+        <Spell>
+          <Level>33</Level>
+          <Text>Mana Trickle</Text>
+          <ID>3098198600</ID>
+        </Spell>
+        <Spell>
+          <Level>47</Level>
+          <Text>Mana Trickle II</Text>
+          <ID>22146178</ID>
+        </Spell>
+        <Spell>
+          <Level>61</Level>
+          <Text>Mana Trickle III</Text>
+          <ID>4227623449</ID>
+        </Spell>
+        <Spell>
+          <Level>74</Level>
+          <Text>Mana Trickle IV</Text>
+          <ID>3949474075</ID>
+        </Spell>
+        <Spell>
+          <Level>84</Level>
+          <Text>Mana Trickle V</Text>
+          <ID>3219190406</ID>
+        </Spell>
+        <Spell>
+          <Level>94</Level>
+          <Text>Mana Trickle VI</Text>
+          <ID>102443374</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Shroud of Bertoxxulous">
+        <ToolTip>Shroud of Bertoxxulous</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Shroud of Bertoxxulous</Text>
+          <ID>4293827309</ID>
+        </Spell>
+        <Spell>
+          <Level>35</Level>
+          <Text>Shroud of Bertoxxulous II</Text>
+          <ID>4130221467</ID>
+        </Spell>
+        <Spell>
+          <Level>50</Level>
+          <Text>Shroud of Bertoxxulous III</Text>
+          <ID>87067240</ID>
+        </Spell>
+        <Spell>
+          <Level>64</Level>
+          <Text>Shroud of Bertoxxulous IV</Text>
+          <ID>542411599</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Shroud of Bertoxxulous V</Text>
+          <ID>2063222378</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Shroud of Bertoxxulous VI</Text>
+          <ID>2560698741</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+    <SpellClass class="Wizard">
+      <SpellLine name="Assist">
+        <ToolTip>Assist</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>assist %T</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Converge">
+        <ToolTip>Converge</ToolTip>
+        <Spell>
+          <Level>18</Level>
+          <Text>Converge</Text>
+          <ID>2837552003</ID>
+        </Spell>
+        <Spell>
+          <Level>33</Level>
+          <Text>Converge II</Text>
+          <ID>2977123919</ID>
+        </Spell>
+        <Spell>
+          <Level>47</Level>
+          <Text>Converge III</Text>
+          <ID>1910286257</ID>
+        </Spell>
+        <Spell>
+          <Level>61</Level>
+          <Text>Converge IV</Text>
+          <ID>2985618841</ID>
+        </Spell>
+        <Spell>
+          <Level>73</Level>
+          <Text>Converge V</Text>
+          <ID>4056697510</ID>
+        </Spell>
+        <Spell>
+          <Level>83</Level>
+          <Text>Converge VI</Text>
+          <ID>1647623776</ID>
+        </Spell>
+        <Spell>
+          <Level>93</Level>
+          <Text>Converge VII</Text>
+          <ID>2746900896</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Heart/Shard request">
+        <ToolTip>Heart/Shard request</ToolTip>
+        <Spell>
+          <Level>0</Level>
+          <Text>tell %T Heart/Shard please</Text>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Iceshield">
+        <ToolTip>Iceshield</ToolTip>
+        <Spell>
+          <Level>20</Level>
+          <Text>Iceshield</Text>
+          <ID>706097448</ID>
+        </Spell>
+        <Spell>
+          <Level>35</Level>
+          <Text>Iceshield II</Text>
+          <ID>3438753180</ID>
+        </Spell>
+        <Spell>
+          <Level>50</Level>
+          <Text>Iceshield III</Text>
+          <ID>719577128</ID>
+        </Spell>
+        <Spell>
+          <Level>64</Level>
+          <Text>Iceshield IV</Text>
+          <ID>4202698666</ID>
+        </Spell>
+        <Spell>
+          <Level>76</Level>
+          <Text>Iceshield V</Text>
+          <ID>2842470836</ID>
+        </Spell>
+        <Spell>
+          <Level>86</Level>
+          <Text>Iceshield VI</Text>
+          <ID>1272806773</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Mana Intromission">
+        <ToolTip>Mana Intromission</ToolTip>
+        <Spell>
+          <Level>33</Level>
+          <Text>Mana Intromission</Text>
+          <ID>1124179970</ID>
+        </Spell>
+        <Spell>
+          <Level>47</Level>
+          <Text>Mana Intromission II</Text>
+          <ID>3407821414</ID>
+        </Spell>
+        <Spell>
+          <Level>61</Level>
+          <Text>Mana Intromission III</Text>
+          <ID>1946853459</ID>
+        </Spell>
+        <Spell>
+          <Level>74</Level>
+          <Text>Mana Intromission IV</Text>
+          <ID>4218383220</ID>
+        </Spell>
+        <Spell>
+          <Level>84</Level>
+          <Text>Mana Intromission V</Text>
+          <ID>2280659797</ID>
+        </Spell>
+        <Spell>
+          <Level>94</Level>
+          <Text>Mana Intromission VI</Text>
+          <ID>3801554963</ID>
+        </Spell>
+      </SpellLine>
+      <SpellLine name="Ro's Blade">
+        <ToolTip>Ro's Blade</ToolTip>
+        <Spell>
+          <Level>11</Level>
+          <Text>Ro's Blade</Text>
+          <ID>1152953154</ID>
+        </Spell>
+        <Spell>
+          <Level>25</Level>
+          <Text>Ro's Blade II</Text>
+          <ID>2335795735</ID>
+        </Spell>
+        <Spell>
+          <Level>38</Level>
+          <Text>Ro's Blade III</Text>
+          <ID>169417704</ID>
+        </Spell>
+        <Spell>
+          <Level>53</Level>
+          <Text>Ro's Blade IV</Text>
+          <ID>3493415812</ID>
+        </Spell>
+        <Spell>
+          <Level>67</Level>
+          <Text>Ro's Blade V</Text>
+          <ID>1277302037</ID>
+        </Spell>
+        <Spell>
+          <Level>78</Level>
+          <Text>Ro's Blade VI</Text>
+          <ID>2749142665</ID>
+        </Spell>
+        <Spell>
+          <Level>88</Level>
+          <Text>Ro's Blade VII</Text>
+          <ID>3511159288</ID>
+        </Spell>
+      </SpellLine>
+    </SpellClass>
+  </Spells>
+  <ButtonAssignments>
+    <ButtonClass class="Assassin">
+      <Button number="1">
+        <SpellLineName>Murderous Design</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Apply Poison</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Beastlord">
+      <Button number="5">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Berserker">
+      <Button number="1">
+        <SpellLineName>Intercept</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Reckless Aide</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Brigand">
+      <Button number="1">
+        <SpellLineName>Beg for Mercy</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Bruiser">
+      <Button number="1">
+        <SpellLineName>Shrug Off</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Intercept</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Coercer">
+      <Button number="1">
+        <SpellLineName>Mana Flow</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Sever Hate</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Touch of Empathy</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Channeled Focus</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Coercive Shout</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Conjuror">
+      <Button number="1">
+        <SpellLineName>Shard of Essence</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Fire Seed</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Flameshield</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Defiler">
+      <Button number="1">
+        <SpellLineName>Ancient Shroud</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Dire Balm</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Sacrificial Restoration</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Deathward</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Vivication</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Dirge">
+      <Button number="1">
+        <SpellLineName>Elegy at Death's Door</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Elegy of Awakening</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Oration of Sacrifice</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Gravitas</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Fury">
+      <Button number="1">
+        <SpellLineName>Regrowth</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Nature's Elixir</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Back into the Fray</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Nature's Salve</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Primeval Awakening</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Guardian">
+      <Button number="1">
+        <SpellLineName>Intercept</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Illusionist">
+      <Button number="1">
+        <SpellLineName>Mana Flow</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Synergism</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Touch of Empathy</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Inquisitor">
+      <Button number="1">
+        <SpellLineName>Penance</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Ministration</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Fanatical Healing</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Redemption</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Conversion of the Soul</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Monk">
+      <Button number="1">
+        <SpellLineName>Mend</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Intercept</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Mystic">
+      <Button number="1">
+        <SpellLineName>Ancestral Ward</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Rejuvenation</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Ritual Healing</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Torpor</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Bolster</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Necromancer">
+      <Button number="1">
+        <SpellLineName>Dark Heart</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Transfer Life</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Revivication</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Vampirism</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Paladin">
+      <Button number="1">
+        <SpellLineName>Holy Aid</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Demonstration of Faith</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Elixir of Resuscitation</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Intercept</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Ranger">
+      <Button number="1">
+        <SpellLineName>Killing Instinct</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Honed Reflexes</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Focus Aim</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Shadowknight">
+      <Button number="1">
+        <SpellLineName>Unholy Blessing</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Intercept</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Mortal Embrace</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Swashbuckler">
+      <Button number="1">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Swarthy Deception</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Sleight of Hand</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Templar">
+      <Button number="1">
+        <SpellLineName>Meliorate</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Restoration</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Vital Intercession</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Reverence</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Resurrect</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Troubador">
+      <Button number="1">
+        <SpellLineName>Jester's Cap</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Assist</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Warden">
+      <Button number="1">
+        <SpellLineName>Sylvan Bloom</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Nature's Embrace</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Photosynthesis</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Nature's Renewal</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Hierophantic Genesis</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Warlock">
+      <Button number="1">
+        <SpellLineName>Mana Trickle</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Boon of the Damned</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Shroud of Bertoxxulous</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Grasp of Bertoxxulous</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+    </ButtonClass>
+    <ButtonClass class="Wizard">
+      <Button number="1">
+        <SpellLineName>Iceshield</SpellLineName>
+      </Button>
+      <Button number="2">
+        <SpellLineName>Mana Intromission</SpellLineName>
+      </Button>
+      <Button number="3">
+        <SpellLineName>Heart/Shard request</SpellLineName>
+      </Button>
+      <Button number="4">
+        <SpellLineName>Converge</SpellLineName>
+      </Button>
+      <Button number="5">
+        <SpellLineName>Ro's Blade</SpellLineName>
+      </Button>
+    </ButtonClass>
+  </ButtonAssignments>
+  <SpellIDs>
+    <SpellID id="2031280923">
+      <Spell>Aegolism</Spell>
+    </SpellID>
+    <SpellID id="683699427">
+      <Spell>Aegolism II</Spell>
+    </SpellID>
+    <SpellID id="364581814">
+      <Spell>Aegolism III</Spell>
+    </SpellID>
+    <SpellID id="1584349090">
+      <Spell>Aegolism IV</Spell>
+    </SpellID>
+    <SpellID id="3371009269">
+      <Spell>Aegolism V</Spell>
+    </SpellID>
+    <SpellID id="4057145639">
+      <Spell>Aegolism VI</Spell>
+    </SpellID>
+    <SpellID id="1647039969">
+      <Spell>Aegolism VII</Spell>
+    </SpellID>
+    <SpellID id="2745502241">
+      <Spell>Aegolism VIII</Spell>
+    </SpellID>
+    <SpellID id="2017894776">
+      <Spell>Altruism</Spell>
+    </SpellID>
+    <SpellID id="1127918058">
+      <Spell>Amends</Spell>
+    </SpellID>
+    <SpellID id="1055233082">
+      <Spell>Amends II</Spell>
+    </SpellID>
+    <SpellID id="3824506796">
+      <Spell>Amends III</Spell>
+    </SpellID>
+    <SpellID id="4132404075">
+      <Spell>Ancestral Avenger</Spell>
+    </SpellID>
+    <SpellID id="3541101869">
+      <Spell>Ancestral Avenger II</Spell>
+    </SpellID>
+    <SpellID id="3752016364">
+      <Spell>Ancestral Avenger III</Spell>
+    </SpellID>
+    <SpellID id="1711748269">
+      <Spell>Ancestral Avenger IV</Spell>
+    </SpellID>
+    <SpellID id="56627179">
+      <Spell>Ancestral Avenger V</Spell>
+    </SpellID>
+    <SpellID id="1201946921">
+      <Spell>Ancestral Balm</Spell>
+    </SpellID>
+    <SpellID id="3537042667">
+      <Spell>Ancestral Balm II</Spell>
+    </SpellID>
+    <SpellID id="340840254">
+      <Spell>Ancestral Balm III</Spell>
+    </SpellID>
+    <SpellID id="740637785">
+      <Spell>Ancestral Savior</Spell>
+    </SpellID>
+    <SpellID id="2012002808">
+      <Spell>Ancestral Savior II</Spell>
+    </SpellID>
+    <SpellID id="3807319112">
+      <Spell>Ancestral Savior III</Spell>
+    </SpellID>
+    <SpellID id="3895182824">
+      <Spell>Ancestral Savior IV</Spell>
+    </SpellID>
+    <SpellID id="1070155184">
+      <Spell>Ancestral Savior V</Spell>
+    </SpellID>
+    <SpellID id="1804412850">
+      <Spell>Ancestral Ward</Spell>
+    </SpellID>
+    <SpellID id="827722767">
+      <Spell>Ancestral Ward II</Spell>
+    </SpellID>
+    <SpellID id="3356446724">
+      <Spell>Ancestral Ward III</Spell>
+    </SpellID>
+    <SpellID id="4145349802">
+      <Spell>Ancestral Ward IV</Spell>
+    </SpellID>
+    <SpellID id="3396252746">
+      <Spell>Ancestral Ward V</Spell>
+    </SpellID>
+    <SpellID id="3604463143">
+      <Spell>Ancestral Ward VI</Spell>
+    </SpellID>
+    <SpellID id="1663775277">
+      <Spell>Ancestral Ward VII</Spell>
+    </SpellID>
+    <SpellID id="4270332227">
+      <Spell>Ancestral Ward VIII</Spell>
+    </SpellID>
+    <SpellID id="753499921">
+      <Spell>Ancient Shroud II</Spell>
+    </SpellID>
+    <SpellID id="2492058635">
+      <Spell>Ancient Shroud III</Spell>
+    </SpellID>
+    <SpellID id="1566069660">
+      <Spell>Ancient Shroud IV</Spell>
+    </SpellID>
+    <SpellID id="1352085168">
+      <Spell>Ancient Shroud V</Spell>
+    </SpellID>
+    <SpellID id="279943205">
+      <Spell>Ancient Shroud VI</Spell>
+    </SpellID>
+    <SpellID id="632641928">
+      <Spell>Ancient Shroud VII</Spell>
+    </SpellID>
+    <SpellID id="3812059741">
+      <Spell>Ancient Shroud VIII</Spell>
+    </SpellID>
+    <SpellID id="4191452681">
+      <Spell>Apply Poison</Spell>
+    </SpellID>
+    <SpellID id="2829320935">
+      <Spell>Apply Poison II</Spell>
+    </SpellID>
+    <SpellID id="3837053096">
+      <Spell>Apply Poison III</Spell>
+    </SpellID>
+    <SpellID id="1565463360">
+      <Spell>Apply Poison IV</Spell>
+    </SpellID>
+    <SpellID id="816148431">
+      <Spell>Arch Heal</Spell>
+    </SpellID>
+    <SpellID id="2013857554">
+      <Spell>Aspect of the Forest</Spell>
+    </SpellID>
+    <SpellID id="212768170">
+      <Spell>Aspect of the Forest II</Spell>
+    </SpellID>
+    <SpellID id="77653062">
+      <Spell>Aspect of the Forest III</Spell>
+    </SpellID>
+    <SpellID id="59665586">
+      <Spell>Aspect of the Forest IV</Spell>
+    </SpellID>
+    <SpellID id="4221668459">
+      <Spell>Aspect of the Forest V</Spell>
+    </SpellID>
+    <SpellID id="4085393302">
+      <Spell>Aspect of the Forest VI</Spell>
+    </SpellID>
+    <SpellID id="2239953950">
+      <Spell>Aspect of the Forest VII</Spell>
+    </SpellID>
+    <SpellID id="519116490">
+      <Spell>Aspect of the Forest VIII</Spell>
+    </SpellID>
+    <SpellID id="3225276758">
+      <Spell>Back into the Fray</Spell>
+    </SpellID>
+    <SpellID id="598732465">
+      <Spell>Back into the Fray II</Spell>
+    </SpellID>
+    <SpellID id="2720147849">
+      <Spell>Back into the Fray III</Spell>
+    </SpellID>
+    <SpellID id="1039706647">
+      <Spell>Back into the Fray IV</Spell>
+    </SpellID>
+    <SpellID id="1039988071">
+      <Spell>Battle's Reprieve</Spell>
+    </SpellID>
+    <SpellID id="3332700454">
+      <Spell>Beg for Mercy</Spell>
+    </SpellID>
+    <SpellID id="2911860733">
+      <Spell>Beg for Mercy II</Spell>
+    </SpellID>
+    <SpellID id="2558517702">
+      <Spell>Beg for Mercy III</Spell>
+    </SpellID>
+    <SpellID id="2744273247">
+      <Spell>Beg for Mercy IV</Spell>
+    </SpellID>
+    <SpellID id="3484670453">
+      <Spell>Bolster</Spell>
+    </SpellID>
+    <SpellID id="789042833">
+      <Spell>Boon of the Damned</Spell>
+    </SpellID>
+    <SpellID id="3463782684">
+      <Spell>Boon of the Damned II</Spell>
+    </SpellID>
+    <SpellID id="3788180172">
+      <Spell>Boon of the Damned III</Spell>
+    </SpellID>
+    <SpellID id="3394582416">
+      <Spell>Boon of the Damned IV</Spell>
+    </SpellID>
+    <SpellID id="957759862">
+      <Spell>Boon of the Damned V</Spell>
+    </SpellID>
+    <SpellID id="3545517484">
+      <Spell>Boon of the Damned VI</Spell>
+    </SpellID>
+    <SpellID id="1284427314">
+      <Spell>Boon of the Damned VII</Spell>
+    </SpellID>
+    <SpellID id="1027448741">
+      <Spell>Brutality</Spell>
+    </SpellID>
+    <SpellID id="2843307860">
+      <Spell>Brutality II</Spell>
+    </SpellID>
+    <SpellID id="3496057053">
+      <Spell>Brutality III</Spell>
+    </SpellID>
+    <SpellID id="554501377">
+      <Spell>Brutality IV</Spell>
+    </SpellID>
+    <SpellID id="3932984657">
+      <Spell>Brutality V</Spell>
+    </SpellID>
+    <SpellID id="1289996500">
+      <Spell>Brutality VI</Spell>
+    </SpellID>
+    <SpellID id="2831752605">
+      <Spell>Brutality VII</Spell>
+    </SpellID>
+    <SpellID id="1688191333">
+      <Spell>Call of the Hero</Spell>
+    </SpellID>
+    <SpellID id="1985600764">
+      <Spell>Carrion Warding</Spell>
+    </SpellID>
+    <SpellID id="2005639101">
+      <Spell>Carrion Warding II</Spell>
+    </SpellID>
+    <SpellID id="4240187952">
+      <Spell>Carrion Warding III</Spell>
+    </SpellID>
+    <SpellID id="3053982195">
+      <Spell>Carrion Warding IV</Spell>
+    </SpellID>
+    <SpellID id="3659670798">
+      <Spell>Carrion Warding V</Spell>
+    </SpellID>
+    <SpellID id="1788593003">
+      <Spell>Carrion Warding VI</Spell>
+    </SpellID>
+    <SpellID id="2632214275">
+      <Spell>Carrion Warding VII</Spell>
+    </SpellID>
+    <SpellID id="1953089559">
+      <Spell>Channel</Spell>
+    </SpellID>
+    <SpellID id="3471533037">
+      <Spell>Channel II</Spell>
+    </SpellID>
+    <SpellID id="2177252207">
+      <Spell>Channeled Focus</Spell>
+    </SpellID>
+    <SpellID id="3659424627">
+      <Spell>Chilling Invigoration</Spell>
+    </SpellID>
+    <SpellID id="3426657644">
+      <Spell>Coercive Healing</Spell>
+    </SpellID>
+    <SpellID id="3491920474">
+      <Spell>Coercive Shout</Spell>
+    </SpellID>
+    <SpellID id="3601331586">
+      <Spell>Confront Fear</Spell>
+    </SpellID>
+    <SpellID id="2837552003">
+      <Spell>Converge</Spell>
+    </SpellID>
+    <SpellID id="2977123919">
+      <Spell>Converge II</Spell>
+    </SpellID>
+    <SpellID id="1910286257">
+      <Spell>Converge III</Spell>
+    </SpellID>
+    <SpellID id="2985618841">
+      <Spell>Converge IV</Spell>
+    </SpellID>
+    <SpellID id="4056697510">
+      <Spell>Converge V</Spell>
+    </SpellID>
+    <SpellID id="1647623776">
+      <Spell>Converge VI</Spell>
+    </SpellID>
+    <SpellID id="2746900896">
+      <Spell>Converge VII</Spell>
+    </SpellID>
+    <SpellID id="363447997">
+      <Spell>Conversion of the Soul</Spell>
+    </SpellID>
+    <SpellID id="1852049104">
+      <Spell>Dark Heart</Spell>
+    </SpellID>
+    <SpellID id="4055243208">
+      <Spell>Deathward</Spell>
+    </SpellID>
+    <SpellID id="1779652007">
+      <Spell>Deathward II</Spell>
+    </SpellID>
+    <SpellID id="2029186056">
+      <Spell>Demonstration of Faith</Spell>
+    </SpellID>
+    <SpellID id="4070937418">
+      <Spell>Demonstration of Faith II</Spell>
+    </SpellID>
+    <SpellID id="2868612197">
+      <Spell>Demonstration of Faith III</Spell>
+    </SpellID>
+    <SpellID id="1402585519">
+      <Spell>Demonstration of Faith IV</Spell>
+    </SpellID>
+    <SpellID id="1698381326">
+      <Spell>Demonstration of Faith V</Spell>
+    </SpellID>
+    <SpellID id="3305085423">
+      <Spell>Demonstration of Faith VI</Spell>
+    </SpellID>
+    <SpellID id="2069985831">
+      <Spell>Demonstration of Faith VII</Spell>
+    </SpellID>
+    <SpellID id="3498931225">
+      <Spell>Destructive Mind</Spell>
+    </SpellID>
+    <SpellID id="3915512446">
+      <Spell>Destructive Mind II</Spell>
+    </SpellID>
+    <SpellID id="2405249683">
+      <Spell>Destructive Mind III</Spell>
+    </SpellID>
+    <SpellID id="2610662413">
+      <Spell>Destructive Mind IV</Spell>
+    </SpellID>
+    <SpellID id="84402331">
+      <Spell>Destructive Mind V</Spell>
+    </SpellID>
+    <SpellID id="1642634865">
+      <Spell>Destructive Mind VI</Spell>
+    </SpellID>
+    <SpellID id="777149751">
+      <Spell>Devious Evasion</Spell>
+    </SpellID>
+    <SpellID id="2504110877">
+      <Spell>Devious Evasion II</Spell>
+    </SpellID>
+    <SpellID id="967155755">
+      <Spell>Devious Evasion III</Spell>
+    </SpellID>
+    <SpellID id="2392447075">
+      <Spell>Devious Evasion IV</Spell>
+    </SpellID>
+    <SpellID id="1455620557">
+      <Spell>Dire Balm</Spell>
+    </SpellID>
+    <SpellID id="45204546">
+      <Spell>Dire Balm II</Spell>
+    </SpellID>
+    <SpellID id="989024464">
+      <Spell>Dire Balm III</Spell>
+    </SpellID>
+    <SpellID id="3384996850">
+      <Spell>Dire Balm IV</Spell>
+    </SpellID>
+    <SpellID id="544260202">
+      <Spell>Dire Balm IX</Spell>
+    </SpellID>
+    <SpellID id="4156312428">
+      <Spell>Dire Balm V</Spell>
+    </SpellID>
+    <SpellID id="3173001762">
+      <Spell>Dire Balm VI</Spell>
+    </SpellID>
+    <SpellID id="633707383">
+      <Spell>Dire Balm VII</Spell>
+    </SpellID>
+    <SpellID id="1390698267">
+      <Spell>Dire Balm VIII</Spell>
+    </SpellID>
+    <SpellID id="3151334405">
+      <Spell>Dire Balm X</Spell>
+    </SpellID>
+    <SpellID id="1556556987">
+      <Spell>Doppleganger</Spell>
+    </SpellID>
+    <SpellID id="3845977939">
+      <Spell>Doppleganger II</Spell>
+    </SpellID>
+    <SpellID id="2936879794">
+      <Spell>Eidolic Ward</Spell>
+    </SpellID>
+    <SpellID id="1033316620">
+      <Spell>Elegy at Death's Door</Spell>
+    </SpellID>
+    <SpellID id="3390154729">
+      <Spell>Elegy of Awakening</Spell>
+    </SpellID>
+    <SpellID id="2024910418">
+      <Spell>Elixir of Resuscitation</Spell>
+    </SpellID>
+    <SpellID id="2602290947">
+      <Spell>Energizing Ballad</Spell>
+    </SpellID>
+    <SpellID id="903813412">
+      <Spell>Enraging Demeanor</Spell>
+    </SpellID>
+    <SpellID id="648026222">
+      <Spell>Enraging Demeanor II</Spell>
+    </SpellID>
+    <SpellID id="595442236">
+      <Spell>Enraging Demeanor III</Spell>
+    </SpellID>
+    <SpellID id="2493734826">
+      <Spell>Fanatical Healing</Spell>
+    </SpellID>
+    <SpellID id="1236046508">
+      <Spell>Fanatical Healing II</Spell>
+    </SpellID>
+    <SpellID id="1666305466">
+      <Spell>Fanatical Healing III</Spell>
+    </SpellID>
+    <SpellID id="4004566745">
+      <Spell>Fanatical Healing IV</Spell>
+    </SpellID>
+    <SpellID id="745790527">
+      <Spell>Fanatical Healing IX</Spell>
+    </SpellID>
+    <SpellID id="900403021">
+      <Spell>Fanatical Healing V</Spell>
+    </SpellID>
+    <SpellID id="4089064119">
+      <Spell>Fanatical Healing VI</Spell>
+    </SpellID>
+    <SpellID id="4124612351">
+      <Spell>Fanatical Healing VII</Spell>
+    </SpellID>
+    <SpellID id="1226106745">
+      <Spell>Fanatical Healing VIII</Spell>
+    </SpellID>
+    <SpellID id="4058495140">
+      <Spell>Feral Tenacity</Spell>
+    </SpellID>
+    <SpellID id="115125876">
+      <Spell>Feral Tenacity II</Spell>
+    </SpellID>
+    <SpellID id="1675846636">
+      <Spell>Feral Tenacity III</Spell>
+    </SpellID>
+    <SpellID id="4240163028">
+      <Spell>Feral Tenacity IV</Spell>
+    </SpellID>
+    <SpellID id="1076629809">
+      <Spell>Feral Tenacity V</Spell>
+    </SpellID>
+    <SpellID id="363638977">
+      <Spell>Fire Seed</Spell>
+    </SpellID>
+    <SpellID id="895367827">
+      <Spell>Fire Seed II</Spell>
+    </SpellID>
+    <SpellID id="1600602994">
+      <Spell>Fire Seed III</Spell>
+    </SpellID>
+    <SpellID id="710768599">
+      <Spell>Fire Seed IV</Spell>
+    </SpellID>
+    <SpellID id="274641691">
+      <Spell>Fire Seed V</Spell>
+    </SpellID>
+    <SpellID id="3842085846">
+      <Spell>Fire Seed VI</Spell>
+    </SpellID>
+    <SpellID id="2384202484">
+      <Spell>Flameshield</Spell>
+    </SpellID>
+    <SpellID id="932738302">
+      <Spell>Flameshield II</Spell>
+    </SpellID>
+    <SpellID id="3604369406">
+      <Spell>Flameshield III</Spell>
+    </SpellID>
+    <SpellID id="3419662531">
+      <Spell>Flameshield IV</Spell>
+    </SpellID>
+    <SpellID id="3832402452">
+      <Spell>Flameshield V</Spell>
+    </SpellID>
+    <SpellID id="4285749358">
+      <Spell>Flameshield VI</Spell>
+    </SpellID>
+    <SpellID id="1896571032">
+      <Spell>Focus Aim</Spell>
+    </SpellID>
+    <SpellID id="3093200593">
+      <Spell>Focus Aim II</Spell>
+    </SpellID>
+    <SpellID id="773886649">
+      <Spell>Focus Aim III</Spell>
+    </SpellID>
+    <SpellID id="3684663834">
+      <Spell>Focus Aim IV</Spell>
+    </SpellID>
+    <SpellID id="302740829">
+      <Spell>Focused Intervention</Spell>
+    </SpellID>
+    <SpellID id="1361727513">
+      <Spell>Focused Intervention II</Spell>
+    </SpellID>
+    <SpellID id="392909682">
+      <Spell>Focused Intervention III</Spell>
+    </SpellID>
+    <SpellID id="2350430630">
+      <Spell>Focused Intervention IV</Spell>
+    </SpellID>
+    <SpellID id="995090721">
+      <Spell>Glory</Spell>
+    </SpellID>
+    <SpellID id="346113134">
+      <Spell>Glory II</Spell>
+    </SpellID>
+    <SpellID id="3682754666">
+      <Spell>Glory III</Spell>
+    </SpellID>
+    <SpellID id="44200646">
+      <Spell>Glory IV</Spell>
+    </SpellID>
+    <SpellID id="3456660056">
+      <Spell>Glory V</Spell>
+    </SpellID>
+    <SpellID id="1084797273">
+      <Spell>Grasp of Bertoxxulous</Spell>
+    </SpellID>
+    <SpellID id="3222678259">
+      <Spell>Grasp of Bertoxxulous II</Spell>
+    </SpellID>
+    <SpellID id="3907212079">
+      <Spell>Grasp of Bertoxxulous III</Spell>
+    </SpellID>
+    <SpellID id="4117480559">
+      <Spell>Grasp of Bertoxxulous IV</Spell>
+    </SpellID>
+    <SpellID id="3908830069">
+      <Spell>Grasp of Bertoxxulous V</Spell>
+    </SpellID>
+    <SpellID id="3026927233">
+      <Spell>Grasp of Bertoxxulous VI</Spell>
+    </SpellID>
+    <SpellID id="1467888968">
+      <Spell>Grasp of Bertoxxulous VII</Spell>
+    </SpellID>
+    <SpellID id="3677033782">
+      <Spell>Gravitas</Spell>
+    </SpellID>
+    <SpellID id="2191465295">
+      <Spell>Harbinger</Spell>
+    </SpellID>
+    <SpellID id="810531409">
+      <Spell>Harbinger II</Spell>
+    </SpellID>
+    <SpellID id="1524360537">
+      <Spell>Harbinger III</Spell>
+    </SpellID>
+    <SpellID id="4041756661">
+      <Spell>Harbinger IV</Spell>
+    </SpellID>
+    <SpellID id="2214521807">
+      <Spell>Harbinger V</Spell>
+    </SpellID>
+    <SpellID id="248310279">
+      <Spell>Harbinger VI</Spell>
+    </SpellID>
+    <SpellID id="2914404066">
+      <Spell>Harbinger VII</Spell>
+    </SpellID>
+    <SpellID id="907217549">
+      <Spell>Harbinger VIII</Spell>
+    </SpellID>
+    <SpellID id="3124080057">
+      <Spell>Hierophantic Genesis</Spell>
+    </SpellID>
+    <SpellID id="107280614">
+      <Spell>Hierophantic Genesis II</Spell>
+    </SpellID>
+    <SpellID id="4259559649">
+      <Spell>Hierophantic Genesis III</Spell>
+    </SpellID>
+    <SpellID id="2124305548">
+      <Spell>Hierophantic Genesis IV</Spell>
+    </SpellID>
+    <SpellID id="3063029855">
+      <Spell>Holy Aid</Spell>
+    </SpellID>
+    <SpellID id="1838859133">
+      <Spell>Holy Aid II</Spell>
+    </SpellID>
+    <SpellID id="2061621054">
+      <Spell>Holy Aid III</Spell>
+    </SpellID>
+    <SpellID id="2431844110">
+      <Spell>Holy Aid IV</Spell>
+    </SpellID>
+    <SpellID id="845213229">
+      <Spell>Holy Aid V</Spell>
+    </SpellID>
+    <SpellID id="3420581820">
+      <Spell>Holy Aid VI</Spell>
+    </SpellID>
+    <SpellID id="1478040442">
+      <Spell>Holy Aid VII</Spell>
+    </SpellID>
+    <SpellID id="2106273833">
+      <Spell>Holy Salvation</Spell>
+    </SpellID>
+    <SpellID id="204882841">
+      <Spell>Holy Salvation II</Spell>
+    </SpellID>
+    <SpellID id="1343463176">
+      <Spell>Holy Salvation III</Spell>
+    </SpellID>
+    <SpellID id="885758392">
+      <Spell>Holy Salvation IV</Spell>
+    </SpellID>
+    <SpellID id="3010286331">
+      <Spell>Holy Salvation V</Spell>
+    </SpellID>
+    <SpellID id="3655255681">
+      <Spell>Honed Reflexes</Spell>
+    </SpellID>
+    <SpellID id="1493973664">
+      <Spell>Hyran's Seething Sonata</Spell>
+    </SpellID>
+    <SpellID id="3178655042">
+      <Spell>Hyran's Seething Sonata II</Spell>
+    </SpellID>
+    <SpellID id="1773512360">
+      <Spell>Hyran's Seething Sonata III</Spell>
+    </SpellID>
+    <SpellID id="706097448">
+      <Spell>Iceshield</Spell>
+    </SpellID>
+    <SpellID id="3438753180">
+      <Spell>Iceshield II</Spell>
+    </SpellID>
+    <SpellID id="719577128">
+      <Spell>Iceshield III</Spell>
+    </SpellID>
+    <SpellID id="4202698666">
+      <Spell>Iceshield IV</Spell>
+    </SpellID>
+    <SpellID id="2842470836">
+      <Spell>Iceshield V</Spell>
+    </SpellID>
+    <SpellID id="1272806773">
+      <Spell>Iceshield VI</Spell>
+    </SpellID>
+    <SpellID id="296364590">
+      <Spell>Illusory Arm</Spell>
+    </SpellID>
+    <SpellID id="3033583038">
+      <Spell>Intercept</Spell>
+    </SpellID>
+    <SpellID id="1768432098">
+      <Spell>Intercept II</Spell>
+    </SpellID>
+    <SpellID id="101378472">
+      <Spell>Intercept III</Spell>
+    </SpellID>
+    <SpellID id="2991120526">
+      <Spell>Jester's Cap</Spell>
+    </SpellID>
+    <SpellID id="497000173">
+      <Spell>Killing Instinct</Spell>
+    </SpellID>
+    <SpellID id="220170012">
+      <Spell>Killing Instinct II</Spell>
+    </SpellID>
+    <SpellID id="182657177">
+      <Spell>Killing Instinct III</Spell>
+    </SpellID>
+    <SpellID id="386796067">
+      <Spell>Lay on Hands</Spell>
+    </SpellID>
+    <SpellID id="544197128">
+      <Spell>Lay on Hands II</Spell>
+    </SpellID>
+    <SpellID id="2861630187">
+      <Spell>Lay on Hands III</Spell>
+    </SpellID>
+    <SpellID id="2836355417">
+      <Spell>Lay on Hands IV</Spell>
+    </SpellID>
+    <SpellID id="164107332">
+      <Spell>Lay on Hands V</Spell>
+    </SpellID>
+    <SpellID id="120310698">
+      <Spell>Lay on Hands VI</Spell>
+    </SpellID>
+    <SpellID id="2250876335">
+      <Spell>Lucidity</Spell>
+    </SpellID>
+    <SpellID id="3865807799">
+      <Spell>Lucidity II</Spell>
+    </SpellID>
+    <SpellID id="533018687">
+      <Spell>Lucidity III</Spell>
+    </SpellID>
+    <SpellID id="604960661">
+      <Spell>Lucidity IV</Spell>
+    </SpellID>
+    <SpellID id="1107677782">
+      <Spell>Lucidity V</Spell>
+    </SpellID>
+    <SpellID id="114622175">
+      <Spell>Lucidity VI</Spell>
+    </SpellID>
+    <SpellID id="2502691353">
+      <Spell>Lucidity VII</Spell>
+    </SpellID>
+    <SpellID id="1419957721">
+      <Spell>Lucidity VIII</Spell>
+    </SpellID>
+    <SpellID id="2324198425">
+      <Spell>Mana Cloak</Spell>
+    </SpellID>
+    <SpellID id="3289732337">
+      <Spell>Mana Cloak II</Spell>
+    </SpellID>
+    <SpellID id="2110871988">
+      <Spell>Mana Cloak III</Spell>
+    </SpellID>
+    <SpellID id="1850208453">
+      <Spell>Mana Cloak IV</Spell>
+    </SpellID>
+    <SpellID id="3016829248">
+      <Spell>Mana Cloak V</Spell>
+    </SpellID>
+    <SpellID id="1945409072">
+      <Spell>Mana Flow</Spell>
+    </SpellID>
+    <SpellID id="1124179970">
+      <Spell>Mana Intromission</Spell>
+    </SpellID>
+    <SpellID id="3407821414">
+      <Spell>Mana Intromission II</Spell>
+    </SpellID>
+    <SpellID id="1946853459">
+      <Spell>Mana Intromission III</Spell>
+    </SpellID>
+    <SpellID id="4218383220">
+      <Spell>Mana Intromission IV</Spell>
+    </SpellID>
+    <SpellID id="2280659797">
+      <Spell>Mana Intromission V</Spell>
+    </SpellID>
+    <SpellID id="3801554963">
+      <Spell>Mana Intromission VI</Spell>
+    </SpellID>
+    <SpellID id="3098198600">
+      <Spell>Mana Trickle</Spell>
+    </SpellID>
+    <SpellID id="22146178">
+      <Spell>Mana Trickle II</Spell>
+    </SpellID>
+    <SpellID id="4227623449">
+      <Spell>Mana Trickle III</Spell>
+    </SpellID>
+    <SpellID id="3949474075">
+      <Spell>Mana Trickle IV</Spell>
+    </SpellID>
+    <SpellID id="3219190406">
+      <Spell>Mana Trickle V</Spell>
+    </SpellID>
+    <SpellID id="102443374">
+      <Spell>Mana Trickle VI</Spell>
+    </SpellID>
+    <SpellID id="784965358">
+      <Spell>Manaward</Spell>
+    </SpellID>
+    <SpellID id="4116243794">
+      <Spell>Meliorate</Spell>
+    </SpellID>
+    <SpellID id="4105544774">
+      <Spell>Meliorate II</Spell>
+    </SpellID>
+    <SpellID id="882183196">
+      <Spell>Meliorate III</Spell>
+    </SpellID>
+    <SpellID id="1530301492">
+      <Spell>Meliorate IV</Spell>
+    </SpellID>
+    <SpellID id="86325846">
+      <Spell>Meliorate IX</Spell>
+    </SpellID>
+    <SpellID id="3822996630">
+      <Spell>Meliorate V</Spell>
+    </SpellID>
+    <SpellID id="117904398">
+      <Spell>Meliorate VI</Spell>
+    </SpellID>
+    <SpellID id="748855261">
+      <Spell>Meliorate VII</Spell>
+    </SpellID>
+    <SpellID id="2008130855">
+      <Spell>Meliorate VIII</Spell>
+    </SpellID>
+    <SpellID id="2659219001">
+      <Spell>Meliorate X</Spell>
+    </SpellID>
+    <SpellID id="3242124289">
+      <Spell>Mend</Spell>
+    </SpellID>
+    <SpellID id="721957876">
+      <Spell>Mend II</Spell>
+    </SpellID>
+    <SpellID id="112342185">
+      <Spell>Mend III</Spell>
+    </SpellID>
+    <SpellID id="80636041">
+      <Spell>Mend IV</Spell>
+    </SpellID>
+    <SpellID id="934078257">
+      <Spell>Mend V</Spell>
+    </SpellID>
+    <SpellID id="759839429">
+      <Spell>Ministration</Spell>
+    </SpellID>
+    <SpellID id="2766199209">
+      <Spell>Ministration II</Spell>
+    </SpellID>
+    <SpellID id="467053480">
+      <Spell>Ministration III</Spell>
+    </SpellID>
+    <SpellID id="2395571978">
+      <Spell>Ministration IV</Spell>
+    </SpellID>
+    <SpellID id="3749354901">
+      <Spell>Ministration IX</Spell>
+    </SpellID>
+    <SpellID id="966134467">
+      <Spell>Ministration V</Spell>
+    </SpellID>
+    <SpellID id="2750594157">
+      <Spell>Ministration VI</Spell>
+    </SpellID>
+    <SpellID id="1834882570">
+      <Spell>Ministration VII</Spell>
+    </SpellID>
+    <SpellID id="2347916808">
+      <Spell>Ministration VIII</Spell>
+    </SpellID>
+    <SpellID id="1719748221">
+      <Spell>Ministration X</Spell>
+    </SpellID>
+    <SpellID id="2827549737">
+      <Spell>Moderate</Spell>
+    </SpellID>
+    <SpellID id="2674432464">
+      <Spell>Moderate II</Spell>
+    </SpellID>
+    <SpellID id="2615846370">
+      <Spell>Moderate III</Spell>
+    </SpellID>
+    <SpellID id="1339121559">
+      <Spell>Moderate IV</Spell>
+    </SpellID>
+    <SpellID id="3853171077">
+      <Spell>Mortal Embrace</Spell>
+    </SpellID>
+    <SpellID id="1678827880">
+      <Spell>Mortal Embrace II</Spell>
+    </SpellID>
+    <SpellID id="2730632393">
+      <Spell>Mortal Embrace III</Spell>
+    </SpellID>
+    <SpellID id="2130014620">
+      <Spell>Mortal Embrace IV</Spell>
+    </SpellID>
+    <SpellID id="1939112048">
+      <Spell>Murderous Design</Spell>
+    </SpellID>
+    <SpellID id="4115775947">
+      <Spell>Murderous Design II</Spell>
+    </SpellID>
+    <SpellID id="3598453043">
+      <Spell>Murderous Design III</Spell>
+    </SpellID>
+    <SpellID id="705062542">
+      <Spell>Murderous Design IV</Spell>
+    </SpellID>
+    <SpellID id="1978430617">
+      <Spell>Nature's Elixir</Spell>
+    </SpellID>
+    <SpellID id="2693769062">
+      <Spell>Nature's Elixir II</Spell>
+    </SpellID>
+    <SpellID id="880694377">
+      <Spell>Nature's Elixir III</Spell>
+    </SpellID>
+    <SpellID id="1302573832">
+      <Spell>Nature's Elixir IV</Spell>
+    </SpellID>
+    <SpellID id="1728602909">
+      <Spell>Nature's Elixir IX</Spell>
+    </SpellID>
+    <SpellID id="2443722274">
+      <Spell>Nature's Elixir V</Spell>
+    </SpellID>
+    <SpellID id="2286085178">
+      <Spell>Nature's Elixir VI</Spell>
+    </SpellID>
+    <SpellID id="3584665359">
+      <Spell>Nature's Elixir VII</Spell>
+    </SpellID>
+    <SpellID id="3769542750">
+      <Spell>Nature's Elixir VIII</Spell>
+    </SpellID>
+    <SpellID id="1229655748">
+      <Spell>Nature's Embrace</Spell>
+    </SpellID>
+    <SpellID id="934663489">
+      <Spell>Nature's Embrace II</Spell>
+    </SpellID>
+    <SpellID id="3709094785">
+      <Spell>Nature's Embrace III</Spell>
+    </SpellID>
+    <SpellID id="1510183539">
+      <Spell>Nature's Embrace IV</Spell>
+    </SpellID>
+    <SpellID id="4117441602">
+      <Spell>Nature's Embrace IX</Spell>
+    </SpellID>
+    <SpellID id="2674414587">
+      <Spell>Nature's Embrace V</Spell>
+    </SpellID>
+    <SpellID id="807066005">
+      <Spell>Nature's Embrace VI</Spell>
+    </SpellID>
+    <SpellID id="2977442704">
+      <Spell>Nature's Embrace VII</Spell>
+    </SpellID>
+    <SpellID id="439982755">
+      <Spell>Nature's Embrace VIII</Spell>
+    </SpellID>
+    <SpellID id="974014601">
+      <Spell>Nature's Renewal</Spell>
+    </SpellID>
+    <SpellID id="4237648378">
+      <Spell>Nature's Renewal II</Spell>
+    </SpellID>
+    <SpellID id="924928466">
+      <Spell>Nature's Renewal III</Spell>
+    </SpellID>
+    <SpellID id="1559652041">
+      <Spell>Nature's Renewal IV</Spell>
+    </SpellID>
+    <SpellID id="3013922856">
+      <Spell>Nature's Renewal V</Spell>
+    </SpellID>
+    <SpellID id="1790945610">
+      <Spell>Nature's Salve</Spell>
+    </SpellID>
+    <SpellID id="8141107">
+      <Spell>Nature's Salve II</Spell>
+    </SpellID>
+    <SpellID id="1622671014">
+      <Spell>Nature's Salve III</Spell>
+    </SpellID>
+    <SpellID id="3124574221">
+      <Spell>Nature's Salve IV</Spell>
+    </SpellID>
+    <SpellID id="1609820248">
+      <Spell>Nature's Salve IX</Spell>
+    </SpellID>
+    <SpellID id="2796412562">
+      <Spell>Nature's Salve V</Spell>
+    </SpellID>
+    <SpellID id="2589372575">
+      <Spell>Nature's Salve VI</Spell>
+    </SpellID>
+    <SpellID id="4100820878">
+      <Spell>Nature's Salve VII</Spell>
+    </SpellID>
+    <SpellID id="2027130211">
+      <Spell>Nature's Salve VIII</Spell>
+    </SpellID>
+    <SpellID id="4053498313">
+      <Spell>Nature's Salve X</Spell>
+    </SpellID>
+    <SpellID id="2193493462">
+      <Spell>Never Surrender</Spell>
+    </SpellID>
+    <SpellID id="3834770023">
+      <Spell>Never Surrender II</Spell>
+    </SpellID>
+    <SpellID id="4168865724">
+      <Spell>Never Surrender III</Spell>
+    </SpellID>
+    <SpellID id="2982903136">
+      <Spell>Never Surrender IV</Spell>
+    </SpellID>
+    <SpellID id="1719185754">
+      <Spell>Oberon</Spell>
+    </SpellID>
+    <SpellID id="1752859071">
+      <Spell>Oberon II</Spell>
+    </SpellID>
+    <SpellID id="1581693773">
+      <Spell>Oberon III</Spell>
+    </SpellID>
+    <SpellID id="2553630001">
+      <Spell>Oberon IV</Spell>
+    </SpellID>
+    <SpellID id="847451313">
+      <Spell>Oration of Sacrifice</Spell>
+    </SpellID>
+    <SpellID id="1492846922">
+      <Spell>Oration of Sacrifice II</Spell>
+    </SpellID>
+    <SpellID id="3867707565">
+      <Spell>Oration of Sacrifice III</Spell>
+    </SpellID>
+    <SpellID id="1534297879">
+      <Spell>Peaceful Link</Spell>
+    </SpellID>
+    <SpellID id="3205091573">
+      <Spell>Peaceful Link II</Spell>
+    </SpellID>
+    <SpellID id="4189551492">
+      <Spell>Peaceful Link III</Spell>
+    </SpellID>
+    <SpellID id="685417323">
+      <Spell>Peaceful Link IV</Spell>
+    </SpellID>
+    <SpellID id="2788213841">
+      <Spell>Peaceful Link V</Spell>
+    </SpellID>
+    <SpellID id="140006848">
+      <Spell>Peaceful Link VI</Spell>
+    </SpellID>
+    <SpellID id="2739911483">
+      <Spell>Penance</Spell>
+    </SpellID>
+    <SpellID id="555361766">
+      <Spell>Penance II</Spell>
+    </SpellID>
+    <SpellID id="2453909181">
+      <Spell>Penance III</Spell>
+    </SpellID>
+    <SpellID id="872144021">
+      <Spell>Penance IV</Spell>
+    </SpellID>
+    <SpellID id="1287978567">
+      <Spell>Penance V</Spell>
+    </SpellID>
+    <SpellID id="2126014885">
+      <Spell>Penance VI</Spell>
+    </SpellID>
+    <SpellID id="998195682">
+      <Spell>Penance VII</Spell>
+    </SpellID>
+    <SpellID id="3396606575">
+      <Spell>Penance VIII</Spell>
+    </SpellID>
+    <SpellID id="3535108715">
+      <Spell>Percussion of Stone</Spell>
+    </SpellID>
+    <SpellID id="1634151210">
+      <Spell>Photosynthesis</Spell>
+    </SpellID>
+    <SpellID id="1002176663">
+      <Spell>Photosynthesis II</Spell>
+    </SpellID>
+    <SpellID id="1309925">
+      <Spell>Photosynthesis III</Spell>
+    </SpellID>
+    <SpellID id="2957438681">
+      <Spell>Photosynthesis IV</Spell>
+    </SpellID>
+    <SpellID id="1623618216">
+      <Spell>Photosynthesis V</Spell>
+    </SpellID>
+    <SpellID id="1300426726">
+      <Spell>Photosynthesis VI</Spell>
+    </SpellID>
+    <SpellID id="853550606">
+      <Spell>Photosynthesis VII</Spell>
+    </SpellID>
+    <SpellID id="4100068827">
+      <Spell>Photosynthesis VIII</Spell>
+    </SpellID>
+    <SpellID id="3723927387">
+      <Spell>Pledge of Armament</Spell>
+    </SpellID>
+    <SpellID id="2777745996">
+      <Spell>Pledge of Armament II</Spell>
+    </SpellID>
+    <SpellID id="3076231194">
+      <Spell>Pledge of Armament III</Spell>
+    </SpellID>
+    <SpellID id="822230951">
+      <Spell>Pledge of Armament IV</Spell>
+    </SpellID>
+    <SpellID id="2989323403">
+      <Spell>Pledge of Armament V</Spell>
+    </SpellID>
+    <SpellID id="3469087178">
+      <Spell>Pledge of Armament VI</Spell>
+    </SpellID>
+    <SpellID id="1360826964">
+      <Spell>Pledge of Armament VII</Spell>
+    </SpellID>
+    <SpellID id="1457820023">
+      <Spell>Porcupine</Spell>
+    </SpellID>
+    <SpellID id="1745480399">
+      <Spell>Porcupine II</Spell>
+    </SpellID>
+    <SpellID id="977223010">
+      <Spell>Porcupine III</Spell>
+    </SpellID>
+    <SpellID id="1019141819">
+      <Spell>Porcupine IV</Spell>
+    </SpellID>
+    <SpellID id="64748398">
+      <Spell>Premonition</Spell>
+    </SpellID>
+    <SpellID id="3056957686">
+      <Spell>Premonition II</Spell>
+    </SpellID>
+    <SpellID id="444278822">
+      <Spell>Premonition III</Spell>
+    </SpellID>
+    <SpellID id="2057500355">
+      <Spell>Premonition IV</Spell>
+    </SpellID>
+    <SpellID id="1663008317">
+      <Spell>Premonition V</Spell>
+    </SpellID>
+    <SpellID id="99462521">
+      <Spell>Premonition VI</Spell>
+    </SpellID>
+    <SpellID id="1400445327">
+      <Spell>Premonition VII</Spell>
+    </SpellID>
+    <SpellID id="3463903481">
+      <Spell>Premonition VIII</Spell>
+    </SpellID>
+    <SpellID id="3371933150">
+      <Spell>Primeval Awakening</Spell>
+    </SpellID>
+    <SpellID id="2059458919">
+      <Spell>Radiance</Spell>
+    </SpellID>
+    <SpellID id="1477218420">
+      <Spell>Rapidity</Spell>
+    </SpellID>
+    <SpellID id="9117198">
+      <Spell>Rapidity II</Spell>
+    </SpellID>
+    <SpellID id="3081359513">
+      <Spell>Rapidity III</Spell>
+    </SpellID>
+    <SpellID id="1811382865">
+      <Spell>Rapidity IV</Spell>
+    </SpellID>
+    <SpellID id="2229994418">
+      <Spell>Reckless Aide</Spell>
+    </SpellID>
+    <SpellID id="759160778">
+      <Spell>Reckless Aide II</Spell>
+    </SpellID>
+    <SpellID id="4268098652">
+      <Spell>Reckless Aide III</Spell>
+    </SpellID>
+    <SpellID id="761844627">
+      <Spell>Reckless Aide IV</Spell>
+    </SpellID>
+    <SpellID id="1252901005">
+      <Spell>Redemption</Spell>
+    </SpellID>
+    <SpellID id="2773745123">
+      <Spell>Redemption II</Spell>
+    </SpellID>
+    <SpellID id="2611307269">
+      <Spell>Redemption III</Spell>
+    </SpellID>
+    <SpellID id="1007543134">
+      <Spell>Redemption IV</Spell>
+    </SpellID>
+    <SpellID id="1479991338">
+      <Spell>Redemption V</Spell>
+    </SpellID>
+    <SpellID id="3341174343">
+      <Spell>Regrowth</Spell>
+    </SpellID>
+    <SpellID id="1069989296">
+      <Spell>Regrowth II</Spell>
+    </SpellID>
+    <SpellID id="3150960155">
+      <Spell>Regrowth III</Spell>
+    </SpellID>
+    <SpellID id="791522586">
+      <Spell>Regrowth IV</Spell>
+    </SpellID>
+    <SpellID id="3643277861">
+      <Spell>Regrowth V</Spell>
+    </SpellID>
+    <SpellID id="2624085369">
+      <Spell>Regrowth VI</Spell>
+    </SpellID>
+    <SpellID id="2460326851">
+      <Spell>Regrowth VII</Spell>
+    </SpellID>
+    <SpellID id="2873747467">
+      <Spell>Regrowth VIII</Spell>
+    </SpellID>
+    <SpellID id="3274438181">
+      <Spell>Rejuvenation</Spell>
+    </SpellID>
+    <SpellID id="3408448735">
+      <Spell>Rejuvenation II</Spell>
+    </SpellID>
+    <SpellID id="2232343269">
+      <Spell>Rejuvenation III</Spell>
+    </SpellID>
+    <SpellID id="3145543790">
+      <Spell>Rejuvenation IV</Spell>
+    </SpellID>
+    <SpellID id="1305079326">
+      <Spell>Rejuvenation IX</Spell>
+    </SpellID>
+    <SpellID id="2490559713">
+      <Spell>Rejuvenation V</Spell>
+    </SpellID>
+    <SpellID id="916924469">
+      <Spell>Rejuvenation VI</Spell>
+    </SpellID>
+    <SpellID id="3537124650">
+      <Spell>Rejuvenation VII</Spell>
+    </SpellID>
+    <SpellID id="423701891">
+      <Spell>Rejuvenation VIII</Spell>
+    </SpellID>
+    <SpellID id="4096931318">
+      <Spell>Rejuvenation X</Spell>
+    </SpellID>
+    <SpellID id="812510470">
+      <Spell>Repent</Spell>
+    </SpellID>
+    <SpellID id="655817029">
+      <Spell>Repent II</Spell>
+    </SpellID>
+    <SpellID id="4071715749">
+      <Spell>Resolute Faith</Spell>
+    </SpellID>
+    <SpellID id="591564459">
+      <Spell>Resolute Faith II</Spell>
+    </SpellID>
+    <SpellID id="2988348820">
+      <Spell>Resolute Faith III</Spell>
+    </SpellID>
+    <SpellID id="1119521305">
+      <Spell>Resolute Faith IV</Spell>
+    </SpellID>
+    <SpellID id="4128489925">
+      <Spell>Restoration</Spell>
+    </SpellID>
+    <SpellID id="3993156297">
+      <Spell>Restoration II</Spell>
+    </SpellID>
+    <SpellID id="3375721743">
+      <Spell>Restoration III</Spell>
+    </SpellID>
+    <SpellID id="3340399949">
+      <Spell>Restoration IV</Spell>
+    </SpellID>
+    <SpellID id="1057106300">
+      <Spell>Restoration IX</Spell>
+    </SpellID>
+    <SpellID id="2536189314">
+      <Spell>Restoration V</Spell>
+    </SpellID>
+    <SpellID id="1668131513">
+      <Spell>Restoration VI</Spell>
+    </SpellID>
+    <SpellID id="3553854409">
+      <Spell>Restoration VII</Spell>
+    </SpellID>
+    <SpellID id="2718812170">
+      <Spell>Restoration VIII</Spell>
+    </SpellID>
+    <SpellID id="2202530924">
+      <Spell>Resurrect</Spell>
+    </SpellID>
+    <SpellID id="3329267101">
+      <Spell>Reverence</Spell>
+    </SpellID>
+    <SpellID id="403740096">
+      <Spell>Revivication</Spell>
+    </SpellID>
+    <SpellID id="2385577370">
+      <Spell>Ritual Healing</Spell>
+    </SpellID>
+    <SpellID id="1980933536">
+      <Spell>Ritual Healing II</Spell>
+    </SpellID>
+    <SpellID id="4120970950">
+      <Spell>Ritual Healing III</Spell>
+    </SpellID>
+    <SpellID id="4160279742">
+      <Spell>Ritual Healing IV</Spell>
+    </SpellID>
+    <SpellID id="2665512940">
+      <Spell>Ritual Healing IX</Spell>
+    </SpellID>
+    <SpellID id="1678922074">
+      <Spell>Ritual Healing V</Spell>
+    </SpellID>
+    <SpellID id="742510228">
+      <Spell>Ritual Healing VI</Spell>
+    </SpellID>
+    <SpellID id="3754198906">
+      <Spell>Ritual Healing VII</Spell>
+    </SpellID>
+    <SpellID id="424064175">
+      <Spell>Ritual Healing VIII</Spell>
+    </SpellID>
+    <SpellID id="1152953154">
+      <Spell>Ro's Blade</Spell>
+    </SpellID>
+    <SpellID id="2335795735">
+      <Spell>Ro's Blade II</Spell>
+    </SpellID>
+    <SpellID id="169417704">
+      <Spell>Ro's Blade III</Spell>
+    </SpellID>
+    <SpellID id="3493415812">
+      <Spell>Ro's Blade IV</Spell>
+    </SpellID>
+    <SpellID id="1277302037">
+      <Spell>Ro's Blade V</Spell>
+    </SpellID>
+    <SpellID id="2749142665">
+      <Spell>Ro's Blade VI</Spell>
+    </SpellID>
+    <SpellID id="3511159288">
+      <Spell>Ro's Blade VII</Spell>
+    </SpellID>
+    <SpellID id="3623335613">
+      <Spell>Sacrifice</Spell>
+    </SpellID>
+    <SpellID id="589856008">
+      <Spell>Sacrificial Restoration</Spell>
+    </SpellID>
+    <SpellID id="3547336263">
+      <Spell>Sacrificial Restoration II</Spell>
+    </SpellID>
+    <SpellID id="2609951372">
+      <Spell>Sacrificial Restoration III</Spell>
+    </SpellID>
+    <SpellID id="1817814869">
+      <Spell>Sacrificial Restoration IV</Spell>
+    </SpellID>
+    <SpellID id="51554718">
+      <Spell>Sacrificial Restoration IX</Spell>
+    </SpellID>
+    <SpellID id="3291929854">
+      <Spell>Sacrificial Restoration V</Spell>
+    </SpellID>
+    <SpellID id="4222340933">
+      <Spell>Sacrificial Restoration VI</Spell>
+    </SpellID>
+    <SpellID id="1776638355">
+      <Spell>Sacrificial Restoration VII</Spell>
+    </SpellID>
+    <SpellID id="3826192137">
+      <Spell>Sacrificial Restoration VIII</Spell>
+    </SpellID>
+    <SpellID id="459388837">
+      <Spell>Sentinel II</Spell>
+    </SpellID>
+    <SpellID id="394791571">
+      <Spell>Sentinel III</Spell>
+    </SpellID>
+    <SpellID id="2646868696">
+      <Spell>Sentinel IV</Spell>
+    </SpellID>
+    <SpellID id="237735835">
+      <Spell>Sever Hate</Spell>
+    </SpellID>
+    <SpellID id="3814592930">
+      <Spell>Shard of Essence</Spell>
+    </SpellID>
+    <SpellID id="285176763">
+      <Spell>Shoulder the Burden</Spell>
+    </SpellID>
+    <SpellID id="4293827309">
+      <Spell>Shroud of Bertoxxulous</Spell>
+    </SpellID>
+    <SpellID id="4130221467">
+      <Spell>Shroud of Bertoxxulous II</Spell>
+    </SpellID>
+    <SpellID id="87067240">
+      <Spell>Shroud of Bertoxxulous III</Spell>
+    </SpellID>
+    <SpellID id="542411599">
+      <Spell>Shroud of Bertoxxulous IV</Spell>
+    </SpellID>
+    <SpellID id="2063222378">
+      <Spell>Shroud of Bertoxxulous V</Spell>
+    </SpellID>
+    <SpellID id="2560698741">
+      <Spell>Shroud of Bertoxxulous VI</Spell>
+    </SpellID>
+    <SpellID id="699446630">
+      <Spell>Shrug Off</Spell>
+    </SpellID>
+    <SpellID id="44714223">
+      <Spell>Shrug Off II</Spell>
+    </SpellID>
+    <SpellID id="1767335325">
+      <Spell>Shrug Off III</Spell>
+    </SpellID>
+    <SpellID id="2029225881">
+      <Spell>Shrug Off IV</Spell>
+    </SpellID>
+    <SpellID id="1009471530">
+      <Spell>Signet of Intellect</Spell>
+    </SpellID>
+    <SpellID id="602613284">
+      <Spell>Signet of Intellect II</Spell>
+    </SpellID>
+    <SpellID id="1389421614">
+      <Spell>Signet of Intellect III</Spell>
+    </SpellID>
+    <SpellID id="341745051">
+      <Spell>Signet of Intellect IV</Spell>
+    </SpellID>
+    <SpellID id="1117595484">
+      <Spell>Signet of Intellect V</Spell>
+    </SpellID>
+    <SpellID id="375405750">
+      <Spell>Signet of Intellect VI</Spell>
+    </SpellID>
+    <SpellID id="3405391094">
+      <Spell>Signet of Intellect VII</Spell>
+    </SpellID>
+    <SpellID id="2737608260">
+      <Spell>Sleight of Hand</Spell>
+    </SpellID>
+    <SpellID id="1283334309">
+      <Spell>Sleight of Hand II</Spell>
+    </SpellID>
+    <SpellID id="982097426">
+      <Spell>Soak Hit</Spell>
+    </SpellID>
+    <SpellID id="1073502077">
+      <Spell>Sonic Barrier</Spell>
+    </SpellID>
+    <SpellID id="1432010721">
+      <Spell>Spellshield</Spell>
+    </SpellID>
+    <SpellID id="1698192591">
+      <Spell>Spirit of the Bat</Spell>
+    </SpellID>
+    <SpellID id="144021401">
+      <Spell>Spirit of the Bat II</Spell>
+    </SpellID>
+    <SpellID id="589856662">
+      <Spell>Spirit of the Bat III</Spell>
+    </SpellID>
+    <SpellID id="3189951061">
+      <Spell>Spirit of the Bat IV</Spell>
+    </SpellID>
+    <SpellID id="3678794003">
+      <Spell>Spirit of the Bat V</Spell>
+    </SpellID>
+    <SpellID id="133282909">
+      <Spell>Supplication of the Fallen</Spell>
+    </SpellID>
+    <SpellID id="4277398471">
+      <Spell>Swarthy Deception</Spell>
+    </SpellID>
+    <SpellID id="1982111103">
+      <Spell>Swarthy Deception II</Spell>
+    </SpellID>
+    <SpellID id="4076332660">
+      <Spell>Swarthy Deception III</Spell>
+    </SpellID>
+    <SpellID id="1064363633">
+      <Spell>Swarthy Deception IV</Spell>
+    </SpellID>
+    <SpellID id="972042084">
+      <Spell>Sylvan Bloom</Spell>
+    </SpellID>
+    <SpellID id="1205207997">
+      <Spell>Sylvan Bloom II</Spell>
+    </SpellID>
+    <SpellID id="1317653653">
+      <Spell>Sylvan Bloom III</Spell>
+    </SpellID>
+    <SpellID id="2689295207">
+      <Spell>Sylvan Bloom IV</Spell>
+    </SpellID>
+    <SpellID id="575841634">
+      <Spell>Sylvan Bloom IX</Spell>
+    </SpellID>
+    <SpellID id="1555095324">
+      <Spell>Sylvan Bloom V</Spell>
+    </SpellID>
+    <SpellID id="2994512655">
+      <Spell>Sylvan Bloom VI</Spell>
+    </SpellID>
+    <SpellID id="2046615093">
+      <Spell>Sylvan Bloom VII</Spell>
+    </SpellID>
+    <SpellID id="1994024703">
+      <Spell>Sylvan Bloom VIII</Spell>
+    </SpellID>
+    <SpellID id="2611576458">
+      <Spell>Sylvan Bloom X</Spell>
+    </SpellID>
+    <SpellID id="1615517329">
+      <Spell>Sylvan Touch</Spell>
+    </SpellID>
+    <SpellID id="2005616945">
+      <Spell>Synergism</Spell>
+    </SpellID>
+    <SpellID id="2337256011">
+      <Spell>Synergism II</Spell>
+    </SpellID>
+    <SpellID id="4158816328">
+      <Spell>Synergism III</Spell>
+    </SpellID>
+    <SpellID id="3073128528">
+      <Spell>Synergism IV</Spell>
+    </SpellID>
+    <SpellID id="4133918997">
+      <Spell>Synergism V</Spell>
+    </SpellID>
+    <SpellID id="1841550714">
+      <Spell>Synergism VI</Spell>
+    </SpellID>
+    <SpellID id="745921444">
+      <Spell>Tenacity</Spell>
+    </SpellID>
+    <SpellID id="4234438373">
+      <Spell>Tenacity II</Spell>
+    </SpellID>
+    <SpellID id="3002372253">
+      <Spell>Tenacity III</Spell>
+    </SpellID>
+    <SpellID id="2486721636">
+      <Spell>Tenacity IV</Spell>
+    </SpellID>
+    <SpellID id="1546906825">
+      <Spell>Tenacity V</Spell>
+    </SpellID>
+    <SpellID id="1487590821">
+      <Spell>Tenacity VI</Spell>
+    </SpellID>
+    <SpellID id="3411157347">
+      <Spell>Tenacity VII</Spell>
+    </SpellID>
+    <SpellID id="182255267">
+      <Spell>Tenacity VIII</Spell>
+    </SpellID>
+    <SpellID id="3258249298">
+      <Spell>Thieves Guild</Spell>
+    </SpellID>
+    <SpellID id="2368970071">
+      <Spell>Thorncoat</Spell>
+    </SpellID>
+    <SpellID id="1281318966">
+      <Spell>Thorncoat II</Spell>
+    </SpellID>
+    <SpellID id="4045512752">
+      <Spell>Thorncoat III</Spell>
+    </SpellID>
+    <SpellID id="2986280772">
+      <Spell>Thorncoat IV</Spell>
+    </SpellID>
+    <SpellID id="3651018817">
+      <Spell>Thorncoat V</Spell>
+    </SpellID>
+    <SpellID id="3846148380">
+      <Spell>Thorncoat VI</Spell>
+    </SpellID>
+    <SpellID id="119122066">
+      <Spell>Thorncoat VII</Spell>
+    </SpellID>
+    <SpellID id="912690669">
+      <Spell>Thorncoat VIII</Spell>
+    </SpellID>
+    <SpellID id="2061537244">
+      <Spell>Thornskin</Spell>
+    </SpellID>
+    <SpellID id="2192321105">
+      <Spell>Thornskin II</Spell>
+    </SpellID>
+    <SpellID id="1549013162">
+      <Spell>Thornskin III</Spell>
+    </SpellID>
+    <SpellID id="3619305200">
+      <Spell>Thornskin IV</Spell>
+    </SpellID>
+    <SpellID id="652266626">
+      <Spell>Thornskin V</Spell>
+    </SpellID>
+    <SpellID id="1250749548">
+      <Spell>Thornskin VI</Spell>
+    </SpellID>
+    <SpellID id="912890459">
+      <Spell>Thornskin VII</Spell>
+    </SpellID>
+    <SpellID id="3373818158">
+      <Spell>Thornskin VIII</Spell>
+    </SpellID>
+    <SpellID id="2304840099">
+      <Spell>Time Compression</Spell>
+    </SpellID>
+    <SpellID id="3020295062">
+      <Spell>Time Warp</Spell>
+    </SpellID>
+    <SpellID id="902524875">
+      <Spell>Torpor</Spell>
+    </SpellID>
+    <SpellID id="2039140121">
+      <Spell>Torpor II</Spell>
+    </SpellID>
+    <SpellID id="2258735073">
+      <Spell>Torpor III</Spell>
+    </SpellID>
+    <SpellID id="2447023010">
+      <Spell>Torpor IV</Spell>
+    </SpellID>
+    <SpellID id="2421103160">
+      <Spell>Touch of Empathy</Spell>
+    </SpellID>
+    <SpellID id="544354214">
+      <Spell>Tranquil Vision</Spell>
+    </SpellID>
+    <SpellID id="3579756463">
+      <Spell>Tranquil Vision II</Spell>
+    </SpellID>
+    <SpellID id="708077976">
+      <Spell>Tranquil Vision III</Spell>
+    </SpellID>
+    <SpellID id="238703741">
+      <Spell>Tranquil Vision IV</Spell>
+    </SpellID>
+    <SpellID id="1325608915">
+      <Spell>Tranquility</Spell>
+    </SpellID>
+    <SpellID id="1059038020">
+      <Spell>Tranquility II</Spell>
+    </SpellID>
+    <SpellID id="3283360301">
+      <Spell>Tranquility III</Spell>
+    </SpellID>
+    <SpellID id="3450843944">
+      <Spell>Transfer Life</Spell>
+    </SpellID>
+    <SpellID id="1042106285">
+      <Spell>Transfer Life II</Spell>
+    </SpellID>
+    <SpellID id="214045967">
+      <Spell>Transfer Life III</Spell>
+    </SpellID>
+    <SpellID id="1244024435">
+      <Spell>Transfer Life IV</Spell>
+    </SpellID>
+    <SpellID id="487128566">
+      <Spell>Transfer Life V</Spell>
+    </SpellID>
+    <SpellID id="3009440871">
+      <Spell>Transfer Life VI</Spell>
+    </SpellID>
+    <SpellID id="1693136731">
+      <Spell>Unholy Blessing</Spell>
+    </SpellID>
+    <SpellID id="2829832338">
+      <Spell>Unholy Blessing II</Spell>
+    </SpellID>
+    <SpellID id="199101013">
+      <Spell>Unholy Blessing III</Spell>
+    </SpellID>
+    <SpellID id="750326434">
+      <Spell>Unholy Blessing IV</Spell>
+    </SpellID>
+    <SpellID id="4009986594">
+      <Spell>Unholy Blessing V</Spell>
+    </SpellID>
+    <SpellID id="4057210147">
+      <Spell>Unholy Blessing VI</Spell>
+    </SpellID>
+    <SpellID id="1989277570">
+      <Spell>Unholy Blessing VII</Spell>
+    </SpellID>
+    <SpellID id="2079430997">
+      <Spell>Upbeat Tempo</Spell>
+    </SpellID>
+    <SpellID id="4248972491">
+      <Spell>Vampirism</Spell>
+    </SpellID>
+    <SpellID id="1726439588">
+      <Spell>Vampirism II</Spell>
+    </SpellID>
+    <SpellID id="3216920474">
+      <Spell>Velocity</Spell>
+    </SpellID>
+    <SpellID id="3149463382">
+      <Spell>Velocity II</Spell>
+    </SpellID>
+    <SpellID id="1782122432">
+      <Spell>Velocity III</Spell>
+    </SpellID>
+    <SpellID id="435131742">
+      <Spell>Velocity IV</Spell>
+    </SpellID>
+    <SpellID id="153147335">
+      <Spell>Vital Intercession</Spell>
+    </SpellID>
+    <SpellID id="995249343">
+      <Spell>Vital Intercession II</Spell>
+    </SpellID>
+    <SpellID id="1899956381">
+      <Spell>Vital Intercession III</Spell>
+    </SpellID>
+    <SpellID id="2205405453">
+      <Spell>Vital Intercession IV</Spell>
+    </SpellID>
+    <SpellID id="125769492">
+      <Spell>Vital Intercession V</Spell>
+    </SpellID>
+    <SpellID id="236122270">
+      <Spell>Vital Intercession VI</Spell>
+    </SpellID>
+    <SpellID id="2819125823">
+      <Spell>Vital Intercession VII</Spell>
+    </SpellID>
+    <SpellID id="3827170577">
+      <Spell>Vital Intercession VIII</Spell>
+    </SpellID>
+    <SpellID id="758673695">
+      <Spell>Vivication</Spell>
+    </SpellID>
+    <SpellID id="3933688258">
+      <Spell>Wild Accretion</Spell>
+    </SpellID>
+    <SpellID id="898287052">
+      <Spell>Wild Accretion II</Spell>
+    </SpellID>
+    <SpellID id="2933625426">
+      <Spell>Wild Accretion III</Spell>
+    </SpellID>
+    <SpellID id="2780797537">
+      <Spell>Wild Accretion IV</Spell>
+    </SpellID>
+    <SpellID id="1559312784">
+      <Spell>Wild Accretion V</Spell>
+    </SpellID>
+    <SpellID id="824204141">
+      <Spell>Wild Accretion VI</Spell>
+    </SpellID>
+    <SpellID id="3062272046">
+      <Spell>Wild Accretion VII</Spell>
+    </SpellID>
+  </SpellIDs>
+</QuickRaidButtons>

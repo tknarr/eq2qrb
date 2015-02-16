@@ -1,0 +1,158 @@
+This software is copyright (C) 2013 Todd T Knarr  <tknarr@silverglass.org> <tknarr@cox.net> <todd.knarr@gmail.com>
+It is licesnsed under the terms of the GPL v3 or any later version.
+See the included file gpl-v3.txt for the complete license terms.
+
+Note: to get the InstallShield installer to upgrade correctly, each new release needs to be assigned a new
+product ID and an upgrade path for the old version needs added.
+
+The SpellIDs.txt and SpellLines.txt are CSV files created from Darqwood's spreadsheet, and are pre-loaded into
+the XML files distributed with the installer. The button assignments are pre-loaded with the ProfitUI default
+setup.
+
+Internal documentation:
+
+Classes: one class per game class, organized by archtypes.
+
+Spell lines:
+	Per class
+	Each line has a name, a tooltip and a set of spells
+		Each spell has a name and a level it's acquired at
+	Each line can also have macro entries, which are at level 0 and are literal commands
+	The following substitutions should be allowed:
+			%t, %T : Parent.Target
+			%i, %I : Parent.Target.Target
+		Substitution should occur when writing the UI XML out, so we can use different substitutions depending on output
+	Macros occur before spells
+
+Button assignments:
+	Per class
+	5 buttons, numbered 1-5
+	Each button is assigned a spell line, or is empty
+
+UI code:
+	UICode is the base class for UI code generation.
+		UI file path
+		UI file name
+		Number of buttons the UI supports
+	ProfitUICode handles the details of converting QRBStorage into a ProfitUI-specific UI code file.
+		Sets the button count to 5. Other classes eventually get their button count from this.
+
+Data storage:
+	QRB XML is stored in the application's data folder.
+	Generated UI files are stored in My Documents by default (or should be, but on Win7 it defaults to the public Documents folder instead).
+	If generated UI file folder is changed, location should be remembered.
+Settings:
+	StorageFolder:		Location of the storage file. Defaults to QuickRaidButtons underneath the application data directory.
+	StorageFilename:	Name of the storage file. Defaults to QRBStorage.xml
+	UIFileFolder:		Location of the file the UI code is written to. Defaults to the My Documents folder, may be changed by the user.
+	UIFilename:			Name of the UI code file. Defaults to _ProfitUI_QuickRaidButtons.txt, may be changed by the user.
+	InitialClass:		Initial class the button assignments window starts out on.
+StorageFolder and StorageFilename are set in the application settings for the project and aren't normally changeable by the user.
+UIFileFolder and UIFilename are updated based on the directory and filename selected in the file save dialog when the user generates
+a UI code file. InitialClass starts out at Guardian and is updated based on the class the button assignment screen was on when the
+program exited, so it always starts up on the class the user left off on.
+
+Program flow:
+	Control enters in Program.cs. We create a ProfitUICode object and a ButtonAssignment object and pass control off to the ButtonAssignment.
+	The ButtonAssignment object creates and loads the QRBStorage object and begins displaying button assignments for the initial class.
+		populateButtonAssignments() takes the information about the current class's assignments and populates the form fields with them.
+		Click events on the class selection radio buttons and spell line pull-downs cause the current state to be updated with the
+			values from the form field that triggered the event. The names of the field objects connect the field objects to the
+			corresponding objects in the state collections.
+		Click events on the Save, Revert and Exit buttons trigger the appropriate copying into or out of the permanent state object and,
+			if needed, saving of the permanent state into the storage XML file.
+		The form closing event triggers saving of the permanent state plus saving of the program settings.
+	The Edit Spell Lines button passes control to a SpellLines window to edit spell lines.
+		updateSpellLineData() updates the current state based on the form fields. It takes the class and spell line names from the current state
+			variables, because when this routine gets called we've changed one of those and need to get the data for the old class and spell line,
+			not what's in the form fields.
+		populateSpellLineFields() updates the form fields based on the contents of the current state object.
+		Click actions on the Save, Revert, Cancel and Done buttons trigger updating of the current state from the form or replacing the current
+			state from the permanent state as appropriate. The Revert click also repopulates the form fields (the others either don't change the
+			field contents or the window is closing).
+		Selection change committed actions on the class and spell line name pull-downs trigger updating of the spell line data, changes to the
+			current class and spell line name variables, and repopulating of the spell line fields.
+		Enter actions on the spell textboxes and spinners trigger selecting all the text in the form field so that tabbing through fields
+			behaves as expected, all text is selected and typing replaces the current contents of the field. Entering via mouse-click behaves
+			as expected, the cursor is positioned where you clicked and no text is selected.
+		The New Spell Line button passes control to a NewSpellLine window to enter the name and tooltip of a new spell line.
+	The Generate UI Code button click action passes control to a file save dialog, then if the dialog returned OK uses the UI code object to write out the UI code file.
+
+XML organization:
+
+<QuickRaidButtons>
+
+	<Spells>
+		<SpellClass class="classname">
+			<SpellLine name="linename">
+				<Tooltip>Tooltip text</Tooltip>
+				<Spell>
+					<Level>level</Level>
+					<Text>Text of spell name to cast, or literal command if level is 0</Text>
+					<ID>spellID</ID>
+				</Spell>
+				.
+				.
+				.
+			</SpellLine>	
+			.
+			.
+			.
+		</SpellClass>
+		.
+		.
+		.
+	</Spells>
+
+	<ButtonAssignments>
+		<ButtonClass class="classname">
+			<Button number="number">
+				<SpellLineName>spell line name</SpellLineName>
+			</Button>
+			.
+			.
+			.
+		</ButtonClass>
+		.
+		.
+		.
+	</ButtonAssignments>
+
+	<SpellIDs>
+		<SpellID id="56837298345">
+			<Name>Spell name goes here</Name>
+		</SpellID>
+	</SpellIDs>
+
+</QuickRaidButtons>
+
+Spell ID CSV file:
+    spell ID,spell name
+The spell ID must be numeric and non-zero.
+The spell name must be present.
+
+Spell line CSV file format:
+    class,spell line name,tooltip text,level,spell ID,spell name
+The class may be * to indicate a line that applies to all classes. These spell lines will be applied
+    after the rest of the import is done, and will overwrite/replace spell lines of the same name
+    that may already exist on a class.
+The class may be + to indicate a line that applies to all classes that don't already have it. These
+    act like spell lines for class *, except that they won't overwrite/replace existing spell lines
+    for classes. This is useful for merging new definitions without affecting existing ones.
+Classes * and + will not be used during export, they exist soley for import.
+The class and spell line name must be present.
+The tooltip text may be omitted (field left empty), in which case the spell line name will be used
+    for the tooltip text.
+The spell level must be >= 0. A level of zero indicates a generic command in which case the spell ID
+    field will be ignored. A level >0 indicates an actual spell.
+The spell ID field must be numeric or left empty.
+Either the spell ID or the spell name must be present. If either is omitted, the code will try to
+    populate it using the value of the one that was provided. If both are provided, the list of
+    spell ID/name mappings will be updated to match.
+Only the first occurrence of the tooltip text for a given spell line name is used.
+
+Button assignment CSV file format:
+    class,button number,spell line name
+The class must be present.
+The button number must be numeric and in the range of valid button numbers 1-5.
+The spell line name must be present.

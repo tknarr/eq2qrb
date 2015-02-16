@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Button Assignments</Title>
+</HEAD>
+<BODY>
+
+<H1>Button assignment</H1>
+
+<IMG SRC="ButtonAssignment.png">
+
+<P>
+The general workflow for button assignments is:
+<OL>
+<LI>Use the <a href="SpellLines.htm">Edit Spell Lines button</a> to create your spell lines, or to update any existing ones.</LI>
+<LI>Select the class you want to create assignments for from the block of radio buttons at the top of the window.</LI>
+<LI>Use the pull-down list for each button to select the spell line you want to assign to that button.</LI>
+<LI>Select another class and repeat the process. Repeat for all the classes you need to create assignments for.</LI>
+<LI>Use File|Save to save your work.</LI>
+<LI>Use the <a href="GenerateUICode.htm">Generate UI File button</a> to generate the UI code file.</LI>
+<LI>Use the standard file save dialog to set the folder the UI code file will be written into and the name of the file.</LI>
+<LI>Use File|Exit or close the window to end the program and save your data and settings.</LI>
+</OL>
+</P>
+<P>
+In the pull-down lists, spell lines will be sorted alphabetically. There's a blank entry at the top that when assigned to a
+button makes the button do nothing. By default, all buttons start out with that blank entry assigned to them until you
+change the assignment. Note that after editing spell lines, button assignments will be updated to reflect any deleted
+spell lines. Buttons assigned to a spell line that's been deleted will be assigned the blank entry.
+</P>
+<P>
+The state of button assignments reflected in the window is only the current state. There's a separate persistent state
+corresponding to the saved state on disk. The persistent state is only updated to reflect the current state when you use
+the Save button, when you generate a UI code file, or when you exit the program. You can use the Revert button to
+revert the state of button assignments back to the last saved state. That gives you some measure of control over
+things and gives you the option to undo mistakes to a point.
+</P>
+<P>
+On the File menu, the New and Open selections open a new data file or an existing one. Both selections are capable of
+handling both new files (that currently don't exist on disk) and existing files. Both will start with a blank slate when asked to
+create/open a file that doesn't currently exist. They differ when you select a file that already exists. New will start with a
+blank slate, no spell lines or button assignments present, while Open will read the existing file. Once you've opened a file,
+the program will return to it the next time it's run. The status bar at the bottom of the screen displays the name of the
+currently open file.
+</P>
+<P>
+The File menu Save and Save As... selections save the current data to disk. Save saves the data to the currently-open
+file, while Save As... allows you to select the name of the file to save the data to. Save As... also changes the
+the currently-open file, and you'll return to this file the next time the program is run.
+</P>
+<P>
+The File menu Import and Export selections import and export the button assignments from and to a comma-separated values (CSV)
+file. The form of the lines in the file is:
+<BLOCKQUOTE>
+class,button number,spell line
+</BLOCKQUOTE>
+When importing, the button assignments replace the current assignments for any class mentioned in the imported file.
+Any buttons for those classes that are not assigned a spell line in the imported file will be changed to unassigned. Any
+existing assignments for any classes not mentioned in the file will be left unchanged. When exporting, unassigned
+buttons will not appear in the exported file.
+</P>
+<P>
+The File menu Import Spell Lines and Export Spell Lines selections import spell lines from and export them to a CSV
+file format. The form of the lines in the file is:
+<BLOCKQUOTE>
+class,spell line,tooltip text,level,spell ID,spell name
+</BLOCKQUOTE>
+The class name, spell line, level and either the spell ID or spell name must be filled in. The level must be a non-negative
+number, and the spell ID must either be omitted or be a non-zero number. If only one of the spell ID and spell name are
+filled in, an attempt will be made to fill in the missing value from the map of spell IDs and names. You can import spell
+IDs from the <a href="SpellLines.htm">Edit Spell Lines</a> screen. Importing spell lines modifies the persistent state,
+so the Revert button won't undo an import.
+</P>
+<P>
+Class names of * and + (star and plus sign) are special when importing spell lines. They indicate spell lines that apply to
+all classes. They're applied after the import is finished, and will be added to any class that doesn't have that spell line
+already. The difference is that + indicates the spell line should not disturb an existing line, while * indicates any existing
+line should be replaced by the imported one. Note that the export process won't use these special classes, it includes
+all spell lines explicitly within each class.
+</P>
+<P>
+The File menu Import Spell IDs and Export Spell IDs selections import and export spell names and IDs to a CSV file format. The
+form of the lines in the file is:
+<BLOCKQUOTE>
+spell ID,spell name
+</BLOCKQUOTE>
+Once the import is done, spell lines are checked to attempt to populate any missing spell names and/or IDs based on the
+spell ID data.
+</P>
+<P>
+The Tools menu contains some utility functions. The Clear Data selection clears the contents of the current file, removing all
+spell IDs, spell lines and button assignments and giving you a blank slate. It doesn't change the name of the currently open file,
+so saving at this point will wipe the previous contents of that file out. The Reset to Defaults selection reverts the program's
+settings to the default values after installation. This resets the initial class, storage filename and the import/export and
+UI file generation folders. If the default storage file exists it's contents will be read in, otherwise a blank configuration will
+be created. This would primarily be useful if you've saved your configuration into a non-default location and have forgotten
+how to locate the default file again.
+</P>
+<P>
+The Tools menu Merge New Spells selection is most commonly used when the level cap increases and upgraded spells are
+added to existing spell lines. It uses the same CSV file format as is used for importing and exporting spell lines, but where the
+import spell lines function replaces existing spell lines with their new information and spell list, the merge function adds
+new spells to spell lines that already exist. The tooltip text is ignored, and if the spell name is already in that line's spell
+list that line of the CSV file is ignored entirely. If a spell line doesn't already exist a new blank one is added and the new
+spell merged into it.
+</P>
+
+<H1>Transferring configuration information</H1>
+
+<P>
+If you want to save a configuration off to send to someone else, there are two options: the XML storage file, or importable
+CSV files. Sending the XML storage file would be the best way if you wanted them to be able to read in your complete configuration
+verbatim and work from that. Importable CSV files would be the best way to send a configuration, or part of a configuration, that
+they could add to their existing work. For instance, if you've created spell lines beyond Profit's defaults, you can export your spell
+lines to a CSV file and send that. When the recipient imports your spell lines they'll be merged with their existing lines and the
+spell ID database updated with any spells you've added (if you filled spell ID information in). If you've filled in spell ID information
+then the spell line CSV file is the only thing you'd normally need to send, since it contains the spell IDs and they'll automatically be
+added at the other end as the spell lines are imported. If you wanted to send button assignments for just certain classes, as opposed
+to all assignments, you could export your assignments to a CSV file, edit it down to just the classes in question, and send that. You'd
+normally also want to send the spell line CSV file too, so they had the spell line information corresponding to your button assignments.
+</P>
+<P>
+The import and export spell IDs functions aren't used much. The import function's mostly there as a way for me to get new spell ID
+information in when the level cap increases and upgraded spells are added. The export function's there mostly for backups and because
+it was easy to implement, but can be useful when upgrading from earlier versions that didn't include spell IDs.
+</P>
+
+</BODY>
+</HTML>

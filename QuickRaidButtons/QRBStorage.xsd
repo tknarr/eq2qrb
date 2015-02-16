@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QRBStorage"
+    targetNamespace="http://xsd.silverglass.org/QuickRaidButtons/QRBStorage.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://xsd.silverglass.org/QuickRaidButtons/QRBStorage.xsd"
+    xmlns:qrb="http://xsd.silverglass.org/QuickRaidButtons/QRBStorage.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:complexType name="SpellIDType">
+        <xs:sequence>
+            <xs:element name="Spell" type="xs:string" minOccurs="1" maxOccurs="1" />
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required" />
+    </xs:complexType>
+
+    <xs:complexType name="SpellIDsType">
+        <xs:sequence>
+            <xs:element name="SpellID" type="SpellIDType" minOccurs="0" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="IDType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="DFCheck" type="xs:boolean" default="false" />
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <xs:complexType name="SpellType">
+        <xs:sequence>
+            <xs:element name="Level" type="xs:nonNegativeInteger" minOccurs="1" maxOccurs="1" />
+            <xs:element name="Text" type ="xs:string" minOccurs="1" maxOccurs="1" />
+            <xs:element name="ID" type="IDType" minOccurs="0" maxOccurs="1" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="SpellLineType">
+        <xs:sequence>
+            <xs:element name="ToolTip" type="xs:string" minOccurs="0" maxOccurs="1" />
+            <xs:element name="Spell" type="SpellType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="name" type="xs:string" use="required" />
+    </xs:complexType>
+
+    <xs:complexType name="SpellClassType">
+        <xs:sequence>
+            <xs:element name="SpellLine" type="SpellLineType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="class" type="xs:string" use="required" />
+    </xs:complexType>
+
+    <xs:complexType name="SpellsType">
+        <xs:sequence>
+            <xs:element name="SpellClass" type="SpellClassType" minOccurs="0" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="ButtonNumberType">
+        <xs:restriction base="xs:positiveInteger">
+            <xs:minInclusive value="1" />
+            <xs:maxInclusive value="5" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="ButtonType">
+        <xs:sequence>
+            <xs:element name="SpellLineName" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="number" type="ButtonNumberType" use="required" />
+    </xs:complexType>
+
+    <xs:complexType name="ButtonClassType">
+        <xs:sequence>
+            <xs:element name="Button" type="ButtonType" minOccurs="0" maxOccurs="5" />
+        </xs:sequence>
+        <xs:attribute name="class" type="xs:string" use="required" />
+    </xs:complexType>
+
+    <xs:complexType name="ButtonAssignmentsType">
+        <xs:sequence>
+            <xs:element name="ButtonClass" type="ButtonClassType" minOccurs="0" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="QuickRaidButtonsType">
+        <xs:sequence>
+            <xs:element name="Spells" type="SpellsType" minOccurs="0" maxOccurs="1" />
+            <xs:element name="ButtonAssignments" type="ButtonAssignmentsType" minOccurs="0" maxOccurs="1" />
+            <xs:element name="SpellIDs" type="SpellIDsType" minOccurs="0" maxOccurs="1" />
+        </xs:sequence>
+        <xs:attribute name="version" type="xs:string" />
+    </xs:complexType>
+
+    <xs:element name="QuickRaidButtons" type="QuickRaidButtonsType" />
+
+</xs:schema>
